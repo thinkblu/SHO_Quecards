@@ -1,4 +1,4 @@
-# SHO Quecards — Kad Cabut Akta 514
+# SHO Quecards — Cue Cards Akta 514
 
 Random cue cards for studying the **Akta Keselamatan dan Kesihatan Pekerjaan 1994 (Akta 514)**, as at the reprint of 1 June 2024 (after Akta A1648).
 
