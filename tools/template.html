@@ -314,9 +314,11 @@ function render() {
     </div>
     <div class="body">
       <section class="cover${hideG ? " hidden-ans" : ""}">
-        ${hideG ? veil("gist", "Ketuk untuk intipati") : ""}
+        ${hideG ? veil("gist", "Ketuk untuk intipati & contoh") : ""}
         <p class="label">Intipati</p>
         <p class="gist">${esc(c.cleanGist)}</p>
+        <p class="label ex">Contoh</p>
+        <p class="example">${esc(c.ex)}</p>
       </section>
       <section class="cover${hideV ? " hidden-ans" : ""}">
         ${hideV ? veil("verb", "Ketuk untuk teks Akta") : ""}

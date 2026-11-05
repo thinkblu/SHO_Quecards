@@ -10,7 +10,8 @@ Each card shows:
 
 1. **Seksyen number** (e.g. `s.18A(3)(b)`), its Bahagian and section title
 2. **Intipati** — the gist in plain Bahasa Melayu
-3. **Teks Akta** — the verbatim text of that subsection/paragraph
+3. **Contoh** — a short workplace example
+4. **Teks Akta** — the verbatim text of that subsection/paragraph
 
 264 cards cover every subsection from s.1 to s.67B, plus Jadual Pertama–Kelima.
 
@@ -32,7 +33,7 @@ Open `index.html` in any browser (no install, no server). To host it, enable Git
 
 ## Data
 
-- `data/cards.json` — the cards (`ref`, `sec`, `title`, `p` = Bahagian, `gist`, `verbatim[]`)
+- `data/cards.json` — the cards (`ref`, `sec`, `title`, `p` = Bahagian, `gist`, `ex` example, `verbatim[]`)
 - `data/parts.json` — Bahagian names
 - `data/acronyms.json` — acronyms (`a` acronym, `m` meaning, `x` short explanation, `e` example, `s` source, `g` letter group)
 - `tools/assemble.py` — rebuilds `index.html` from the template and the data
