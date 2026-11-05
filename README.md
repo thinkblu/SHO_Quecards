@@ -27,9 +27,8 @@ Open `index.html` in any browser (no install, no server). To host it, enable Git
 - **← →** or swipe to go back/forward
 - Filter by Bahagian, or **2024 sahaja** for sections added/amended by Akta A1648
 - **Mod kuiz** (K) hides the gist and text until tapped
-- **★** (S) marks a card as memorised; **Belum hafal** shows only the rest (saved in your browser)
 - **Lompat ke** jumps to a section (e.g. `18A`, `48(2)`) or an acronym (e.g. `HIRARC`)
-- Switch decks with the buttons at the top (or D); each deck keeps its own ★ and progress
+- Switch decks with the buttons at the top (or D); each deck keeps its own progress
 
 ## Data
 

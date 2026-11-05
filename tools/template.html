@@ -85,8 +85,6 @@ h1 { font-family: var(--f-display); font-weight: 400; font-size: clamp(1.4rem, 4
 .title { font-weight: 700; font-size: 1.05rem; margin: 0 0 12px; text-wrap: balance; max-width: 40ch; }
 .tags { display: flex; gap: 6px; flex-wrap: wrap; }
 .tag { font-weight: 700; font-size: .72rem; letter-spacing: .06em; text-transform: uppercase; padding: 3px 8px; border-radius: 6px; border: 2px solid var(--hue-ink); background: rgba(255,255,255,.88); color: #1C1830; }
-.star { flex: none; width: 44px; height: 44px; border-radius: 50%; border: 2.5px solid var(--hue-ink); background: rgba(255,255,255,.35); color: var(--hue-ink); cursor: pointer; display: grid; place-items: center; font-size: 1.35rem; line-height: 1; transition: transform .15s; }
-.star[aria-pressed="true"] { background: var(--hue-ink); color: var(--hue); transform: rotate(-12deg) scale(1.06); }
 
 .body { padding: 22px 22px 24px; display: flex; flex-direction: column; gap: 18px; }
 .label { font-weight: 700; font-size: .74rem; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-soft); margin: 0 0 6px; display: flex; align-items: center; gap: 8px; }
@@ -165,7 +163,6 @@ h1 { font-family: var(--f-display); font-weight: 400; font-size: clamp(1.4rem, 4
     </div>
     <div class="stats">
       <span class="stat" id="stSeen">0 / 0 dilihat</span>
-      <span class="stat" id="stStar">★ 0 hafal</span>
     </div>
   </header>
 
@@ -188,14 +185,13 @@ h1 { font-family: var(--f-display); font-weight: 400; font-size: clamp(1.4rem, 4
     <div class="toggles">
       <button class="tgl" id="quiz" aria-pressed="false">🙈 Mod kuiz</button>
       <button class="tgl" id="onlyNew" aria-pressed="false">2024 sahaja</button>
-      <button class="tgl" id="onlyTodo" aria-pressed="false">Belum hafal</button>
     </div>
     <form class="jump" id="jumpForm">
       <label for="jumpIn">Lompat ke</label>
       <input id="jumpIn" placeholder="cth. 18A" autocomplete="off">
     </form>
   </div>
-  <p class="hint">Papan kekunci: Space = cabut · ← → = undur/maju · K = kuiz · S = hafal · D = tukar dek. Leret kad di telefon.</p>
+  <p class="hint">Papan kekunci: Space = cabut · ← → = undur/maju · K = kuiz · D = tukar dek. Leret kad di telefon.</p>
 </div>
 <div class="toast" id="toast" role="status"></div>
 
@@ -232,12 +228,12 @@ const store = {
   set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
 };
 function mkState(key) {
-  return { key, starred: new Set(store.get(key + "-star", [])), seen: new Set(), groups: new Set(store.get(key + "-parts", [])), srcs: new Set(store.get(key + "-srcs", [])), deck: [], history: [], hpos: -1 };
+  return { key, seen: new Set(), groups: new Set(store.get(key + "-parts", [])), srcs: new Set(store.get(key + "-srcs", [])), deck: [], history: [], hpos: -1 };
 }
 const STATE = { akta: mkState("a514"), akr: mkState("akr") };
 let mode = store.get("cc-mode", "akta"); if (!STATE[mode]) mode = "akta";
 let quiz = store.get("a514-quiz", false);
-let onlyNew = false, onlyTodo = false;
+let onlyNew = false;
 let revealed = { gist: false, verb: false };
 const S = () => STATE[mode];
 const LIST = () => mode === "akta" ? CARDS : ACRO;
@@ -248,8 +244,8 @@ const cardEl = $("card");
 function pool() {
   const st = S();
   if (mode === "akta")
-    return CARDS.filter(c => (st.groups.size === 0 || st.groups.has(c.p)) && (!onlyNew || c.isNew || c.isAmend) && (!onlyTodo || !st.starred.has(c.i)));
-  return ACRO.filter(c => (st.groups.size === 0 || st.groups.has(c.g)) && (st.srcs.size === 0 || [...st.srcs].some(x => c.src.has(x))) && (!onlyTodo || !st.starred.has(c.i)));
+    return CARDS.filter(c => (st.groups.size === 0 || st.groups.has(c.p)) && (!onlyNew || c.isNew || c.isAmend));
+  return ACRO.filter(c => (st.groups.size === 0 || st.groups.has(c.g)) && (st.srcs.size === 0 || [...st.srcs].some(x => c.src.has(x))));
 }
 function reshuffle() {
   const st = S();
@@ -288,7 +284,7 @@ function render() {
   if (idx === undefined) {
     document.documentElement.style.setProperty("--hue", "#FFC72C");
     document.documentElement.style.setProperty("--hue-ink", "#1C1830");
-    cardEl.innerHTML = `<div class="empty">Tiada kad untuk tapisan ini.<br>Cuba buka tapisan lain atau matikan "Belum hafal".</div>`;
+    cardEl.innerHTML = `<div class="empty">Tiada kad untuk tapisan ini.<br>Cuba buka tapisan lain.</div>`;
     updateStats(); return;
   }
   const hideG = quiz && !revealed.gist, hideV = quiz && !revealed.verb;
@@ -306,7 +302,6 @@ function render() {
     <div class="top">
       <div class="toprow">
         <div class="part">${esc(partLabel)}</div>
-        <button class="star" id="starBtn" aria-pressed="${st.starred.has(c.i)}" aria-label="Tanda sudah hafal" title="Tanda sudah hafal (S)">★</button>
       </div>
       <div class="ref">${refHTML(c)}</div>
       <p class="title">${esc(c.title)}</p>
@@ -337,7 +332,6 @@ function render() {
     <div class="top">
       <div class="toprow">
         <div class="part">Akronim SHO · ${esc(c.g)}</div>
-        <button class="star" id="starBtn" aria-pressed="${st.starred.has(c.i)}" aria-label="Tanda sudah hafal" title="Tanda sudah hafal (S)">★</button>
       </div>
       <div class="ref acr${c.a.length > 10 ? " long" : ""}">${esc(c.a)}</div>
       <p class="title">Apakah maksud akronim ini?</p>
@@ -365,7 +359,6 @@ function render() {
   }
   cardEl.innerHTML = html;
   cardEl.classList.remove("deal"); void cardEl.offsetWidth; cardEl.classList.add("deal");
-  $("starBtn").onclick = toggleStar;
   cardEl.querySelectorAll(".veil").forEach(v => v.onclick = () => { revealed[v.dataset.r] = true; render(); });
   st.seen.add(idx);
   updateStats();
@@ -373,7 +366,6 @@ function render() {
 function updateStats() {
   const st = S(), p = pool();
   $("stSeen").textContent = `${p.filter(c => st.seen.has(c.i)).length} / ${p.length} dilihat`;
-  $("stStar").textContent = `★ ${st.starred.size} hafal`;
 }
 function toast(msg) { const t = $("toast"); t.textContent = msg; t.classList.add("on"); clearTimeout(toast.t); toast.t = setTimeout(() => t.classList.remove("on"), 1600); }
 
@@ -395,11 +387,6 @@ function step(d) {
   if (d < 0 && st.hpos > 0) { st.hpos--; revealed = { gist: true, verb: true }; render(); return; }
   if (d > 0 && st.hpos < st.history.length - 1) { st.hpos++; revealed = { gist: true, verb: true }; render(); return; }
   if (d > 0) draw(); else toast("Ini kad pertama anda");
-}
-function toggleStar() {
-  const st = S(), c = st.history[st.hpos]; if (c === undefined) return;
-  if (st.starred.has(c)) st.starred.delete(c); else { st.starred.add(c); toast("Ditanda hafal ★"); }
-  store.set(st.key + "-star", [...st.starred]); render();
 }
 function chip(attr, val, on, label, dot, title) {
   return `<button class="fchip" ${attr}="${esc(val)}" aria-pressed="${on}"${title ? ` title="${esc(title)}"` : ""}>${dot ? `<span class="dot" style="background:${dot}"></span>` : ""}${esc(label)}</button>`;
@@ -444,7 +431,6 @@ $("deckAkta").onclick = () => setMode("akta");
 $("deckAkr").onclick = () => setMode("akr");
 $("quiz").onclick = () => { quiz = !quiz; store.set("a514-quiz", quiz); setTgl("quiz", quiz); revealed = { gist: false, verb: false }; render(); toast(quiz ? "Mod kuiz: hidup" : "Mod kuiz: mati"); };
 $("onlyNew").onclick = () => { onlyNew = !onlyNew; setTgl("onlyNew", onlyNew); reshuffle(); draw(); };
-$("onlyTodo").onclick = () => { onlyTodo = !onlyTodo; setTgl("onlyTodo", onlyTodo); reshuffle(); draw(); };
 $("jumpForm").addEventListener("submit", e => {
   e.preventDefault();
   const raw = $("jumpIn").value.trim(); if (!raw) return;
@@ -467,7 +453,6 @@ document.addEventListener("keydown", e => {
   else if (e.key === "ArrowLeft") step(-1);
   else if (e.key === "ArrowRight") step(1);
   else if (e.key.toLowerCase() === "k") $("quiz").click();
-  else if (e.key.toLowerCase() === "s") toggleStar();
   else if (e.key.toLowerCase() === "d") setMode(mode === "akta" ? "akr" : "akta");
 });
 let tx = null, ty = null;
