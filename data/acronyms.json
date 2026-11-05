@@ -1,0 +1,2468 @@
+[
+{
+"g": "A–B",
+"a": "A (Akta A…)",
+"m": "Amending Act, e.g. A1648",
+"s": "Acts 302, 514"
+},
+{
+"g": "A–B",
+"a": "AC / DC",
+"m": "Alternating current / direct current",
+"s": "M2 2.10"
+},
+{
+"g": "A–B",
+"a": "ACGIH",
+"m": "American Conference of Governmental Industrial Hygienists",
+"s": "M3 3.03"
+},
+{
+"g": "A–B",
+"a": "AE",
+"m": "Authorised Entrant (confined space)",
+"s": "M2 2.11"
+},
+{
+"g": "A–B",
+"a": "AED",
+"m": "Automated External Defibrillator",
+"s": "M4 4.05"
+},
+{
+"g": "A–B",
+"a": "AEL Act",
+"m": "Atomic Energy Licensing Act 1984",
+"s": "M3 3.12"
+},
+{
+"g": "A–B",
+"a": "AESP",
+"m": "Authorised Entrant and Standby Person",
+"s": "M1 1.15, M2 2.11"
+},
+{
+"g": "A–B",
+"a": "AGT",
+"m": "Authorised Gas Tester (confined space)",
+"s": "M2 2.11"
+},
+{
+"g": "A–B",
+"a": "AGTES",
+"m": "Authorised Gas Tester and Entry Supervisor",
+"s": "M1 1.15, M2 2.11"
+},
+{
+"g": "A–B",
+"a": "AGV",
+"m": "Automated Guided Vehicle",
+"s": "M2 2.07"
+},
+{
+"g": "A–B",
+"a": "AI",
+"m": "Artificial Intelligence",
+"s": "M4 4.04"
+},
+{
+"g": "A–B",
+"a": "AIHA",
+"m": "American Industrial Hygiene Association",
+"s": "M3 3.03, 3.05, 3.13"
+},
+{
+"g": "A–B",
+"a": "AKKP 1994",
+"m": "Akta Keselamatan dan Kesihatan Pekerjaan 1994",
+"s": "M1 1.17, Act 514 (full)"
+},
+{
+"g": "A–B",
+"a": "AKSP 1969",
+"m": "Akta Keselamatan Sosial Pekerja 1969 (Act 4)",
+"s": "M1 1.16"
+},
+{
+"g": "A–B",
+"a": "AKSPS 2017",
+"m": "Akta Keselamatan Sosial Pekerjaan Sendiri 2017 (Act 789)",
+"s": "M1 1.16"
+},
+{
+"g": "A–B",
+"a": "AKSSR 2022",
+"m": "Akta Keselamatan Sosial Suri Rumah 2022 (Act 838)",
+"s": "M1 1.16"
+},
+{
+"g": "A–B",
+"a": "ALARA",
+"m": "As Low As Reasonably Achievable (radiation)",
+"s": "M3 3.18"
+},
+{
+"g": "A–B",
+"a": "ALARP",
+"m": "As Low As Reasonably Practicable",
+"s": "M3 3.10, M4 4.02"
+},
+{
+"g": "A–B",
+"a": "AMS",
+"m": "Acute Mountain Sickness",
+"s": "M3 3.18"
+},
+{
+"g": "A–B",
+"a": "AOEMM",
+"m": "Academy of Occupational and Environmental Medicine Malaysia (NGO)",
+"s": "M3 3.01A"
+},
+{
+"g": "A–B",
+"a": "AP1–AP3",
+"m": "Action Priority levels 1–3 (CHRA recommendations)",
+"s": "M3 3.10"
+},
+{
+"g": "A–B",
+"a": "APA",
+"m": "American Psychological Association",
+"s": "M3 3.06"
+},
+{
+"g": "A–B",
+"a": "APAD",
+"m": "Agensi Pengangkutan Awam Darat (Akta APAD 2010)",
+"s": "M1 1.17"
+},
+{
+"g": "A–B",
+"a": "APD",
+"m": "Automated Peritoneal Dialysis",
+"s": "M1 1.16"
+},
+{
+"g": "A–B",
+"a": "APR",
+"m": "Air-Purifying Respirator",
+"s": "M4 4.05"
+},
+{
+"g": "A–B",
+"a": "AR",
+"m": "Attributable Risk",
+"s": "M3 3.02"
+},
+{
+"g": "A–B",
+"a": "ART",
+"m": "Assessment of Repetitive Tasks",
+"s": "M3 3.08"
+},
+{
+"g": "A–B",
+"a": "AS 8401",
+"m": "Australian OSH management standard (as written on the slide)",
+"s": "M1 1.01"
+},
+{
+"g": "A–B",
+"a": "ASHRAE",
+"m": "American Society of Heating, Refrigerating and Air-Conditioning Engineers",
+"s": "M3 3.16"
+},
+{
+"g": "A–B",
+"a": "ASIP 2017",
+"m": "Akta Sistem Insurans Pekerjaan 2017 (Act 800)",
+"s": "M1 1.16"
+},
+{
+"g": "A–B",
+"a": "ASME",
+"m": "American Society of Mechanical Engineers",
+"s": "M2 2.06"
+},
+{
+"g": "A–B",
+"a": "AS/NZS",
+"m": "Australian/New Zealand Standard",
+"s": "M3 3.18"
+},
+{
+"g": "A–B",
+"a": "ASTM",
+"m": "ASTM International (test methods)",
+"s": "M3 3.13"
+},
+{
+"g": "A–B",
+"a": "ATC",
+"m": "Audiometric Testing Centre",
+"s": "M1 1.09"
+},
+{
+"g": "A–B",
+"a": "ATM",
+"m": "Angkatan Tentera Malaysia",
+"s": "Act 302 (full)"
+},
+{
+"g": "A–B",
+"a": "AWS",
+"m": "American Welding Society",
+"s": "M2 2.10"
+},
+{
+"g": "A–B",
+"a": "BBS",
+"m": "Behaviour-Based Safety",
+"s": "M1 1.01"
+},
+{
+"g": "A–B",
+"a": "BCM",
+"m": "Business Continuity Management (ISO 22301)",
+"s": "M4 4.05"
+},
+{
+"g": "A–B",
+"a": "BEI",
+"m": "Biological Exposure Index (ACGIH)",
+"s": "M3 3.03, 3.14"
+},
+{
+"g": "A–B",
+"a": "BEL",
+"m": "Biological Exposure Limit",
+"s": "M3 3.03, 3.14"
+},
+{
+"g": "A–B",
+"a": "BEM",
+"m": "Biological Effect Monitoring",
+"s": "M3 3.14"
+},
+{
+"g": "A–B",
+"a": "BIA",
+"m": "Business Impact Analysis",
+"s": "M4 4.05"
+},
+{
+"g": "A–B",
+"a": "BLEVE",
+"m": "Boiling Liquid Expanding Vapour Explosion",
+"s": "M1 1.13"
+},
+{
+"g": "A–B",
+"a": "BM",
+"m": "Biological Monitoring",
+"s": "M3 3.14"
+},
+{
+"g": "A–B",
+"a": "BOMBA",
+"m": "Jabatan Bomba dan Penyelamat Malaysia (= JBPM)",
+"s": "M1 1.18, M2 2.12"
+},
+{
+"g": "A–B",
+"a": "BRI",
+"m": "Building-Related Illness",
+"s": "M3 3.16"
+},
+{
+"g": "A–B",
+"a": "BS / BS EN",
+"m": "British Standard (e.g. BS 8800); BS EN = British adoption of a European Norm",
+"s": "M1 1.01, M4 4.05"
+},
+{
+"g": "A–B",
+"a": "BSC",
+"m": "Biological Safety Cabinet",
+"s": "M3 3.17"
+},
+{
+"g": "C–D",
+"a": "°C",
+"m": "Degrees Celsius",
+"s": "Act 302"
+},
+{
+"g": "C–D",
+"a": "CAPD",
+"m": "Continuous Ambulatory Peritoneal Dialysis",
+"s": "M1 1.16"
+},
+{
+"g": "C–D",
+"a": "CAS",
+"m": "Chemical Abstracts Service (registry number)",
+"s": "M3 3.12"
+},
+{
+"g": "C–D",
+"a": "CBI",
+"m": "Confidential Business Information",
+"s": "M3 3.12"
+},
+{
+"g": "C–D",
+"a": "CCC",
+"m": "Certificate of Completion and Compliance",
+"s": "M2 2.12"
+},
+{
+"g": "C–D",
+"a": "CCTV",
+"m": "Closed-Circuit Television",
+"s": "M4 4.04"
+},
+{
+"g": "C–D",
+"a": "CDC",
+"m": "Centers for Disease Control and Prevention (US)",
+"s": "M3 3.02, 3.09, 3.14"
+},
+{
+"g": "C–D",
+"a": "CDM",
+"m": "Construction (Design and Management) Regulations 2024",
+"s": "M1 1.01, 1.11, M2"
+},
+{
+"g": "C–D",
+"a": "CE",
+"m": "Conformité Européenne (EU product marking)",
+"s": "M4 4.05"
+},
+{
+"g": "C–D",
+"a": "CEM",
+"m": "Chemical Exposure Monitoring",
+"s": "M3 3.13"
+},
+{
+"g": "C–D",
+"a": "CEP",
+"m": "Continuous Education Programme",
+"s": "M1 1.01, 1.04"
+},
+{
+"g": "C–D",
+"a": "CF",
+"m": "Certificate of Fitness (perakuan kelayakan)",
+"s": "M1 1.01, 1.12, 1.13, 1.19, M2, Act 514"
+},
+{
+"g": "C–D",
+"a": "CFR",
+"m": "(US) Code of Federal Regulations",
+"s": "M3 3.14, 3.17"
+},
+{
+"g": "C–D",
+"a": "CGS",
+"m": "Control Guidance Sheet",
+"s": "M3 3.10"
+},
+{
+"g": "C–D",
+"a": "CHC",
+"m": "Chemicals Classification and Hazard Communication (ICOP CHC 2014)",
+"s": "M3 3.12"
+},
+{
+"g": "C–D",
+"a": "CHH",
+"m": "Chemicals Hazardous to Health (= CHTH)",
+"s": "M1 1.07"
+},
+{
+"g": "C–D",
+"a": "CHRA",
+"m": "Chemical Health Risk Assessment",
+"s": "M1 1.01, 1.07, M3, Act 514"
+},
+{
+"g": "C–D",
+"a": "CHTH",
+"m": "Chemicals Hazardous to Health (= CHH)",
+"s": "M3 3.10, 3.13, 3.14"
+},
+{
+"g": "C–D",
+"a": "CIDB",
+"m": "Construction Industry Development Board",
+"s": "M1 1.01, M2 2.12"
+},
+{
+"g": "C–D",
+"a": "CIMAH",
+"m": "Control of Industrial Major Accident Hazards",
+"s": "M1 1.01, 1.06, 1.10"
+},
+{
+"g": "C–D",
+"a": "CL",
+"m": "Ceiling Limit",
+"s": "M3 3.03, 3.13"
+},
+{
+"g": "C–D",
+"a": "CLASS",
+"m": "Classification, Labelling and Safety Data Sheet of Hazardous Chemicals",
+"s": "M1 1.08, M3"
+},
+{
+"g": "C–D",
+"a": "CMP",
+"m": "Crisis Management Plan",
+"s": "M4 4.05"
+},
+{
+"g": "C–D",
+"a": "CNS",
+"m": "Central Nervous System",
+"s": "M3 3.04"
+},
+{
+"g": "C–D",
+"a": "CoA",
+"m": "Certificate of Accommodation",
+"s": "M1 1.19"
+},
+{
+"g": "C–D",
+"a": "CoF",
+"m": "Consequence of Failure",
+"s": "M1 1.13"
+},
+{
+"g": "C–D",
+"a": "COVID-19",
+"m": "Coronavirus Disease 2019",
+"s": "M2 2.16, M3 3.17"
+},
+{
+"g": "C–D",
+"a": "CP",
+"m": "Competent Person (orang kompeten)",
+"s": "M1 1.01, 1.03, 1.12, 1.13, Act 514"
+},
+{
+"g": "C–D",
+"a": "CPL",
+"m": "Classification, Packaging and Labelling Regulations 1997",
+"s": "M1 1.07, 1.08"
+},
+{
+"g": "C–D",
+"a": "CPR",
+"m": "Cardiopulmonary Resuscitation",
+"s": "M2 2.13, M4 4.05"
+},
+{
+"g": "C–D",
+"a": "CSDS",
+"m": "Chemical Safety Data Sheet",
+"s": "M1 1.07, 1.08"
+},
+{
+"g": "C–D",
+"a": "CWC",
+"m": "Construction Work Contractor",
+"s": "M1 1.11"
+},
+{
+"g": "C–D",
+"a": "CWD",
+"m": "Construction Work Designer",
+"s": "M1 1.11"
+},
+{
+"g": "C–D",
+"a": "DASS-21",
+"m": "Depression Anxiety Stress Scale 21",
+"s": "M3 3.06"
+},
+{
+"g": "C–D",
+"a": "dB(A) / dB(C)",
+"m": "Decibels, A-weighted / C-weighted",
+"s": "M1 1.09"
+},
+{
+"g": "C–D",
+"a": "DDT",
+"m": "Dichlorodiphenyltrichloroethane (pesticide)",
+"s": "M3 3.04, 3.11"
+},
+{
+"g": "C–D",
+"a": "DG",
+"m": "Director General (Ketua Pengarah)",
+"s": "M1 1.03–1.19, Act 514 (full)"
+},
+{
+"g": "C–D",
+"a": "DKPN",
+"m": "Dasar Kebombaan dan Penyelamatan Negara (2021–2030)",
+"s": "M1 1.18"
+},
+{
+"g": "C–D",
+"a": "DNA",
+"m": "Deoxyribonucleic Acid",
+"s": "M3 3.17"
+},
+{
+"g": "C–D",
+"a": "DOE",
+"m": "Department of Environment",
+"s": "M2 2.12"
+},
+{
+"g": "C–D",
+"a": "DOSH",
+"m": "Department of Occupational Safety and Health (= JKKP)",
+"s": "M1–M4"
+},
+{
+"g": "C–D",
+"a": "DRABC",
+"m": "Danger, Response, Airway, Breathing, Circulation (first aid)",
+"s": "M4 4.05"
+},
+{
+"g": "C–D",
+"a": "dsb.",
+"m": "dan sebagainya (etc.)",
+"s": "All four Acts"
+},
+{
+"g": "C–D",
+"a": "DSE",
+"m": "Display Screen Equipment",
+"s": "M2 2.15, M3 3.07"
+},
+{
+"g": "C–D",
+"a": "DSM",
+"m": "Department of Standards Malaysia",
+"s": "M3 3.07"
+},
+{
+"g": "C–D",
+"a": "DVT",
+"m": "Deep Vein Thrombosis",
+"s": "M3 3.08"
+},
+{
+"g": "E–H",
+"a": "EAP",
+"m": "Employee Assistance Programme",
+"s": "M1 1.15"
+},
+{
+"g": "E–H",
+"a": "EBSA",
+"m": "Elaun Bekerja Semula Awal (early re-employment allowance)",
+"s": "M1 1.16"
+},
+{
+"g": "E–H",
+"a": "EC",
+"m": "European Community (EU directives)",
+"s": "M3 3.17"
+},
+{
+"g": "E–H",
+"a": "ECC",
+"m": "Emergency Control Centre",
+"s": "M4 4.05"
+},
+{
+"g": "E–H",
+"a": "ED / TD / LD",
+"m": "Effective / Toxic / Lethal dose or response (e.g. ED50)",
+"s": "M3 3.04"
+},
+{
+"g": "E–H",
+"a": "EIA",
+"m": "Environmental Impact Assessment",
+"s": "M2 2.12"
+},
+{
+"g": "E–H",
+"a": "EIS",
+"m": "Employment Insurance System",
+"s": "M1 1.16"
+},
+{
+"g": "E–H",
+"a": "EL",
+"m": "Elaun Latihan (training allowance)",
+"s": "M1 1.16"
+},
+{
+"g": "E–H",
+"a": "ELS",
+"m": "Elaun Layanan Sentiasa (constant-attendance allowance)",
+"s": "M1 1.16"
+},
+{
+"g": "E–H",
+"a": "ELSA",
+"m": "Emergency Life Support Apparatus (escape set)",
+"s": "M4 4.05"
+},
+{
+"g": "E–H",
+"a": "EMP",
+"m": "Elaun Mencari Pekerjaan (job-search allowance)",
+"s": "M1 1.16"
+},
+{
+"g": "E–H",
+"a": "EMS",
+"m": "Environmental Management System (ISO 14000)",
+"s": "M1 1.01"
+},
+{
+"g": "E–H",
+"a": "EN",
+"m": "European Norm (standard)",
+"s": "M4 4.05"
+},
+{
+"g": "E–H",
+"a": "EPB",
+"m": "Elaun Pendapatan Berkurangan (reduced-income allowance)",
+"s": "M1 1.16"
+},
+{
+"g": "E–H",
+"a": "EPR",
+"m": "Emergency Preparedness and Response",
+"s": "M4 4.05"
+},
+{
+"g": "E–H",
+"a": "EQA",
+"m": "Environmental Quality Act 1974",
+"s": "M1 1.07"
+},
+{
+"g": "E–H",
+"a": "ERA",
+"m": "Ergonomic Risk Assessment",
+"s": "M3 3.07, 3.08"
+},
+{
+"g": "E–H",
+"a": "ERF",
+"m": "Ergonomic Risk Factors",
+"s": "M3 3.08"
+},
+{
+"g": "E–H",
+"a": "ERP",
+"m": "Emergency Response Plan",
+"s": "M1 1.06"
+},
+{
+"g": "E–H",
+"a": "ERT",
+"m": "Emergency Response Team",
+"s": "M2 2.15, M4 4.05"
+},
+{
+"g": "E–H",
+"a": "ES",
+"m": "Entry Supervisor (confined space)",
+"s": "M2 2.11"
+},
+{
+"g": "E–H",
+"a": "ESA",
+"m": "Electricity Supply Act 1990",
+"s": "M2 2.09"
+},
+{
+"g": "E–H",
+"a": "ESD",
+"m": "Electrostatic Discharge",
+"s": "M3 3.01B"
+},
+{
+"g": "E–H",
+"a": "ETS",
+"m": "Environmental Tobacco Smoke",
+"s": "M3 3.16"
+},
+{
+"g": "E–H",
+"a": "EU",
+"m": "European Union",
+"s": "M3 3.03, 3.17, M4 4.05"
+},
+{
+"g": "E–H",
+"a": "EV",
+"m": "Electric Vehicle",
+"s": "M2 2.09"
+},
+{
+"g": "E–H",
+"a": "FEMA",
+"m": "Federal Emergency Management Agency (US)",
+"s": "M4 4.05"
+},
+{
+"g": "E–H",
+"a": "FFP",
+"m": "Filtering Face Piece (respirator class)",
+"s": "M4 4.05"
+},
+{
+"g": "E–H",
+"a": "FGV",
+"m": "FGV Holdings Berhad",
+"s": "M3 3.01B"
+},
+{
+"g": "E–H",
+"a": "FID",
+"m": "Flame Ionisation Detector",
+"s": "M3 3.13"
+},
+{
+"g": "E–H",
+"a": "FL",
+"m": "Fi/Yuran Latihan (training fee)",
+"s": "M1 1.16"
+},
+{
+"g": "E–H",
+"a": "FM",
+"m": "Facilities Management",
+"s": "M4 4.05"
+},
+{
+"g": "E–H",
+"a": "FMA",
+"m": "Factories and Machinery Act 1967",
+"s": "M1 1.01, 1.13, Act 835 (full)"
+},
+{
+"g": "E–H",
+"a": "FMD",
+"m": "Factories and Machinery Department (renamed DOSH in 1994)",
+"s": "M3 3.05"
+},
+{
+"g": "E–H",
+"a": "FMEA",
+"m": "Failure Mode and Effects Analysis",
+"s": "M4 4.02"
+},
+{
+"g": "E–H",
+"a": "FR / FRC",
+"m": "Flame-Resistant / Flame-Resistant Clothing",
+"s": "M4 4.05"
+},
+{
+"g": "E–H",
+"a": "FW",
+"m": "Fire Watch",
+"s": "M2 2.11"
+},
+{
+"g": "E–H",
+"a": "GC",
+"m": "Gas Chromatography",
+"s": "M3 3.13"
+},
+{
+"g": "E–H",
+"a": "GHS",
+"m": "Globally Harmonized System",
+"s": "M1 1.08"
+},
+{
+"g": "E–H",
+"a": "GIT",
+"m": "Gastrointestinal Tract",
+"s": "M3 3.04"
+},
+{
+"g": "E–H",
+"a": "GOFF",
+"m": "Guidelines for Offshore Floating Facilities",
+"s": "M1 1.15"
+},
+{
+"g": "E–H",
+"a": "GV",
+"m": "General Ventilation",
+"s": "M3 3.15"
+},
+{
+"g": "E–H",
+"a": "HACE / HAPE",
+"m": "High Altitude Cerebral / Pulmonary Edema",
+"s": "M3 3.18"
+},
+{
+"g": "E–H",
+"a": "HAV",
+"m": "Hand-Arm Vibration",
+"s": "M3 3.18"
+},
+{
+"g": "E–H",
+"a": "HAVS",
+"m": "Hand-Arm Vibration Syndrome",
+"s": "M2 2.03, M3 3.18"
+},
+{
+"g": "E–H",
+"a": "HAZMAT",
+"m": "Hazardous Materials",
+"s": "M1 1.13"
+},
+{
+"g": "E–H",
+"a": "HAZOP",
+"m": "Hazard and Operability Study",
+"s": "M4 4.02"
+},
+{
+"g": "E–H",
+"a": "hb",
+"m": "haribulan (date)",
+"s": "Act 514"
+},
+{
+"g": "E–H",
+"a": "HBV",
+"m": "Hepatitis B Virus",
+"s": "M3 3.17"
+},
+{
+"g": "E–H",
+"a": "H-Code",
+"m": "Hazard statement code (e.g. H225)",
+"s": "M3 3.12"
+},
+{
+"g": "E–H",
+"a": "HCP",
+"m": "Hearing Conservation Programme",
+"s": "M3 3.18"
+},
+{
+"g": "E–H",
+"a": "HEM",
+"m": "Health Effects Monitoring",
+"s": "M3 3.14"
+},
+{
+"g": "E–H",
+"a": "HEMP",
+"m": "Hazard and Effect Management Process",
+"s": "M4 4.02"
+},
+{
+"g": "E–H",
+"a": "HEPA",
+"m": "High-Efficiency Particulate Air (filter)",
+"s": "M3 3.17"
+},
+{
+"g": "E–H",
+"a": "HF",
+"m": "Hydrofluoric acid",
+"s": "M3 3.10"
+},
+{
+"g": "E–H",
+"a": "HFEM",
+"m": "Human factors and ergonomics NGO listed in 3.01A",
+"s": "M3 3.01A"
+},
+{
+"g": "E–H",
+"a": "HI",
+"m": "Hearing Impairment",
+"s": "M1 1.09"
+},
+{
+"g": "E–H",
+"a": "HIRARC",
+"m": "Hazard Identification, Risk Assessment and Risk Control",
+"s": "M1 1.01, 1.15, M2 2.13, M4 4.02"
+},
+{
+"g": "E–H",
+"a": "HIV/AIDS",
+"m": "Human Immunodeficiency Virus / Acquired Immune Deficiency Syndrome",
+"s": "M1 1.03, 1.15"
+},
+{
+"g": "E–H",
+"a": "HLS",
+"m": "High-Level Structure (ISO management standards)",
+"s": "M1 1.01"
+},
+{
+"g": "E–H",
+"a": "HPD",
+"m": "Hearing Protection Device",
+"s": "M3 3.01B, 3.18"
+},
+{
+"g": "E–H",
+"a": "HPLC",
+"m": "High-Performance Liquid Chromatography",
+"s": "M3 3.13"
+},
+{
+"g": "E–H",
+"a": "HRA",
+"m": "Health Risk Assessment",
+"s": "M3 3.08"
+},
+{
+"g": "E–H",
+"a": "HR / HRM",
+"m": "Human Resources / Human Resource Management",
+"s": "M4 4.05"
+},
+{
+"g": "E–H",
+"a": "HSA",
+"m": "Health and Safety Authority (Ireland)",
+"s": "M3 3.10"
+},
+{
+"g": "E–H",
+"a": "HSE",
+"m": "Health and Safety Executive (UK)",
+"s": "M3 3.01A, 3.10, 3.13, 3.14"
+},
+{
+"g": "E–H",
+"a": "HSSE",
+"m": "Health, Safety, Security and Environment",
+"s": "M4 4.02"
+},
+{
+"g": "E–H",
+"a": "HSWA",
+"m": "(UK) Health and Safety at Work etc. Act 1974",
+"s": "M1 1.01"
+},
+{
+"g": "E–H",
+"a": "HT",
+"m": "Hygiene Technician / Hygiene Technologist",
+"s": "M3 3.13"
+},
+{
+"g": "E–H",
+"a": "HVAC",
+"m": "Heating, Ventilation and Air-Conditioning",
+"s": "M3 3.15"
+},
+{
+"g": "E–H",
+"a": "Hz",
+"m": "Hertz",
+"s": "M2 2.09"
+},
+{
+"g": "I–M",
+"a": "IAEA",
+"m": "International Atomic Energy Agency",
+"s": "M3 3.18"
+},
+{
+"g": "I–M",
+"a": "IAQ",
+"m": "Indoor Air Quality",
+"s": "M1 1.01, 1.15, M3 3.16, Act 514"
+},
+{
+"g": "I–M",
+"a": "IARC",
+"m": "International Agency for Research on Cancer",
+"s": "M3 3.04"
+},
+{
+"g": "I–M",
+"a": "IC",
+"m": "Ion Chromatography",
+"s": "M3 3.13"
+},
+{
+"g": "I–M",
+"a": "ICOP",
+"m": "Industry Code of Practice (e.g. ICOP CS 2010, confined space)",
+"s": "M1, M2, M3, Act 514 (full)"
+},
+{
+"g": "I–M",
+"a": "ICP",
+"m": "Inductively Coupled Plasma (spectroscopy)",
+"s": "M3 3.13"
+},
+{
+"g": "I–M",
+"a": "ICS",
+"m": "Incident Command System",
+"s": "M4 4.05"
+},
+{
+"g": "I–M",
+"a": "ICT",
+"m": "Information and Communication Technology",
+"s": "M4 4.04"
+},
+{
+"g": "I–M",
+"a": "IEA",
+"m": "International Ergonomics Association",
+"s": "M3 3.07"
+},
+{
+"g": "I–M",
+"a": "IEC",
+"m": "International Electrotechnical Commission",
+"s": "M1 1.09, M4 4.02"
+},
+{
+"g": "I–M",
+"a": "IEEE",
+"m": "Institute of Electrical and Electronics Engineers",
+"s": "M2 2.09"
+},
+{
+"g": "I–M",
+"a": "IH",
+"m": "Industrial Hygiene",
+"s": "M3 3.05"
+},
+{
+"g": "I–M",
+"a": "IHSTAT",
+"m": "AIHA exposure-statistics tool",
+"s": "M3 3.13"
+},
+{
+"g": "I–M",
+"a": "ILO",
+"m": "International Labour Organization",
+"s": "M1 1.01, 1.06, 1.16, M3"
+},
+{
+"g": "I–M",
+"a": "IOHA",
+"m": "International Occupational Hygiene Association",
+"s": "M3 3.05"
+},
+{
+"g": "I–M",
+"a": "IoT",
+"m": "Internet of Things",
+"s": "M3 3.18, M4 4.04"
+},
+{
+"g": "I–M",
+"a": "IPA",
+"m": "Isopropyl Alcohol",
+"s": "M3 3.13"
+},
+{
+"g": "I–M",
+"a": "IP / IV",
+"m": "Intraperitoneal / Intravenous (absorption routes)",
+"s": "M3 3.04"
+},
+{
+"g": "I–M",
+"a": "IR",
+"m": "Infrared",
+"s": "M3 3.18"
+},
+{
+"g": "I–M",
+"a": "ISDN",
+"m": "Integrated Services Digital Network",
+"s": "M4 4.04"
+},
+{
+"g": "I–M",
+"a": "ISO",
+"m": "International Organization for Standardization",
+"s": "M1, M3, M4"
+},
+{
+"g": "I–M",
+"a": "ISSA",
+"m": "International Social Security Association",
+"s": "M1 1.16"
+},
+{
+"g": "I–M",
+"a": "JBPM",
+"m": "Jabatan Bomba dan Penyelamat Malaysia (= BOMBA)",
+"s": "M1 1.18"
+},
+{
+"g": "I–M",
+"a": "JDC / JDCS",
+"m": "Job Demand–Control (–Support) model",
+"s": "M3 3.06"
+},
+{
+"g": "I–M",
+"a": "JD / JDR",
+"m": "Jemaah Doktor / Jemaah Doktor Rayuan (medical board / appellate medical board)",
+"s": "M1 1.16"
+},
+{
+"g": "I–M",
+"a": "JKKP",
+"m": "Jabatan Keselamatan dan Kesihatan Pekerjaan; also forms JKKP 6/7/8/9",
+"s": "M1 1.03, 1.10, 1.11, 1.15, 1.16, M4 4.04, Act 514"
+},
+{
+"g": "I–M",
+"a": "JKR",
+"m": "Jabatan Kerja Raya (Public Works Department)",
+"s": "M2 2.12"
+},
+{
+"g": "I–M",
+"a": "JPJ",
+"m": "Jabatan Pengangkutan Jalan",
+"s": "M1 1.16, 1.17"
+},
+{
+"g": "I–M",
+"a": "JSA",
+"m": "Job Safety Analysis",
+"s": "M1 1.01, M2 2.13, M3 3.05"
+},
+{
+"g": "I–M",
+"a": "JSM",
+"m": "Road-accident statistics source cited with PDRM and JPJ (not spelled out)",
+"s": "M1 1.17"
+},
+{
+"g": "I–M",
+"a": "KESUMA / MoHR",
+"m": "Kementerian Sumber Manusia / Ministry of Human Resources",
+"s": "M1 1.01, Act 514 (full)"
+},
+{
+"g": "I–M",
+"a": "KKP",
+"m": "Keselamatan dan Kesihatan Pekerjaan (OSH)",
+"s": "M1 1.18"
+},
+{
+"g": "I–M",
+"a": "KPD",
+"m": "Kelengkapan Pelindung Diri (= PPE)",
+"s": "M4 4.05"
+},
+{
+"g": "I–M",
+"a": "KPI",
+"m": "Key Performance Indicator",
+"s": "M1 1.01"
+},
+{
+"g": "I–M",
+"a": "KTMB",
+"m": "Keretapi Tanah Melayu Berhad",
+"s": "M3 3.01B"
+},
+{
+"g": "I–M",
+"a": "KWSP / EPF",
+"m": "Kumpulan Wang Simpanan Pekerja / Employees Provident Fund",
+"s": "M1 1.16, M4 4.05"
+},
+{
+"g": "I–M",
+"a": "LAP",
+"m": "Laboratory Accreditation Program (AIHA)",
+"s": "M3 3.13"
+},
+{
+"g": "I–M",
+"a": "LD50",
+"m": "Lethal Dose for 50% of test animals",
+"s": "M3 3.04, 3.11"
+},
+{
+"g": "I–M",
+"a": "LEL",
+"m": "Lower Explosive Limit",
+"s": "M2 2.11"
+},
+{
+"g": "I–M",
+"a": "LEV",
+"m": "Local Exhaust Ventilation",
+"s": "M2 2.10, M3 3.15"
+},
+{
+"g": "I–M",
+"a": "LEX,8h",
+"m": "Daily personal noise exposure level (8-hour)",
+"s": "M3 3.18"
+},
+{
+"g": "I–M",
+"a": "LMM",
+"m": "Lumbar Motion Monitor",
+"s": "M3 3.08"
+},
+{
+"g": "I–M",
+"a": "LOPA",
+"m": "Layer of Protection Analysis",
+"s": "M4 4.02"
+},
+{
+"g": "I–M",
+"a": "LOTO",
+"m": "Lock-Out Tag-Out",
+"s": "M1 1.01, 1.03, M2 2.04, 2.09"
+},
+{
+"g": "I–M",
+"a": "LPG",
+"m": "Liquefied Petroleum Gas (gas petroleum cair)",
+"s": "M1 1.06, 1.13, 1.15, Act 302 (full)"
+},
+{
+"g": "I–M",
+"a": "LTI",
+"m": "Lost Time Injury",
+"s": "M1 1.01, M4 4.02"
+},
+{
+"g": "I–M",
+"a": "LTIFR",
+"m": "Lost Time Injury Frequency Rate",
+"s": "M1 1.01"
+},
+{
+"g": "I–M",
+"a": "MAB",
+"m": "Malaysia Airports Berhad",
+"s": "M3 3.01B"
+},
+{
+"g": "I–M",
+"a": "MAC",
+"m": "Manual handling Assessment Charts",
+"s": "M3 3.08"
+},
+{
+"g": "I–M",
+"a": "MAK",
+"m": "Maximale Arbeitsplatz-Konzentration (German limit)",
+"s": "M3 3.03"
+},
+{
+"g": "I–M",
+"a": "MAO",
+"m": "Maximum Acceptable Outage",
+"s": "M4 4.05"
+},
+{
+"g": "I–M",
+"a": "m.b.p",
+"m": "mulai berkuat kuasa pada (in force from)",
+"s": "Act 514"
+},
+{
+"g": "I–M",
+"a": "MC",
+"m": "Medical Certificate",
+"s": "M1 1.19"
+},
+{
+"g": "I–M",
+"a": "MDHS",
+"m": "Methods for the Determination of Hazardous Substances (UK HSE)",
+"s": "M3 3.13"
+},
+{
+"g": "I–M",
+"a": "MEA",
+"m": "Monoethanolamine",
+"s": "M3 3.13"
+},
+{
+"g": "I–M",
+"a": "MEK",
+"m": "Methyl Ethyl Ketone",
+"s": "M3 3.13"
+},
+{
+"g": "I–M",
+"a": "MEL",
+"m": "Maximum Exposure Limit",
+"s": "M3 3.03"
+},
+{
+"g": "I–M",
+"a": "MHA",
+"m": "Methylhippuric Acid (toluene biomarker)",
+"s": "M3 3.14"
+},
+{
+"g": "I–M",
+"a": "MHI",
+"m": "Major Hazard Installation",
+"s": "M1 1.06"
+},
+{
+"g": "I–M",
+"a": "MIBK",
+"m": "Methyl Isobutyl Ketone",
+"s": "M3 3.13"
+},
+{
+"g": "I–M",
+"a": "MIC",
+"m": "Methyl Isocyanate (Bhopal gas)",
+"s": "M1 1.06"
+},
+{
+"g": "I–M",
+"a": "MIHA",
+"m": "Malaysian Industrial Hygiene Association",
+"s": "M3 3.01A, 3.05"
+},
+{
+"g": "I–M",
+"a": "MIROS",
+"m": "Malaysian Institute of Road Safety Research",
+"s": "M1 1.16, 1.17"
+},
+{
+"g": "I–M",
+"a": "MKN",
+"m": "Majlis Keselamatan Negara (National Security Council)",
+"s": "M4 4.05"
+},
+{
+"g": "I–M",
+"a": "MNKKP",
+"m": "Majlis Negara bagi Keselamatan dan Kesihatan Pekerjaan (= NCOSH)",
+"s": "Act 514 (full)"
+},
+{
+"g": "I–M",
+"a": "MOH",
+"m": "Ministry of Health",
+"s": "M3 3.17"
+},
+{
+"g": "I–M",
+"a": "MOHPA",
+"m": "OSH NGO listed in 3.01A (not spelled out)",
+"s": "M3 3.01A"
+},
+{
+"g": "I–M",
+"a": "MRP",
+"m": "Medical Removal Protection",
+"s": "M3 3.14"
+},
+{
+"g": "I–M",
+"a": "MS",
+"m": "Malaysian Standard (e.g. MS 1722, MS 2095, MS IEC 60745)",
+"s": "M1 1.01, M2 2.14, 2.15, M4 4.03, 4.05"
+},
+{
+"g": "I–M",
+"a": "MSBeG",
+"m": "Machinery Safety Basic e-Guide",
+"s": "M1 1.15"
+},
+{
+"g": "I–M",
+"a": "MSDS",
+"m": "Material Safety Data Sheet (now SDS)",
+"s": "M1 1.01"
+},
+{
+"g": "I–M",
+"a": "MSD / WMSDs / WRMSD",
+"m": "(Work-related) Musculoskeletal Disorders",
+"s": "M3 3.01B, 3.07, 3.08, 3.09"
+},
+{
+"g": "I–M",
+"a": "MSOSH",
+"m": "Malaysian Society for Occupational Safety and Health",
+"s": "M1 1.16"
+},
+{
+"g": "I–M",
+"a": "MVAC",
+"m": "Mechanical Ventilation and Air-Conditioning",
+"s": "M3 3.16"
+},
+{
+"g": "I–M",
+"a": "MyKKP",
+"m": "DOSH online registration portal",
+"s": "M1 1.01, 1.11, 1.15, M3, M4"
+},
+{
+"g": "N–P",
+"a": "NADOPOD",
+"m": "Notification of Accident, Dangerous Occurrence, Occupational Poisoning and Occupational Disease",
+"s": "M1 1.01, 1.03, 1.10"
+},
+{
+"g": "N–P",
+"a": "NATA",
+"m": "National Association of Testing Authorities (Australia)",
+"s": "M3 3.13"
+},
+{
+"g": "N–P",
+"a": "NCOSH",
+"m": "National Council for Occupational Safety and Health (= MNKKP)",
+"s": "M1 1.03, Act 514 (full)"
+},
+{
+"g": "N–P",
+"a": "NDT",
+"m": "Non-Destructive Testing",
+"s": "M1 1.13"
+},
+{
+"g": "N–P",
+"a": "NEL",
+"m": "Noise Exposure Limit",
+"s": "M1 1.09, M3 3.03"
+},
+{
+"g": "N–P",
+"a": "NESC",
+"m": "National Electrical Safety Code (US)",
+"s": "M2 2.09"
+},
+{
+"g": "N–P",
+"a": "NFPA",
+"m": "National Fire Protection Association (US)",
+"s": "M2 2.10"
+},
+{
+"g": "N–P",
+"a": "NGO",
+"m": "Non-Governmental Organisation",
+"s": "M1 1.16"
+},
+{
+"g": "N–P",
+"a": "NIHL",
+"m": "Noise-Induced Hearing Loss",
+"s": "M1 1.01, 1.09"
+},
+{
+"g": "N–P",
+"a": "NIOSH",
+"m": "National Institute of Occupational Safety and Health",
+"s": "M1, Act 514 (full)"
+},
+{
+"g": "N–P",
+"a": "NIR",
+"m": "Non-Ionising Radiation",
+"s": "M3 3.18"
+},
+{
+"g": "N–P",
+"a": "NMAM",
+"m": "NIOSH Manual of Analytical Methods (US)",
+"s": "M3 3.13"
+},
+{
+"g": "N–P",
+"a": "NMHI",
+"m": "Non-Major Hazard Installation",
+"s": "M1 1.06"
+},
+{
+"g": "N–P",
+"a": "No",
+"m": "Nombor (number)",
+"s": "Act 514"
+},
+{
+"g": "N–P",
+"a": "NOAEL",
+"m": "No Observed Adverse Effect Level",
+"s": "M3 3.04"
+},
+{
+"g": "N–P",
+"a": "NOP",
+"m": "Notice of Prohibition (notis larangan)",
+"s": "M2 2.04"
+},
+{
+"g": "N–P",
+"a": "NRA",
+"m": "Noise Risk Assessment",
+"s": "M1 1.01, 1.09"
+},
+{
+"g": "N–P",
+"a": "NRR",
+"m": "Noise Reduction Rating",
+"s": "M3 3.18"
+},
+{
+"g": "N–P",
+"a": "OB",
+"m": "Orang Berinsurans (insured person)",
+"s": "M1 1.16"
+},
+{
+"g": "N–P",
+"a": "OCRA",
+"m": "Occupational Repetitive Action",
+"s": "M3 3.08"
+},
+{
+"g": "N–P",
+"a": "OC / TC",
+"m": "Organisational Control / Technical Control",
+"s": "M3 3.10"
+},
+{
+"g": "N–P",
+"a": "ODDHC",
+"m": "Occupational Disease Due to Hazardous Chemical",
+"s": "M3 3.01B"
+},
+{
+"g": "N–P",
+"a": "OEL",
+"m": "Occupational Exposure Limit",
+"s": "M3 3.03, 3.04, 3.05"
+},
+{
+"g": "N–P",
+"a": "OES",
+"m": "Occupational Exposure Standard",
+"s": "M3 3.03, 3.13"
+},
+{
+"g": "N–P",
+"a": "OHD",
+"m": "Occupational Health Doctor",
+"s": "M1 1.01, 1.07, 1.09, M3"
+},
+{
+"g": "N–P",
+"a": "OHSAS",
+"m": "Occupational Health and Safety Assessment Series (18001)",
+"s": "M1 1.01, M4 4.03"
+},
+{
+"g": "N–P",
+"a": "OHS / OH&S",
+"m": "Occupational Health and Safety",
+"s": "M3 3.03, M4 4.03"
+},
+{
+"g": "N–P",
+"a": "OMSD",
+"m": "Occupational Musculoskeletal Disorder",
+"s": "M3 3.01B"
+},
+{
+"g": "N–P",
+"a": "ONRHD",
+"m": "Occupational Noise-Related Hearing Disorders",
+"s": "M3 3.01B"
+},
+{
+"g": "N–P",
+"a": "Ord.",
+"m": "Ordinan (Ordinance)",
+"s": "Acts 302, 514"
+},
+{
+"g": "N–P",
+"a": "OSC",
+"m": "One Stop Centre (local authority approvals)",
+"s": "M2 2.12"
+},
+{
+"g": "N–P",
+"a": "OSH",
+"m": "Occupational Safety and Health",
+"s": "M1–M4"
+},
+{
+"g": "N–P",
+"a": "OSHA",
+"m": "Occupational Safety and Health Act 1994",
+"s": "M1–M4, Act 514"
+},
+{
+"g": "N–P",
+"a": "OSH-C",
+"m": "OSH Coordinator (penyelaras KKP, s.29A)",
+"s": "M1 1.03, 1.17, Act 514 (full)"
+},
+{
+"g": "N–P",
+"a": "OSHMS / OSH-MS / OHSMS",
+"m": "OSH Management System",
+"s": "M1 1.01, M4 4.03"
+},
+{
+"g": "N–P",
+"a": "OSI-R",
+"m": "Occupational Stress Inventory – Revised",
+"s": "M3 3.06"
+},
+{
+"g": "N–P",
+"a": "OSL",
+"m": "Optically Stimulated Luminescence (dosimeter)",
+"s": "M3 3.18"
+},
+{
+"g": "N–P",
+"a": "OT",
+"m": "Overtime",
+"s": "M1 1.19"
+},
+{
+"g": "N–P",
+"a": "PA",
+"m": "Public Address (system)",
+"s": "M4 4.05"
+},
+{
+"g": "N–P",
+"a": "PAI",
+"m": "Permit Authorizing Individual",
+"s": "M2 2.11"
+},
+{
+"g": "N–P",
+"a": "PBS",
+"m": "Pasukan Bomba Sukarela (volunteer fire brigade)",
+"s": "M1 1.18"
+},
+{
+"g": "N–P",
+"a": "PBT",
+"m": "Pihak Berkuasa Tempatan (local authority)",
+"s": "M2 2.12"
+},
+{
+"g": "N–P",
+"a": "PC",
+"m": "Principal (Construction Work) Contractor",
+"s": "M1 1.11"
+},
+{
+"g": "N–P",
+"a": "PCBs",
+"m": "Polychlorinated Biphenyls",
+"s": "M3 3.04"
+},
+{
+"g": "N–P",
+"a": "PCM",
+"m": "Phase Contrast Microscope",
+"s": "M3 3.13"
+},
+{
+"g": "N–P",
+"a": "PD",
+"m": "Principal (Construction Work) Designer",
+"s": "M1 1.11"
+},
+{
+"g": "N–P",
+"a": "PDCA",
+"m": "Plan–Do–Check–Act",
+"s": "M4 4.03"
+},
+{
+"g": "N–P",
+"a": "PDRM",
+"m": "Polis Di Raja Malaysia",
+"s": "M1 1.16, 1.17, Act 302 (full)"
+},
+{
+"g": "N–P",
+"a": "PEL",
+"m": "Permissible Exposure Limit",
+"s": "M1 1.01, 1.07, M3 3.03"
+},
+{
+"g": "N–P",
+"a": "PERKESO",
+"m": "Pertubuhan Keselamatan Sosial (= SOCSO)",
+"s": "M1 1.16, Acts 514, 872"
+},
+{
+"g": "N–P",
+"a": "PESTLE",
+"m": "Political, Economic, Social, Technological, Legal, Environmental",
+"s": "M4 4.03"
+},
+{
+"g": "N–P",
+"a": "PH",
+"m": "Public Holiday",
+"s": "M1 1.19"
+},
+{
+"g": "N–P",
+"a": "PHP",
+"m": "Personal Hearing Protector",
+"s": "M1 1.09, 1.15"
+},
+{
+"g": "N–P",
+"a": "PI",
+"m": "Permit Issuer",
+"s": "M2 2.11"
+},
+{
+"g": "N–P",
+"a": "PIC",
+"m": "Person in Charge",
+"s": "M3 3.01B, 3.09"
+},
+{
+"g": "N–P",
+"a": "PMA / PMD / PMT",
+"m": "DOSH registration-number prefixes: lifting machine (Angkat) / steam boiler (Dandang) / unfired pressure vessel (Tekanan)",
+"s": "M1 1.12"
+},
+{
+"g": "N–P",
+"a": "PNMB",
+"m": "Percetakan Nasional Malaysia Berhad",
+"s": "Acts 835, 872 (full)"
+},
+{
+"g": "N–P",
+"a": "PoF",
+"m": "Probability of Failure",
+"s": "M1 1.13"
+},
+{
+"g": "N–P",
+"a": "POP",
+"m": "Principles of Prevention",
+"s": "M3 3.09"
+},
+{
+"g": "N–P",
+"a": "PPE",
+"m": "Personal Protective Equipment",
+"s": "M1 1.01, 1.03, 1.15, M2–M4, Act 514"
+},
+{
+"g": "N–P",
+"a": "ppm",
+"m": "Parts per million",
+"s": "M3 3.02"
+},
+{
+"g": "N–P",
+"a": "PRisMA",
+"m": "DOSH psychosocial risk guideline (2024)",
+"s": "M1 1.15, M3 3.06"
+},
+{
+"g": "N–P",
+"a": "PSC",
+"m": "Psychosocial Safety Climate",
+"s": "M3 3.06"
+},
+{
+"g": "N–P",
+"a": "PSQ",
+"m": "Perceived Stress Questionnaire",
+"s": "M3 3.06"
+},
+{
+"g": "N–P",
+"a": "PSS",
+"m": "Perceived Stress Scale",
+"s": "M3 3.06"
+},
+{
+"g": "N–P",
+"a": "PSTS",
+"m": "Permanent Standard Threshold Shift",
+"s": "M1 1.09"
+},
+{
+"g": "N–P",
+"a": "PTFE",
+"m": "Polytetrafluoroethylene",
+"s": "M3 3.13"
+},
+{
+"g": "N–P",
+"a": "PTP",
+"m": "Psychosocial Trained Person",
+"s": "M3 3.01A"
+},
+{
+"g": "N–P",
+"a": "PTW",
+"m": "Permit-to-Work",
+"s": "M1 1.01, 1.03"
+},
+{
+"g": "N–P",
+"a": "P.U. (B)",
+"m": "Pemberitahuan Undang-Undang (B) (Gazette notice)",
+"s": "Act 302"
+},
+{
+"g": "N–P",
+"a": "PVA",
+"m": "Polyvinyl Alcohol (gloves)",
+"s": "M3 3.10"
+},
+{
+"g": "N–P",
+"a": "PVC",
+"m": "Polyvinyl Chloride",
+"s": "M3 3.10, M4 4.05"
+},
+{
+"g": "N–P",
+"a": "PWC",
+"m": "Principal work contractor (as abbreviated in the CDM slides)",
+"s": "M1 1.11"
+},
+{
+"g": "Q–S",
+"a": "QHS",
+"m": "Quantity of Hazardous Substance (compared with TQ)",
+"s": "M1 1.06"
+},
+{
+"g": "Q–S",
+"a": "QMS",
+"m": "Quality Management System (ISO 9000)",
+"s": "M1 1.01"
+},
+{
+"g": "Q–S",
+"a": "RAPP",
+"m": "Risk Assessment of Pushing and Pulling",
+"s": "M3 3.08"
+},
+{
+"g": "Q–S",
+"a": "RBI",
+"m": "Risk-Based Inspection",
+"s": "M1 1.13"
+},
+{
+"g": "Q–S",
+"a": "RCA",
+"m": "Root Cause Analysis",
+"s": "M1 1.01"
+},
+{
+"g": "Q–S",
+"a": "REBA",
+"m": "Rapid Entire Body Assessment",
+"s": "M3 3.08"
+},
+{
+"g": "Q–S",
+"a": "REL",
+"m": "Recommended Exposure Limit (NIOSH USA)",
+"s": "M3 3.03"
+},
+{
+"g": "Q–S",
+"a": "RH",
+"m": "Relative Humidity",
+"s": "M3 3.16"
+},
+{
+"g": "Q–S",
+"a": "RICE",
+"m": "Rest, Ice, Compression, Elevation",
+"s": "M4 4.05"
+},
+{
+"g": "Q–S",
+"a": "RM",
+"m": "Ringgit Malaysia",
+"s": "M1"
+},
+{
+"g": "Q–S",
+"a": "ROE",
+"m": "Routes of Exposure",
+"s": "M3 3.04"
+},
+{
+"g": "Q–S",
+"a": "ROSA",
+"m": "Rapid Office Strain Assessment",
+"s": "M3 3.08"
+},
+{
+"g": "Q–S",
+"a": "RPE",
+"m": "Respiratory Protective Equipment",
+"s": "M3 3.10, M4 4.05"
+},
+{
+"g": "Q–S",
+"a": "RPM",
+"m": "Revolutions per minute",
+"s": "M2 2.10"
+},
+{
+"g": "Q–S",
+"a": "RPO / RTO",
+"m": "Recovery Point Objective / Recovery Time Objective",
+"s": "M4 4.05"
+},
+{
+"g": "Q–S",
+"a": "RR",
+"m": "Relative Risk",
+"s": "M3 3.02"
+},
+{
+"g": "Q–S",
+"a": "RTW",
+"m": "Return to Work (PERKESO programme)",
+"s": "M1 1.16"
+},
+{
+"g": "Q–S",
+"a": "RULA",
+"m": "Rapid Upper Limb Assessment",
+"s": "M3 3.08"
+},
+{
+"g": "Q–S",
+"a": "RWL",
+"m": "Recommended Weight Limit (NIOSH lifting equation)",
+"s": "M3 3.08"
+},
+{
+"g": "Q–S",
+"a": "SABA",
+"m": "Supplied Air Breathing Apparatus",
+"s": "M4 4.05"
+},
+{
+"g": "Q–S",
+"a": "SAMM",
+"m": "Skim Akreditasi Makmal Malaysia (lab accreditation)",
+"s": "M3 3.13"
+},
+{
+"g": "Q–S",
+"a": "SAR",
+"m": "Supplied Air Respirator",
+"s": "M4 4.05"
+},
+{
+"g": "Q–S",
+"a": "SBI",
+"m": "Serious Bodily Injury",
+"s": "M4 4.01"
+},
+{
+"g": "Q–S",
+"a": "SBP",
+"m": "Skim Bencana Pekerjaan (employment injury scheme)",
+"s": "M1 1.16"
+},
+{
+"g": "Q–S",
+"a": "SBS",
+"m": "Sick Building Syndrome",
+"s": "M3 3.16"
+},
+{
+"g": "Q–S",
+"a": "SCBA",
+"m": "Self-Contained Breathing Apparatus",
+"s": "M4 4.05"
+},
+{
+"g": "Q–S",
+"a": "SDGs",
+"m": "Sustainable Development Goals (UN)",
+"s": "M3 3.10"
+},
+{
+"g": "Q–S",
+"a": "SDS",
+"m": "Safety Data Sheet",
+"s": "M1 1.01, 1.03, 1.08, 1.15, M3"
+},
+{
+"g": "Q–S",
+"a": "Sec.",
+"m": "Section",
+"s": "M1 1.19"
+},
+{
+"g": "Q–S",
+"a": "SEG",
+"m": "Similar Exposure Group",
+"s": "M3 3.13"
+},
+{
+"g": "Q–S",
+"a": "SHC",
+"m": "Safety and Health Committee",
+"s": "M1 1.01, 1.03, 1.05, Act 514 (full)"
+},
+{
+"g": "Q–S",
+"a": "SHE Code",
+"m": "Safety, Health and Environment Code (Transportation Sector, 2007)",
+"s": "M1 1.15"
+},
+{
+"g": "Q–S",
+"a": "SHO",
+"m": "Safety and Health Officer",
+"s": "M1, M2, Act 514 (full)"
+},
+{
+"g": "Q–S",
+"a": "SI",
+"m": "International System of Units",
+"s": "M3 3.18"
+},
+{
+"g": "Q–S",
+"a": "SIP",
+"m": "Sistem Insurans Pekerjaan (Employment Insurance System)",
+"s": "M1 1.16"
+},
+{
+"g": "Q–S",
+"a": "SiRAC",
+"m": "Simple Risk Assessment and Control (for chemicals)",
+"s": "M1 1.15, M3 3.10"
+},
+{
+"g": "Q–S",
+"a": "SIRIM",
+"m": "SIRIM Berhad, Malaysia's standards and industrial research body",
+"s": "M1 1.01, 1.17"
+},
+{
+"g": "Q–S",
+"a": "SKSPS",
+"m": "Skim Keselamatan Sosial Pekerjaan Sendiri",
+"s": "M1 1.16"
+},
+{
+"g": "Q–S",
+"a": "SKSSR",
+"m": "Skim Keselamatan Sosial Suri Rumah",
+"s": "M1 1.16"
+},
+{
+"g": "Q–S",
+"a": "SMART",
+"m": "Simple, Measurable, Achievable, Reasonable, Tractable (as defined in the slides)",
+"s": "M1 1.02"
+},
+{
+"g": "Q–S",
+"a": "SME",
+"m": "Small and Medium Enterprise",
+"s": "M1 1.16"
+},
+{
+"g": "Q–S",
+"a": "SMIs",
+"m": "Small and Medium Industries",
+"s": "M3 3.02"
+},
+{
+"g": "Q–S",
+"a": "SOCSO",
+"m": "Social Security Organisation (= PERKESO)",
+"s": "M1 1.03, M3 3.08"
+},
+{
+"g": "Q–S",
+"a": "SOEM-MMA",
+"m": "OSH NGO listed in 3.01A (not spelled out)",
+"s": "M3 3.01A"
+},
+{
+"g": "Q–S",
+"a": "SOHELP",
+"m": "DOSH occupational health programme (noise, chemical, ergonomics)",
+"s": "M1 1.01, M3 3.01B"
+},
+{
+"g": "Q–S",
+"a": "SOP",
+"m": "Standard Operating Procedure",
+"s": "M1 1.01, 1.03, M2, M3"
+},
+{
+"g": "Q–S",
+"a": "SPL",
+"m": "Sound Pressure Level",
+"s": "M1 1.09"
+},
+{
+"g": "Q–S",
+"a": "S-PMA",
+"m": "S-Phenylmercapturic Acid (benzene biomarker)",
+"s": "M3 3.04, 3.14"
+},
+{
+"g": "Q–S",
+"a": "SPS",
+"m": "Act 789 scheme (not spelled out in the slides)",
+"s": "M1 1.16"
+},
+{
+"g": "Q–S",
+"a": "SSI",
+"m": "Special Scheme of Inspection",
+"s": "M1 1.01, 1.13, M2 2.07"
+},
+{
+"g": "Q–S",
+"a": "SSS",
+"m": "Site Safety Supervisor",
+"s": "M1 1.11"
+},
+{
+"g": "Q–S",
+"a": "STEL",
+"m": "Short-Term Exposure Limit",
+"s": "M3 3.03"
+},
+{
+"g": "Q–S",
+"a": "STF",
+"m": "Slips, Trips and Falls",
+"s": "M2 2.16"
+},
+{
+"g": "Q–S",
+"a": "STS",
+"m": "Standard Threshold Shift",
+"s": "M1 1.09"
+},
+{
+"g": "Q–S",
+"a": "SWIFT",
+"m": "Structured What-If Technique",
+"s": "M4 4.02"
+},
+{
+"g": "Q–S",
+"a": "Swk.",
+"m": "Sarawak",
+"s": "Act 302"
+},
+{
+"g": "Q–S",
+"a": "SWL",
+"m": "Safe Working Load",
+"s": "M2 2.06, 2.07"
+},
+{
+"g": "Q–S",
+"a": "SWOT",
+"m": "Strengths, Weaknesses, Opportunities, Threats",
+"s": "M4 4.03"
+},
+{
+"g": "Q–S",
+"a": "SWP",
+"m": "Safe Work Procedure",
+"s": "M4 4.04"
+},
+{
+"g": "T–Z",
+"a": "TapRooT",
+"m": "Root-cause analysis method (trade name)",
+"s": "M4 4.05"
+},
+{
+"g": "T–Z",
+"a": "TB",
+"m": "Tuberculosis",
+"s": "M3 3.17"
+},
+{
+"g": "T–Z",
+"a": "TBI",
+"m": "Time-Based Inspection",
+"s": "M1 1.13"
+},
+{
+"g": "T–Z",
+"a": "TCDD",
+"m": "2,3,7,8-Tetrachlorodibenzo-p-dioxin (Seveso dioxin)",
+"s": "M1 1.06"
+},
+{
+"g": "T–Z",
+"a": "TCE",
+"m": "Trichloroethylene",
+"s": "M3 3.13"
+},
+{
+"g": "T–Z",
+"a": "TEA",
+"m": "Triethanolamine",
+"s": "M3 3.13"
+},
+{
+"g": "T–Z",
+"a": "TLD",
+"m": "Thermoluminescent Dosimeter",
+"s": "M3 3.18"
+},
+{
+"g": "T–Z",
+"a": "TLV",
+"m": "Threshold Limit Value",
+"s": "M1 1.01, M3 3.02, 3.03"
+},
+{
+"g": "T–Z",
+"a": "TNB",
+"m": "Tenaga Nasional Berhad",
+"s": "M3 3.01B"
+},
+{
+"g": "T–Z",
+"a": "TP",
+"m": "Training Provider (registered)",
+"s": "M1 1.03, Act 514 (full)"
+},
+{
+"g": "T–Z",
+"a": "TQ",
+"m": "Threshold Quantity",
+"s": "M1 1.06"
+},
+{
+"g": "T–Z",
+"a": "TRIFR",
+"m": "Total Recordable Injury Frequency Rate",
+"s": "M1 1.01"
+},
+{
+"g": "T–Z",
+"a": "TVOC",
+"m": "Total Volatile Organic Compounds",
+"s": "M3 3.16"
+},
+{
+"g": "T–Z",
+"a": "TWA",
+"m": "Time-Weighted Average",
+"s": "M1 1.07, M3 3.03"
+},
+{
+"g": "T–Z",
+"a": "UBBL",
+"m": "Uniform Building By-Laws",
+"s": "M1 1.20 (full), M2 2.15"
+},
+{
+"g": "T–Z",
+"a": "UiTM",
+"m": "Universiti Teknologi MARA",
+"s": "M1 1.17"
+},
+{
+"g": "T–Z",
+"a": "UKAS",
+"m": "United Kingdom Accreditation Service",
+"s": "M3 3.13"
+},
+{
+"g": "T–Z",
+"a": "UKM / UM / UPM",
+"m": "Universiti Kebangsaan Malaysia / Universiti Malaya / Universiti Putra Malaysia",
+"s": "M3 3.01A"
+},
+{
+"g": "T–Z",
+"a": "UN",
+"m": "United Nations",
+"s": "M1 1.08"
+},
+{
+"g": "T–Z",
+"a": "UNDP",
+"m": "United Nations Development Programme",
+"s": "M3 3.06"
+},
+{
+"g": "T–Z",
+"a": "UPLIRA",
+"m": "Upper Limbs Risk Assessment",
+"s": "M3 3.08"
+},
+{
+"g": "T–Z",
+"a": "UPS",
+"m": "Uninterruptible Power Supply",
+"s": "M2 2.09"
+},
+{
+"g": "T–Z",
+"a": "USECHH",
+"m": "Use and Standards of Exposure of Chemicals Hazardous to Health",
+"s": "M1 1.01, 1.07, 1.13, M3, M4"
+},
+{
+"g": "T–Z",
+"a": "USEPA",
+"m": "US Environmental Protection Agency",
+"s": "M3 3.13"
+},
+{
+"g": "T–Z",
+"a": "UV",
+"m": "Ultraviolet",
+"s": "M2 2.12, M3 3.04, 3.17, 3.18, M4 4.05"
+},
+{
+"g": "T–Z",
+"a": "VKT",
+"m": "Vehicle Kilometres Travelled",
+"s": "M1 1.17"
+},
+{
+"g": "T–Z",
+"a": "VOSI",
+"m": "Value of Serious (or Statistical) Injury",
+"s": "M1 1.17"
+},
+{
+"g": "T–Z",
+"a": "VOSL",
+"m": "Value of Statistical Life",
+"s": "M1 1.17"
+},
+{
+"g": "T–Z",
+"a": "VR / AR",
+"m": "Virtual Reality / Augmented Reality",
+"s": "M4 4.04"
+},
+{
+"g": "T–Z",
+"a": "VWF",
+"m": "Vibration-induced White Finger",
+"s": "M3 3.18"
+},
+{
+"g": "T–Z",
+"a": "WBGT",
+"m": "Wet Bulb Globe Temperature",
+"s": "M3 3.18"
+},
+{
+"g": "T–Z",
+"a": "WBV",
+"m": "Whole-Body Vibration",
+"s": "M3 3.18"
+},
+{
+"g": "T–Z",
+"a": "WEEL",
+"m": "Workplace Environmental Exposure Level (AIHA)",
+"s": "M3 3.03"
+},
+{
+"g": "T–Z",
+"a": "WEL",
+"m": "Workplace Exposure Limit (UK)",
+"s": "M3 3.03, 3.14"
+},
+{
+"g": "T–Z",
+"a": "WHO",
+"m": "World Health Organization",
+"s": "M3 3.01A, 3.11"
+},
+{
+"g": "T–Z",
+"a": "WPA",
+"m": "Listed as a course topic (not spelled out)",
+"s": "M1 1.01"
+},
+{
+"g": "T–Z",
+"a": "WRRS",
+"m": "Work-Related Road Safety",
+"s": "M1 1.17"
+},
+{
+"g": "T–Z",
+"a": "WSQ",
+"m": "Work Stress Questionnaire",
+"s": "M3 3.06"
+},
+{
+"g": "T–Z",
+"a": "XRD",
+"m": "X-Ray Diffraction",
+"s": "M3 3.13"
+}
+]

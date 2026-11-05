@@ -1,4 +1,4 @@
-<title>Cue Cards Akta 514</title>
+<title>SHO Cue Cards</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -134,15 +134,30 @@ h1 { font-family: var(--f-display); font-weight: 400; font-size: clamp(1.4rem, 4
   .btn { padding: 10px 12px; }
 }
 @media (prefers-reduced-motion: reduce) { .card.deal, .card.out-l, .card.out-r, .btn.big.roll svg { animation: none; } }
+
+/* deck switch */
+.decks { display: grid; grid-template-columns: 1fr 1fr; gap: 0; border: 3px solid var(--card-edge); border-radius: 16px; overflow: hidden; box-shadow: 4px 4px 0 var(--card-edge); background: var(--chip); }
+.deckbtn { font: 700 .95rem/1.2 var(--f-body); border: 0; background: transparent; color: var(--ink); padding: 11px 10px; cursor: pointer; display: flex; flex-direction: column; align-items: center; gap: 2px; }
+.deckbtn + .deckbtn { border-left: 3px solid var(--card-edge); }
+.deckbtn small { font-weight: 400; font-size: .78rem; color: var(--ink-soft); }
+.deckbtn[aria-pressed="true"] { background: var(--ink); color: var(--bg); }
+.deckbtn[aria-pressed="true"] small { color: var(--bg); opacity: .8; }
+.fsep { flex: none; width: 2px; background: var(--card-edge); opacity: .3; margin: 4px 4px; border-radius: 2px; }
+.ref.acr { font-size: clamp(2.2rem, 10vw, 4rem); }
+.ref.acr.long { font-size: clamp(1.5rem, 6.5vw, 2.6rem); line-height: 1.05; }
+.src { display: flex; flex-wrap: wrap; gap: 6px; margin: 0; padding: 0; list-style: none; }
+.src li { font-size: .85rem; font-weight: 700; padding: 4px 10px; border-radius: 999px; border: 2px solid var(--card-edge); background: var(--chip); }
+.src li span { font-weight: 400; color: var(--ink-soft); }
+.legend { margin: 6px 0 0; font-size: .82rem; color: var(--ink-soft); }
 </style>
 
 <div class="wrap">
   <header>
     <div class="brand">
-      <svg class="sign" viewBox="0 0 46 46" aria-hidden="true"><path d="M23 3 44 41H2Z" fill="#FFC72C" stroke="var(--card-edge)" stroke-width="3" stroke-linejoin="round"/><text x="23" y="36" text-anchor="middle" font-family="Archivo Black, Arial Black, sans-serif" font-size="13" fill="#1C1830">514</text></svg>
+      <svg class="sign" viewBox="0 0 46 46" aria-hidden="true"><path d="M23 3 44 41H2Z" fill="#FFC72C" stroke="var(--card-edge)" stroke-width="3" stroke-linejoin="round"/><text x="23" y="36" text-anchor="middle" font-family="Archivo Black, Arial Black, sans-serif" font-size="12" fill="#1C1830">SHO</text></svg>
       <div>
-        <h1>Cue Cards Akta 514</h1>
-        <p class="sub">AKKP 1994 · cetakan semula 1 Jun 2024 · seksyen dipilih secara rawak</p>
+        <h1>Cue Cards <span id="deckName">Akta 514</span></h1>
+        <p class="sub" id="deckSub">AKKP 1994 · cetakan semula 1 Jun 2024 · seksyen dipilih secara rawak</p>
       </div>
     </div>
     <div class="stats">
@@ -151,7 +166,12 @@ h1 { font-family: var(--f-display); font-weight: 400; font-size: clamp(1.4rem, 4
     </div>
   </header>
 
-  <div class="filters" id="filters" role="group" aria-label="Tapis mengikut Bahagian"></div>
+  <div class="decks" role="group" aria-label="Pilih dek">
+    <button class="deckbtn" id="deckAkta" data-m="akta" aria-pressed="true">Akta 514<small>264 kad seksyen</small></button>
+    <button class="deckbtn" id="deckAkr" data-m="akr" aria-pressed="false">Akronim SHO<small>411 kad akronim</small></button>
+  </div>
+
+  <div class="filters" id="filters" role="group" aria-label="Tapis kad"></div>
 
   <div class="stage"><article class="card" id="card" aria-live="polite"></article></div>
 
@@ -172,13 +192,14 @@ h1 { font-family: var(--f-display); font-weight: 400; font-size: clamp(1.4rem, 4
       <input id="jumpIn" placeholder="cth. 18A" autocomplete="off">
     </form>
   </div>
-  <p class="hint">Papan kekunci: Space = cabut · ← → = undur/maju · K = kuiz · S = hafal. Leret kad di telefon.</p>
+  <p class="hint">Papan kekunci: Space = cabut · ← → = undur/maju · K = kuiz · S = hafal · D = tukar dek. Leret kad di telefon.</p>
 </div>
 <div class="toast" id="toast" role="status"></div>
 
 <script>
 const PARTS = __PARTS__;
 const CARDS = __CARDS__;
+const ACRO = __ACRO__;
 const HUES = {
   I:["#FFC72C","#1C1830"], II:["#FF7A45","#1C1830"], III:["#E4312B","#FFFFFF"], IV:["#0057B8","#FFFFFF"],
   V:["#00A3A3","#10202A"], VI:["#009A44","#FFFFFF"], VIA:["#9CD34A","#17240A"], VII:["#7A4FD6","#FFFFFF"],
@@ -186,31 +207,53 @@ const HUES = {
   XI:["#1B2A6B","#FFFFFF"], XII:["#F25C05","#1C1830"], XIII:["#2E8B57","#FFFFFF"], XIV:["#6C5B7B","#FFFFFF"],
   XV:["#FFB3C7","#1C1830"], J:["#FFE14D","#1C1830"]
 };
+const GROUPS = ["A–B","C–D","E–H","I–M","N–P","Q–S","T–Z"];
+const GHUES = { "A–B":["#FF4F8B","#1C1830"], "C–D":["#FF7A45","#1C1830"], "E–H":["#FFC72C","#1C1830"], "I–M":["#9CD34A","#17240A"], "N–P":["#00A3A3","#10202A"], "Q–S":["#3FA9F5","#0E1E2E"], "T–Z":["#7A4FD6","#FFFFFF"] };
+const SOURCES = [["Akta","Akta"],["M1","M1 · OSH Legislation"],["M2","M2 · Occupational Safety"],["M3","M3 · Occ. Health & Hygiene"],["M4","M4 · OSH Management"]];
+const MOD = { M1: "OSH Legislation", M2: "Occupational Safety", M3: "Occupational Health & Hygiene", M4: "OSH Management" };
 const PNAME = Object.fromEntries(PARTS);
 CARDS.forEach((c, i) => { c.i = i; c.isNew = /\[BAHARU 2024\]/.test(c.gist); c.isAmend = /\[DIPINDA 2024\]/.test(c.gist); c.cleanGist = c.gist.replace(/\[(BAHARU|DIPINDA) 2024\]\s*/g, ""); });
+ACRO.forEach((c, i) => {
+  c.i = i;
+  const s = c.s;
+  const src = new Set();
+  if (/Act/.test(s)) src.add("Akta");
+  // "M2–M4" style ranges
+  s.replace(/M(\d)\s*[–-]\s*M(\d)/g, (_, a, b) => { for (let k = +a; k <= +b; k++) src.add("M" + k); return ""; });
+  (s.match(/M\d/g) || []).forEach(m => src.add(m));
+  c.src = src;
+});
 
 const store = {
   get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch (e) { return d; } },
   set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
 };
-let starred = new Set(store.get("a514-star", []));
-let seen = new Set();
-let activeParts = new Set(store.get("a514-parts", [])); // empty = all
+function mkState(key) {
+  return { key, starred: new Set(store.get(key + "-star", [])), seen: new Set(), groups: new Set(store.get(key + "-parts", [])), srcs: new Set(store.get(key + "-srcs", [])), deck: [], history: [], hpos: -1 };
+}
+const STATE = { akta: mkState("a514"), akr: mkState("akr") };
+let mode = store.get("cc-mode", "akta"); if (!STATE[mode]) mode = "akta";
 let quiz = store.get("a514-quiz", false);
 let onlyNew = false, onlyTodo = false;
-let deck = [], history = [], hpos = -1, revealed = { gist: false, verb: false };
+let revealed = { gist: false, verb: false };
+const S = () => STATE[mode];
+const LIST = () => mode === "akta" ? CARDS : ACRO;
 
 const $ = id => document.getElementById(id);
 const cardEl = $("card");
 
 function pool() {
-  return CARDS.filter(c => (activeParts.size === 0 || activeParts.has(c.p)) && (!onlyNew || c.isNew || c.isAmend) && (!onlyTodo || !starred.has(c.i)));
+  const st = S();
+  if (mode === "akta")
+    return CARDS.filter(c => (st.groups.size === 0 || st.groups.has(c.p)) && (!onlyNew || c.isNew || c.isAmend) && (!onlyTodo || !st.starred.has(c.i)));
+  return ACRO.filter(c => (st.groups.size === 0 || st.groups.has(c.g)) && (st.srcs.size === 0 || [...st.srcs].some(x => c.src.has(x))) && (!onlyTodo || !st.starred.has(c.i)));
 }
 function reshuffle() {
-  deck = pool().map(c => c.i);
-  for (let i = deck.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [deck[i], deck[j]] = [deck[j], deck[i]]; }
+  const st = S();
+  st.deck = pool().map(c => c.i);
+  for (let i = st.deck.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [st.deck[i], st.deck[j]] = [st.deck[j], st.deck[i]]; }
 }
-function esc(s) { return s.replace(/[&<>"]/g, ch => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[ch])); }
+function esc(s) { return String(s).replace(/[&<>"]/g, ch => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[ch])); }
 function fmtVerb(paras) {
   return paras.map(p => {
     const t = esc(p);
@@ -224,115 +267,196 @@ function refHTML(c) {
   if (c.p === "J") return `<small>Jadual</small> ${esc(c.ref.split(" ")[1])}`;
   return `<small>s.</small>${esc(c.ref.slice(2))}`;
 }
+function srcHTML(s) {
+  // split "M1 1.01, 1.03, M2 2.04, Act 514 (full)" into chips per source
+  const chips = []; let cur = null;
+  s.split(/,\s*/).forEach(tok => {
+    const m = tok.match(/^(M\d(?:\s*[–-]\s*M\d)?|Acts?|All four Acts)\b\s*(.*)$/);
+    if (m) { cur = { k: m[1], d: [m[2]].filter(Boolean) }; chips.push(cur); }
+    else if (cur) cur.d.push(tok); else chips.push(cur = { k: tok, d: [] });
+  });
+  return chips.map(c => `<li>${esc(c.k)}${c.d.length ? ` <span>${esc(c.d.join(", "))}</span>` : ""}</li>`).join("");
+}
+function veil(key, label) { return `<button class="veil" data-r="${key}"><span>${label}</span></button>`; }
 
-function render(dir) {
-  const idx = history[hpos];
+function render() {
+  const st = S();
+  const idx = st.history[st.hpos];
   if (idx === undefined) {
-    cardEl.style.setProperty("--hue", "#FFC72C");
-    cardEl.innerHTML = `<div class="empty">Tiada kad untuk tapisan ini.<br>Cuba buka Bahagian lain atau matikan "Belum hafal".</div>`;
-    return;
+    document.documentElement.style.setProperty("--hue", "#FFC72C");
+    document.documentElement.style.setProperty("--hue-ink", "#1C1830");
+    cardEl.innerHTML = `<div class="empty">Tiada kad untuk tapisan ini.<br>Cuba buka tapisan lain atau matikan "Belum hafal".</div>`;
+    updateStats(); return;
   }
-  const c = CARDS[idx];
-  const [hue, ink] = HUES[c.p];
-  document.documentElement.style.setProperty("--hue", hue);
-  document.documentElement.style.setProperty("--hue-ink", ink);
-  const tags = [];
-  if (c.isNew) tags.push('<span class="tag">Baharu 2024</span>');
-  if (c.isAmend) tags.push('<span class="tag">Dipinda 2024</span>');
-  const partLabel = c.p === "J" ? "Jadual-Jadual" : `Bahagian ${c.p} · ${PNAME[c.p]}`;
   const hideG = quiz && !revealed.gist, hideV = quiz && !revealed.verb;
-  cardEl.innerHTML = `
+  let html;
+  if (mode === "akta") {
+    const c = CARDS[idx];
+    const [hue, ink] = HUES[c.p];
+    document.documentElement.style.setProperty("--hue", hue);
+    document.documentElement.style.setProperty("--hue-ink", ink);
+    const tags = [];
+    if (c.isNew) tags.push('<span class="tag">Baharu 2024</span>');
+    if (c.isAmend) tags.push('<span class="tag">Dipinda 2024</span>');
+    const partLabel = c.p === "J" ? "Jadual-Jadual" : `Bahagian ${c.p} · ${PNAME[c.p]}`;
+    html = `
     <div class="top">
       <div class="toprow">
         <div class="part">${esc(partLabel)}</div>
-        <button class="star" id="starBtn" aria-pressed="${starred.has(c.i)}" aria-label="Tanda sudah hafal" title="Tanda sudah hafal (S)">★</button>
+        <button class="star" id="starBtn" aria-pressed="${st.starred.has(c.i)}" aria-label="Tanda sudah hafal" title="Tanda sudah hafal (S)">★</button>
       </div>
       <div class="ref">${refHTML(c)}</div>
       <p class="title">${esc(c.title)}</p>
       <div class="tags">${tags.join("")}</div>
     </div>
     <div class="body">
-      <section class="cover${hideG ? " hidden-ans" : ""}" id="gBox">
-        ${hideG ? '<button class="veil" data-r="gist"><span>Ketuk untuk intipati</span></button>' : ""}
+      <section class="cover${hideG ? " hidden-ans" : ""}">
+        ${hideG ? veil("gist", "Ketuk untuk intipati") : ""}
         <p class="label">Intipati</p>
         <p class="gist">${esc(c.cleanGist)}</p>
       </section>
-      <section class="cover${hideV ? " hidden-ans" : ""}" id="vBox">
-        ${hideV ? '<button class="veil" data-r="verb"><span>Ketuk untuk teks Akta</span></button>' : ""}
+      <section class="cover${hideV ? " hidden-ans" : ""}">
+        ${hideV ? veil("verb", "Ketuk untuk teks Akta") : ""}
         <p class="label">Teks Akta (verbatim)</p>
         <div class="verb" tabindex="0">${fmtVerb(c.verbatim)}</div>
       </section>
     </div>`;
-  cardEl.classList.remove("deal", "out-l", "out-r"); void cardEl.offsetWidth; cardEl.classList.add("deal");
+  } else {
+    const c = ACRO[idx];
+    const [hue, ink] = GHUES[c.g] || GHUES["A–B"];
+    document.documentElement.style.setProperty("--hue", hue);
+    document.documentElement.style.setProperty("--hue-ink", ink);
+    const full = /\(full\)/.test(c.s) ? '<span class="tag">Akta guna istilah penuh</span>' : "";
+    const mods = [...c.src].filter(x => MOD[x]).sort().map(x => `${x} = ${MOD[x]}`).join(" · ");
+    html = `
+    <div class="top">
+      <div class="toprow">
+        <div class="part">Akronim SHO · ${esc(c.g)}</div>
+        <button class="star" id="starBtn" aria-pressed="${st.starred.has(c.i)}" aria-label="Tanda sudah hafal" title="Tanda sudah hafal (S)">★</button>
+      </div>
+      <div class="ref acr${c.a.length > 10 ? " long" : ""}">${esc(c.a)}</div>
+      <p class="title">Apakah maksud akronim ini?</p>
+      <div class="tags">${full}</div>
+    </div>
+    <div class="body">
+      <section class="cover${hideG ? " hidden-ans" : ""}">
+        ${hideG ? veil("gist", "Ketuk untuk maksud") : ""}
+        <p class="label">Maksud</p>
+        <p class="gist">${esc(c.m)}</p>
+      </section>
+      <section>
+        <p class="label">Sumber</p>
+        <ul class="src">${srcHTML(c.s)}</ul>
+        ${mods ? `<p class="legend">${esc(mods)}</p>` : ""}
+      </section>
+    </div>`;
+  }
+  cardEl.innerHTML = html;
+  cardEl.classList.remove("deal"); void cardEl.offsetWidth; cardEl.classList.add("deal");
   $("starBtn").onclick = toggleStar;
   cardEl.querySelectorAll(".veil").forEach(v => v.onclick = () => { revealed[v.dataset.r] = true; render(); });
-  seen.add(c.i);
+  st.seen.add(idx);
   updateStats();
 }
 function updateStats() {
-  const n = pool().length;
-  const s = pool().filter(c => seen.has(c.i)).length;
-  $("stSeen").textContent = `${s} / ${n} dilihat`;
-  $("stStar").textContent = `★ ${starred.size} hafal`;
+  const st = S(), p = pool();
+  $("stSeen").textContent = `${p.filter(c => st.seen.has(c.i)).length} / ${p.length} dilihat`;
+  $("stStar").textContent = `★ ${st.starred.size} hafal`;
 }
 function toast(msg) { const t = $("toast"); t.textContent = msg; t.classList.add("on"); clearTimeout(toast.t); toast.t = setTimeout(() => t.classList.remove("on"), 1600); }
 
-function go(i, dir) {
+function go(i) {
+  const st = S();
   revealed = { gist: false, verb: false };
-  history = history.slice(0, hpos + 1); history.push(i); hpos = history.length - 1;
-  render(dir);
+  st.history = st.history.slice(0, st.hpos + 1); st.history.push(i); st.hpos = st.history.length - 1;
+  render();
 }
 function draw() {
-  if (!deck.length) { reshuffle(); if (deck.length) toast("Dek dikocok semula 🎉"); }
-  if (!deck.length) { history = []; hpos = -1; render(); return; }
+  const st = S();
+  if (!st.deck.length) { reshuffle(); if (st.deck.length && st.history.length) toast("Dek dikocok semula 🎉"); }
+  if (!st.deck.length) { st.history = []; st.hpos = -1; render(); return; }
   const b = $("draw"); b.classList.remove("roll"); void b.offsetWidth; b.classList.add("roll");
-  go(deck.pop());
+  go(st.deck.pop());
 }
 function step(d) {
-  if (d < 0 && hpos > 0) { hpos--; revealed = { gist: true, verb: true }; render(); return; }
-  if (d > 0 && hpos < history.length - 1) { hpos++; revealed = { gist: true, verb: true }; render(); return; }
+  const st = S();
+  if (d < 0 && st.hpos > 0) { st.hpos--; revealed = { gist: true, verb: true }; render(); return; }
+  if (d > 0 && st.hpos < st.history.length - 1) { st.hpos++; revealed = { gist: true, verb: true }; render(); return; }
   if (d > 0) draw(); else toast("Ini kad pertama anda");
 }
 function toggleStar() {
-  const c = history[hpos]; if (c === undefined) return;
-  if (starred.has(c)) starred.delete(c); else { starred.add(c); toast("Ditanda hafal ★"); }
-  store.set("a514-star", [...starred]); render(); updateStats();
+  const st = S(), c = st.history[st.hpos]; if (c === undefined) return;
+  if (st.starred.has(c)) st.starred.delete(c); else { st.starred.add(c); toast("Ditanda hafal ★"); }
+  store.set(st.key + "-star", [...st.starred]); render();
+}
+function chip(attr, val, on, label, dot, title) {
+  return `<button class="fchip" ${attr}="${esc(val)}" aria-pressed="${on}"${title ? ` title="${esc(title)}"` : ""}>${dot ? `<span class="dot" style="background:${dot}"></span>` : ""}${esc(label)}</button>`;
 }
 function buildFilters() {
-  const f = $("filters");
-  const all = `<button class="fchip" data-p="*" aria-pressed="${activeParts.size === 0}">Semua</button>`;
-  f.innerHTML = all + PARTS.map(([k, n]) => `<button class="fchip" data-p="${k}" aria-pressed="${activeParts.has(k)}" title="${esc(n)}"><span class="dot" style="background:${HUES[k][0]}"></span>${k === "J" ? "Jadual" : "Bhg " + k}</button>`).join("");
+  const f = $("filters"), st = S();
+  let h = chip("data-g", "*", st.groups.size === 0 && st.srcs.size === 0, "Semua");
+  if (mode === "akta") {
+    h += PARTS.map(([k, n]) => chip("data-g", k, st.groups.has(k), k === "J" ? "Jadual" : "Bhg " + k, HUES[k][0], n)).join("");
+  } else {
+    h += GROUPS.map(g => chip("data-g", g, st.groups.has(g), g, GHUES[g][0])).join("");
+    h += '<span class="fsep" aria-hidden="true"></span>';
+    h += SOURCES.map(([k, n]) => chip("data-s", k, st.srcs.has(k), k, null, n)).join("");
+  }
+  f.innerHTML = h;
   f.querySelectorAll(".fchip").forEach(b => b.onclick = () => {
-    const p = b.dataset.p;
-    if (p === "*") activeParts.clear(); else if (activeParts.has(p)) activeParts.delete(p); else activeParts.add(p);
-    store.set("a514-parts", [...activeParts]);
+    const g = b.dataset.g, s = b.dataset.s;
+    if (g === "*") { st.groups.clear(); st.srcs.clear(); }
+    else if (g) { st.groups.has(g) ? st.groups.delete(g) : st.groups.add(g); }
+    else if (s) { st.srcs.has(s) ? st.srcs.delete(s) : st.srcs.add(s); }
+    store.set(st.key + "-parts", [...st.groups]); store.set(st.key + "-srcs", [...st.srcs]);
     buildFilters(); reshuffle(); draw();
   });
+}
+function setTgl(id, v) { $(id).setAttribute("aria-pressed", v); }
+function setMode(m) {
+  mode = m; store.set("cc-mode", m);
+  setTgl("deckAkta", m === "akta"); setTgl("deckAkr", m === "akr");
+  $("deckName").textContent = m === "akta" ? "Akta 514" : "Akronim SHO";
+  $("deckSub").textContent = m === "akta" ? "AKKP 1994 · cetakan semula 1 Jun 2024 · seksyen dipilih secara rawak" : "411 akronim daripada Akta 302, 514, 835, 872 dan Modul 1–4 · dipilih secara rawak";
+  $("onlyNew").hidden = m !== "akta";
+  $("jumpIn").placeholder = m === "akta" ? "cth. 18A" : "cth. HIRARC";
+  revealed = { gist: false, verb: false };
+  buildFilters();
+  if (S().hpos < 0) { reshuffle(); draw(); } else render();
 }
 
 $("draw").onclick = draw;
 $("prev").onclick = () => step(-1);
 $("next").onclick = () => step(1);
-function setTgl(id, v) { $(id).setAttribute("aria-pressed", v); }
+$("deckAkta").onclick = () => setMode("akta");
+$("deckAkr").onclick = () => setMode("akr");
 $("quiz").onclick = () => { quiz = !quiz; store.set("a514-quiz", quiz); setTgl("quiz", quiz); revealed = { gist: false, verb: false }; render(); toast(quiz ? "Mod kuiz: hidup" : "Mod kuiz: mati"); };
 $("onlyNew").onclick = () => { onlyNew = !onlyNew; setTgl("onlyNew", onlyNew); reshuffle(); draw(); };
 $("onlyTodo").onclick = () => { onlyTodo = !onlyTodo; setTgl("onlyTodo", onlyTodo); reshuffle(); draw(); };
 $("jumpForm").addEventListener("submit", e => {
   e.preventDefault();
-  let q = $("jumpIn").value.trim().replace(/^s(ek(syen)?)?\.?\s*/i, "").toUpperCase().replace(/\s+/g, "");
-  if (!q) return;
-  const hit = CARDS.find(c => c.ref.toUpperCase().replace(/\s/g, "") === "S." + q) || CARDS.find(c => c.sec && (c.sec.toUpperCase() === q || c.ref.toUpperCase().startsWith("S." + q + "(")))
-    || CARDS.find(c => c.p === "J" && c.ref.toUpperCase().includes(q));
+  const raw = $("jumpIn").value.trim(); if (!raw) return;
+  let hit;
+  if (mode === "akta") {
+    const q = raw.replace(/^s(ek(syen)?)?\.?\s*/i, "").toUpperCase().replace(/\s+/g, "");
+    hit = CARDS.find(c => c.ref.toUpperCase().replace(/\s/g, "") === "S." + q) || CARDS.find(c => c.sec && (c.sec.toUpperCase() === q || c.ref.toUpperCase().startsWith("S." + q + "(")))
+      || CARDS.find(c => c.p === "J" && c.ref.toUpperCase().includes(q));
+  } else {
+    const q = raw.toUpperCase().replace(/[.\s-]/g, "");
+    const norm = a => a.toUpperCase().replace(/[.\s-]/g, "");
+    hit = ACRO.find(c => norm(c.a) === q) || ACRO.find(c => c.a.toUpperCase().split(/\s*\/\s*/).some(p => norm(p) === q)) || ACRO.find(c => norm(c.a).startsWith(q)) || ACRO.find(c => c.m.toUpperCase().includes(raw.toUpperCase()));
+  }
   if (hit) { go(hit.i); revealed = { gist: true, verb: true }; render(); $("jumpIn").blur(); }
-  else toast(`Seksyen ${q} tiada dalam dek`);
+  else toast(`"${raw}" tiada dalam dek ini`);
 });
 document.addEventListener("keydown", e => {
-  if (e.target.tagName === "INPUT") return;
-  if (e.key === " " || e.key === "Enter" && e.target === document.body) { e.preventDefault(); draw(); }
+  if (e.target.tagName === "INPUT" || e.metaKey || e.ctrlKey || e.altKey) return;
+  if (e.key === " " && e.target.tagName !== "BUTTON") { e.preventDefault(); draw(); }
   else if (e.key === "ArrowLeft") step(-1);
   else if (e.key === "ArrowRight") step(1);
   else if (e.key.toLowerCase() === "k") $("quiz").click();
   else if (e.key.toLowerCase() === "s") toggleStar();
+  else if (e.key.toLowerCase() === "d") setMode(mode === "akta" ? "akr" : "akta");
 });
 let tx = null, ty = null;
 cardEl.addEventListener("touchstart", e => { tx = e.touches[0].clientX; ty = e.touches[0].clientY; }, { passive: true });
@@ -343,5 +467,5 @@ cardEl.addEventListener("touchend", e => {
 });
 
 setTgl("quiz", quiz);
-buildFilters(); reshuffle(); draw();
+setMode(mode);
 </script>

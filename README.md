@@ -1,6 +1,10 @@
-# SHO Quecards — Cue Cards Akta 514
+# SHO Cue Cards
 
-Random cue cards for studying the **Akta Keselamatan dan Kesihatan Pekerjaan 1994 (Akta 514)**, as at the reprint of 1 June 2024 (after Akta A1648).
+Random cue cards for the NIOSH SHO course, in two decks.
+
+## Deck 1: Akta 514
+
+Cards for the **Akta Keselamatan dan Kesihatan Pekerjaan 1994 (Akta 514)**, as at the reprint of 1 June 2024 (after Akta A1648).
 
 Each card shows:
 
@@ -9,6 +13,10 @@ Each card shows:
 3. **Teks Akta** — the verbatim text of that subsection/paragraph
 
 264 cards cover every subsection from s.1 to s.67B, plus Jadual Pertama–Kelima.
+
+## Deck 2: Akronim SHO
+
+411 acronyms and abbreviations from Akta 302, 514, 835 and 872 and Modules 1–4 (from the "SHO Acronyms – A to Z" doc). Each card shows the acronym, its meaning and where it appears (e.g. `M2 2.10` = Module 2, chapter 2.10). Filter by letter group or by source (Akta, M1–M4).
 
 ## Use
 
@@ -19,12 +27,15 @@ Open `index.html` in any browser (no install, no server). To host it, enable Git
 - Filter by Bahagian, or **2024 sahaja** for sections added/amended by Akta A1648
 - **Mod kuiz** (K) hides the gist and text until tapped
 - **★** (S) marks a card as memorised; **Belum hafal** shows only the rest (saved in your browser)
-- **Lompat ke** jumps to a section, e.g. `18A` or `48(2)`
+- **Lompat ke** jumps to a section (e.g. `18A`, `48(2)`) or an acronym (e.g. `HIRARC`)
+- Switch decks with the buttons at the top (or D); each deck keeps its own ★ and progress
 
 ## Data
 
 - `data/cards.json` — the cards (`ref`, `sec`, `title`, `p` = Bahagian, `gist`, `verbatim[]`)
 - `data/parts.json` — Bahagian names
+- `data/acronyms.json` — acronyms (`a` acronym, `m` meaning, `s` source, `g` letter group)
+- `tools/assemble.py` — rebuilds `index.html` from the template and the data
 - `tools/build.py` — parser that produced `cards.json` from `pdftotext` output of the gist notes and the official BM reprint (`gist.txt` with `-layout`, `act.txt` plain, `toc.txt` = pages 3–8 with `-layout`)
 - `tools/template.html` — page template; `__PARTS__` and `__CARDS__` are replaced with the JSON
 
