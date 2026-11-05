@@ -149,6 +149,9 @@ h1 { font-family: var(--f-display); font-weight: 400; font-size: clamp(1.4rem, 4
 .src li { font-size: .85rem; font-weight: 700; padding: 4px 10px; border-radius: 999px; border: 2px solid var(--card-edge); background: var(--chip); }
 .src li span { font-weight: 400; color: var(--ink-soft); }
 .legend { margin: 6px 0 0; font-size: .82rem; color: var(--ink-soft); }
+.expl { margin: 0; font-size: 1.02rem; line-height: 1.55; max-width: 62ch; }
+.label.ex { margin-top: 14px; }
+.example { margin: 0; font-family: var(--f-law); font-style: italic; font-size: 1rem; line-height: 1.55; background: var(--verb); border: 2px dashed var(--verb-edge); border-radius: 14px; padding: 10px 14px; max-width: 62ch; }
 </style>
 
 <div class="wrap">
@@ -344,6 +347,13 @@ function render() {
         <p class="label">Maksud</p>
         <p class="gist">${esc(c.m)}</p>
       </section>
+      <section class="cover${hideV ? " hidden-ans" : ""}">
+        ${hideV ? veil("verb", "Ketuk untuk penerangan & contoh") : ""}
+        <p class="label">Penerangan</p>
+        <p class="expl">${esc(c.x)}</p>
+        <p class="label ex">Contoh</p>
+        <p class="example">${esc(c.e)}</p>
+      </section>
       <section>
         <p class="label">Sumber</p>
         <ul class="src">${srcHTML(c.s)}</ul>
@@ -417,7 +427,7 @@ function setMode(m) {
   mode = m; store.set("cc-mode", m);
   setTgl("deckAkta", m === "akta"); setTgl("deckAkr", m === "akr");
   $("deckName").textContent = m === "akta" ? "Akta 514" : "Akronim SHO";
-  $("deckSub").textContent = m === "akta" ? "AKKP 1994 · cetakan semula 1 Jun 2024 · seksyen dipilih secara rawak" : "411 akronim daripada Akta 302, 514, 835, 872 dan Modul 1–4 · dipilih secara rawak";
+  $("deckSub").textContent = m === "akta" ? "AKKP 1994 · cetakan semula 1 Jun 2024 · seksyen dipilih secara rawak" : "411 akronim daripada Akta 302, 514, 835, 872 dan Modul 1–4 · maksud, penerangan dan contoh";
   $("onlyNew").hidden = m !== "akta";
   $("jumpIn").placeholder = m === "akta" ? "cth. 18A" : "cth. HIRARC";
   revealed = { gist: false, verb: false };

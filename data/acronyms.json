@@ -3,2466 +3,3288 @@
 "g": "A–B",
 "a": "A (Akta A…)",
 "m": "Amending Act, e.g. A1648",
-"s": "Acts 302, 514"
+"s": "Acts 302, 514",
+"x": "Awalan \"A\" pada nombor akta menandakan akta pindaan, iaitu akta yang mengubah akta induk, bukan akta baharu.",
+"e": "Akta A1648 meminda Akta 514 dan berkuat kuasa 1 Jun 2024."
 },
 {
 "g": "A–B",
 "a": "AC / DC",
 "m": "Alternating current / direct current",
-"s": "M2 2.10"
+"s": "M2 2.10",
+"x": "AC ialah arus ulang-alik yang berubah arah secara berkala; DC ialah arus terus yang mengalir sehala sahaja.",
+"e": "Bekalan elektrik rumah di Malaysia ialah AC 240 V, 50 Hz; bateri kereta ialah DC 12 V."
 },
 {
 "g": "A–B",
 "a": "ACGIH",
 "m": "American Conference of Governmental Industrial Hygienists",
-"s": "M3 3.03"
+"s": "M3 3.03",
+"x": "Badan bukan kerajaan Amerika yang menerbitkan nilai had pendedahan bahan kimia (TLV) dan indeks biologi (BEI).",
+"e": "Nilai TLV toluena yang dirujuk semasa CHRA biasanya diambil daripada senarai ACGIH."
 },
 {
 "g": "A–B",
 "a": "AE",
 "m": "Authorised Entrant (confined space)",
-"s": "M2 2.11"
+"s": "M2 2.11",
+"x": "Pekerja yang diberi kebenaran untuk memasuki ruang terkurung selepas permit masuk diluluskan.",
+"e": "Juruteknik yang masuk ke dalam tangki untuk membersihkan enap cemar ialah AE."
 },
 {
 "g": "A–B",
 "a": "AED",
 "m": "Automated External Defibrillator",
-"s": "M4 4.05"
+"s": "M4 4.05",
+"x": "Alat mudah alih yang menganalisis rentak jantung dan memberi kejutan elektrik untuk memulihkan degupan jantung.",
+"e": "Pasukan kecemasan memasang pad AED pada pekerja yang rebah akibat serangan jantung sambil meneruskan CPR."
 },
 {
 "g": "A–B",
 "a": "AEL Act",
 "m": "Atomic Energy Licensing Act 1984",
-"s": "M3 3.12"
+"s": "M3 3.12",
+"x": "Akta Perlesenan Tenaga Atom 1984 (Akta 304) yang mengawal penggunaan bahan dan sinaran radioaktif.",
+"e": "Syarikat yang menggunakan alat radiografi industri mesti mempunyai lesen di bawah AEL Act."
 },
 {
 "g": "A–B",
 "a": "AESP",
 "m": "Authorised Entrant and Standby Person",
-"s": "M1 1.15, M2 2.11"
+"s": "M1 1.15, M2 2.11",
+"x": "Kursus dan perakuan NIOSH untuk orang yang masuk ke ruang terkurung atau berjaga di luarnya (standby person).",
+"e": "Pekerja yang membersihkan pembentung mesti lulus kursus AESP sebelum dibenarkan masuk."
 },
 {
 "g": "A–B",
 "a": "AGT",
 "m": "Authorised Gas Tester (confined space)",
-"s": "M2 2.11"
+"s": "M2 2.11",
+"x": "Orang yang terlatih dan diberi kuasa untuk menguji udara ruang terkurung (oksigen, gas mudah terbakar, gas toksik).",
+"e": "AGT mengukur paras oksigen dalam tangki sebelum pekerja masuk; bacaan mesti 19.5–23.5%."
 },
 {
 "g": "A–B",
 "a": "AGTES",
 "m": "Authorised Gas Tester and Entry Supervisor",
-"s": "M1 1.15, M2 2.11"
+"s": "M1 1.15, M2 2.11",
+"x": "Kursus dan perakuan untuk penguji gas dan penyelia kemasukan ruang terkurung.",
+"e": "Penyelia yang menandatangani permit masuk ke manhol mesti memegang perakuan AGTES."
 },
 {
 "g": "A–B",
 "a": "AGV",
 "m": "Automated Guided Vehicle",
-"s": "M2 2.07"
+"s": "M2 2.07",
+"x": "Kenderaan tanpa pemandu yang bergerak sendiri mengikut laluan yang diprogramkan untuk mengangkut barang.",
+"e": "Gudang automatik menggunakan AGV untuk membawa palet; laluannya perlu ditanda dan dipisahkan daripada pejalan kaki."
 },
 {
 "g": "A–B",
 "a": "AI",
 "m": "Artificial Intelligence",
-"s": "M4 4.04"
+"s": "M4 4.04",
+"x": "Kecerdasan buatan, iaitu sistem komputer yang boleh belajar dan membuat keputusan.",
+"e": "Kamera AI mengesan pekerja yang tidak memakai topi keselamatan di tapak bina."
 },
 {
 "g": "A–B",
 "a": "AIHA",
 "m": "American Industrial Hygiene Association",
-"s": "M3 3.03, 3.05, 3.13"
+"s": "M3 3.03, 3.05, 3.13",
+"x": "Persatuan profesional higiene industri di Amerika Syarikat yang menerbitkan panduan dan had WEEL.",
+"e": "Makmal yang diakreditasi oleh AIHA dipilih untuk menganalisis sampel udara."
 },
 {
 "g": "A–B",
 "a": "AKKP 1994",
 "m": "Akta Keselamatan dan Kesihatan Pekerjaan 1994",
-"s": "M1 1.17, Act 514 (full)"
+"s": "M1 1.17, Act 514 (full)",
+"x": "Akta Keselamatan dan Kesihatan Pekerjaan 1994 (Akta 514), undang-undang utama KKP di Malaysia.",
+"e": "Kewajipan majikan memastikan keselamatan pekerja setakat yang praktik terdapat dalam s.15 AKKP 1994."
 },
 {
 "g": "A–B",
 "a": "AKSP 1969",
 "m": "Akta Keselamatan Sosial Pekerja 1969 (Act 4)",
-"s": "M1 1.16"
+"s": "M1 1.16",
+"x": "Akta Keselamatan Sosial Pekerja 1969 (Akta 4) yang melindungi pekerja di bawah skim PERKESO.",
+"e": "Pekerja yang cedera semasa bekerja menuntut faedah Skim Bencana Pekerjaan di bawah AKSP 1969."
 },
 {
 "g": "A–B",
 "a": "AKSPS 2017",
 "m": "Akta Keselamatan Sosial Pekerjaan Sendiri 2017 (Act 789)",
-"s": "M1 1.16"
+"s": "M1 1.16",
+"x": "Akta Keselamatan Sosial Pekerjaan Sendiri 2017 (Akta 789) untuk orang yang bekerja sendiri.",
+"e": "Pemandu e-hailing mencarum di bawah AKSPS 2017 supaya dilindungi jika cedera semasa bekerja."
 },
 {
 "g": "A–B",
 "a": "AKSSR 2022",
 "m": "Akta Keselamatan Sosial Suri Rumah 2022 (Act 838)",
-"s": "M1 1.16"
+"s": "M1 1.16",
+"x": "Akta Keselamatan Sosial Suri Rumah 2022 (Akta 838) yang melindungi suri rumah.",
+"e": "Suami mencarum untuk isterinya di bawah AKSSR 2022 supaya dilindungi jika cedera semasa membuat kerja rumah."
 },
 {
 "g": "A–B",
 "a": "ALARA",
 "m": "As Low As Reasonably Achievable (radiation)",
-"s": "M3 3.18"
+"s": "M3 3.18",
+"x": "Prinsip perlindungan sinaran: kurangkan dos serendah yang munasabah dapat dicapai.",
+"e": "Juru-X-ray menggunakan masa, jarak dan pelindung (shielding) untuk mencapai ALARA."
 },
 {
 "g": "A–B",
 "a": "ALARP",
 "m": "As Low As Reasonably Practicable",
-"s": "M3 3.10, M4 4.02"
+"s": "M3 3.10, M4 4.02",
+"x": "Prinsip mengurangkan risiko sehingga kos usaha tambahan jauh melebihi manfaatnya.",
+"e": "Selepas memasang pengadang mesin dan interlock, baki risiko yang rendah dianggap ALARP."
 },
 {
 "g": "A–B",
 "a": "AMS",
 "m": "Acute Mountain Sickness",
-"s": "M3 3.18"
+"s": "M3 3.18",
+"x": "Penyakit akibat naik ke tempat tinggi terlalu cepat; gejalanya sakit kepala, loya dan pening.",
+"e": "Pekerja di menara telekomunikasi di Gunung Kinabalu boleh mengalami AMS jika tidak menyesuaikan diri dahulu."
 },
 {
 "g": "A–B",
 "a": "AOEMM",
 "m": "Academy of Occupational and Environmental Medicine Malaysia (NGO)",
-"s": "M3 3.01A"
+"s": "M3 3.01A",
+"x": "Akademi perubatan pekerjaan dan alam sekitar di Malaysia, sebuah NGO yang menyokong KKP.",
+"e": "AOEMM menganjurkan kursus untuk Doktor Kesihatan Pekerjaan (OHD)."
 },
 {
 "g": "A–B",
 "a": "AP1–AP3",
 "m": "Action Priority levels 1–3 (CHRA recommendations)",
-"s": "M3 3.10"
+"s": "M3 3.10",
+"x": "Tahap keutamaan tindakan dalam laporan CHRA: AP1 paling segera, AP3 paling rendah.",
+"e": "Tangki pelarut tanpa LEV dengan pendedahan tinggi diberi AP1 dan mesti dibetulkan dahulu."
 },
 {
 "g": "A–B",
 "a": "APA",
 "m": "American Psychological Association",
-"s": "M3 3.06"
+"s": "M3 3.06",
+"x": "Persatuan Psikologi Amerika; rujukan untuk definisi dan kajian tekanan kerja.",
+"e": "Definisi stres kerja dalam nota Modul 3 dipetik daripada APA."
 },
 {
 "g": "A–B",
 "a": "APAD",
 "m": "Agensi Pengangkutan Awam Darat (Akta APAD 2010)",
-"s": "M1 1.17"
+"s": "M1 1.17",
+"x": "Agensi Pengangkutan Awam Darat yang mengawal selia pengangkutan awam darat di bawah Akta APAD 2010.",
+"e": "Syarikat bas ekspres mesti mematuhi syarat lesen dan keselamatan APAD."
 },
 {
 "g": "A–B",
 "a": "APD",
 "m": "Automated Peritoneal Dialysis",
-"s": "M1 1.16"
+"s": "M1 1.16",
+"x": "Dialisis peritoneum automatik, iaitu dialisis di rumah menggunakan mesin pada waktu malam.",
+"e": "PERKESO membiayai APD untuk pencarum hilang upaya yang mengalami kegagalan buah pinggang."
 },
 {
 "g": "A–B",
 "a": "APR",
 "m": "Air-Purifying Respirator",
-"s": "M4 4.05"
+"s": "M4 4.05",
+"x": "Respirator yang menapis udara sekeliling melalui penapis atau kartrij sebelum dihirup.",
+"e": "Topeng separuh muka dengan kartrij wap organik ialah APR; tidak sesuai jika oksigen kurang."
 },
 {
 "g": "A–B",
 "a": "AR",
 "m": "Attributable Risk",
-"s": "M3 3.02"
+"s": "M3 3.02",
+"x": "Risiko boleh atribut: perbezaan kadar penyakit antara kumpulan terdedah dengan tidak terdedah.",
+"e": "Jika kadar pekak ialah 20% dalam kumpulan bising dan 5% dalam kumpulan senyap, AR = 15%."
 },
 {
 "g": "A–B",
 "a": "ART",
 "m": "Assessment of Repetitive Tasks",
-"s": "M3 3.08"
+"s": "M3 3.08",
+"x": "Alat penilaian HSE UK untuk tugas berulang anggota atas (lengan dan tangan).",
+"e": "ART digunakan untuk menilai pekerja barisan pemasangan yang memasang skru beratus kali sejam."
 },
 {
 "g": "A–B",
 "a": "AS 8401",
 "m": "Australian OSH management standard (as written on the slide)",
-"s": "M1 1.01"
+"s": "M1 1.01",
+"x": "Piawai sistem pengurusan KKP Australia, sebagaimana tertulis dalam slaid kursus.",
+"e": "Disenaraikan bersama BS 8800 dan OHSAS 18001 sebagai piawai OSHMS awal."
 },
 {
 "g": "A–B",
 "a": "ASHRAE",
 "m": "American Society of Heating, Refrigerating and Air-Conditioning Engineers",
-"s": "M3 3.16"
+"s": "M3 3.16",
+"x": "Persatuan jurutera pemanasan, penyejukan dan penyaman udara Amerika yang menerbitkan piawai pengudaraan.",
+"e": "Kadar udara segar minimum bagi pejabat dalam panduan IAQ merujuk piawai ASHRAE 62.1."
 },
 {
 "g": "A–B",
 "a": "ASIP 2017",
 "m": "Akta Sistem Insurans Pekerjaan 2017 (Act 800)",
-"s": "M1 1.16"
+"s": "M1 1.16",
+"x": "Akta Sistem Insurans Pekerjaan 2017 (Akta 800) yang membantu pekerja yang kehilangan pekerjaan.",
+"e": "Pekerja yang diberhentikan menuntut elaun mencari pekerjaan di bawah ASIP 2017."
 },
 {
 "g": "A–B",
 "a": "ASME",
 "m": "American Society of Mechanical Engineers",
-"s": "M2 2.06"
+"s": "M2 2.06",
+"x": "Persatuan Jurutera Mekanikal Amerika yang menerbitkan kod dandang, bekas tekanan dan kren.",
+"e": "Rekabentuk bekas tekanan biasanya mengikut ASME Section VIII."
 },
 {
 "g": "A–B",
 "a": "AS/NZS",
 "m": "Australian/New Zealand Standard",
-"s": "M3 3.18"
+"s": "M3 3.18",
+"x": "Piawai bersama Australia dan New Zealand.",
+"e": "AS/NZS 1269 dirujuk untuk pengurusan bunyi bising pekerjaan."
 },
 {
 "g": "A–B",
 "a": "ASTM",
 "m": "ASTM International (test methods)",
-"s": "M3 3.13"
+"s": "M3 3.13",
+"x": "Badan piawai antarabangsa yang menerbitkan kaedah ujian bahan.",
+"e": "Kaedah ujian ASTM digunakan untuk analisis sampel di makmal."
 },
 {
 "g": "A–B",
 "a": "ATC",
 "m": "Audiometric Testing Centre",
-"s": "M1 1.09"
+"s": "M1 1.09",
+"x": "Pusat Ujian Audiometri yang berdaftar dengan JKKP untuk menjalankan ujian pendengaran pekerja.",
+"e": "Pekerja yang terdedah melebihi aras tindakan menjalani ujian audiometri tahunan di ATC berdaftar."
 },
 {
 "g": "A–B",
 "a": "ATM",
 "m": "Angkatan Tentera Malaysia",
-"s": "Act 302 (full)"
+"s": "Act 302 (full)",
+"x": "Angkatan Tentera Malaysia, disebut penuh dalam Akta 302.",
+"e": "Akta 514 tidak terpakai kepada angkatan tentera (Jadual Pertama)."
 },
 {
 "g": "A–B",
 "a": "AWS",
 "m": "American Welding Society",
-"s": "M2 2.10"
+"s": "M2 2.10",
+"x": "Persatuan Kimpalan Amerika yang menerbitkan piawai dan panduan keselamatan kimpalan.",
+"e": "Panduan pengudaraan dan perlindungan mata semasa kimpalan merujuk piawai AWS."
 },
 {
 "g": "A–B",
 "a": "BBS",
 "m": "Behaviour-Based Safety",
-"s": "M1 1.01"
+"s": "M1 1.01",
+"x": "Pendekatan keselamatan yang memerhati dan mengukuhkan tingkah laku selamat pekerja.",
+"e": "Penyelia memerhati pekerja, memuji tingkah laku selamat dan membincangkan tingkah laku berisiko."
 },
 {
 "g": "A–B",
 "a": "BCM",
 "m": "Business Continuity Management (ISO 22301)",
-"s": "M4 4.05"
+"s": "M4 4.05",
+"x": "Pengurusan kesinambungan perniagaan supaya operasi penting terus berjalan semasa krisis (ISO 22301).",
+"e": "Kilang menyediakan pembekal sandaran dan pusat data kedua sebagai sebahagian daripada BCM."
 },
 {
 "g": "A–B",
 "a": "BEI",
 "m": "Biological Exposure Index (ACGIH)",
-"s": "M3 3.03, 3.14"
+"s": "M3 3.03, 3.14",
+"x": "Indeks pendedahan biologi ACGIH: aras bahan atau metabolitnya dalam darah, air kencing atau nafas.",
+"e": "Paras plumbum dalam darah pekerja dibandingkan dengan BEI untuk plumbum."
 },
 {
 "g": "A–B",
 "a": "BEL",
 "m": "Biological Exposure Limit",
-"s": "M3 3.03, 3.14"
+"s": "M3 3.03, 3.14",
+"x": "Had pendedahan biologi, iaitu paras maksimum biomarker dalam badan pekerja.",
+"e": "Jika metabolit benzena dalam air kencing melebihi BEL, punca pendedahan perlu disiasat."
 },
 {
 "g": "A–B",
 "a": "BEM",
 "m": "Biological Effect Monitoring",
-"s": "M3 3.14"
+"s": "M3 3.14",
+"x": "Pemantauan kesan biologi, iaitu mengukur perubahan awal dalam badan akibat pendedahan.",
+"e": "Mengukur aktiviti enzim kolinesterase dalam darah pekerja yang mengendalikan racun organofosfat."
 },
 {
 "g": "A–B",
 "a": "BIA",
 "m": "Business Impact Analysis",
-"s": "M4 4.05"
+"s": "M4 4.05",
+"x": "Analisis kesan perniagaan untuk menentukan fungsi kritikal dan kesan jika ia terganggu.",
+"e": "BIA menunjukkan bahawa sistem bil tidak boleh terhenti lebih 4 jam."
 },
 {
 "g": "A–B",
 "a": "BLEVE",
 "m": "Boiling Liquid Expanding Vapour Explosion",
-"s": "M1 1.13"
+"s": "M1 1.13",
+"x": "Letupan apabila bekas yang mengandungi cecair bertekanan pecah dan cecair itu mendidih serta mengembang serta-merta.",
+"e": "Tangki LPG yang terbakar dari luar boleh pecah dan menghasilkan bebola api BLEVE."
 },
 {
 "g": "A–B",
 "a": "BM",
 "m": "Biological Monitoring",
-"s": "M3 3.14"
+"s": "M3 3.14",
+"x": "Pemantauan biologi, iaitu mengukur bahan kimia atau metabolitnya dalam sampel badan pekerja.",
+"e": "Ujian air kencing untuk asid hipurik bagi pekerja yang terdedah kepada toluena."
 },
 {
 "g": "A–B",
 "a": "BOMBA",
 "m": "Jabatan Bomba dan Penyelamat Malaysia (= JBPM)",
-"s": "M1 1.18, M2 2.12"
+"s": "M1 1.18, M2 2.12",
+"x": "Nama biasa Jabatan Bomba dan Penyelamat Malaysia (JBPM) di bawah Akta Perkhidmatan Bomba 1988.",
+"e": "BOMBA mengeluarkan Perakuan Bomba bagi bangunan yang mempunyai sistem pencegahan kebakaran yang mencukupi."
 },
 {
 "g": "A–B",
 "a": "BRI",
 "m": "Building-Related Illness",
-"s": "M3 3.16"
+"s": "M3 3.16",
+"x": "Penyakit yang boleh dikenal pasti puncanya dalam bangunan dan berterusan walaupun selepas keluar.",
+"e": "Penyakit Legionnaires daripada menara penyejuk yang tercemar ialah BRI."
 },
 {
 "g": "A–B",
 "a": "BS / BS EN",
 "m": "British Standard (e.g. BS 8800); BS EN = British adoption of a European Norm",
-"s": "M1 1.01, M4 4.05"
+"s": "M1 1.01, M4 4.05",
+"x": "BS ialah Piawai British; BS EN ialah piawai Eropah (EN) yang diterima pakai sebagai piawai British.",
+"e": "BS 8800 ialah panduan awal OSHMS; BS EN 166 ialah piawai pelindung mata."
 },
 {
 "g": "A–B",
 "a": "BSC",
 "m": "Biological Safety Cabinet",
-"s": "M3 3.17"
+"s": "M3 3.17",
+"x": "Kabinet berpengudaraan dengan penapis HEPA untuk mengendalikan bahan biologi dengan selamat.",
+"e": "Juruteknik makmal memproses sampel TB di dalam BSC Kelas II."
 },
 {
 "g": "C–D",
 "a": "°C",
 "m": "Degrees Celsius",
-"s": "Act 302"
+"s": "Act 302",
+"x": "Darjah Celsius, unit suhu.",
+"e": "Akta 302 menyebut suhu dalam °C bagi penyimpanan petroleum."
 },
 {
 "g": "C–D",
 "a": "CAPD",
 "m": "Continuous Ambulatory Peritoneal Dialysis",
-"s": "M1 1.16"
+"s": "M1 1.16",
+"x": "Dialisis peritoneum ambulatori berterusan, iaitu pesakit menukar cecair dialisis sendiri beberapa kali sehari tanpa mesin.",
+"e": "PERKESO menyediakan CAPD untuk pencarum yang mengalami kegagalan buah pinggang."
 },
 {
 "g": "C–D",
 "a": "CAS",
 "m": "Chemical Abstracts Service (registry number)",
-"s": "M3 3.12"
+"s": "M3 3.12",
+"x": "Nombor pendaftaran unik untuk setiap bahan kimia.",
+"e": "Nombor CAS bagi benzena ialah 71-43-2; ia tertera dalam SDS."
 },
 {
 "g": "C–D",
 "a": "CBI",
 "m": "Confidential Business Information",
-"s": "M3 3.12"
+"s": "M3 3.12",
+"x": "Maklumat perniagaan sulit, contohnya resipi campuran bahan kimia yang boleh dirahsiakan dalam SDS.",
+"e": "Pembekal menyembunyikan peratus tepat bahan dalam SDS sebagai CBI tetapi masih mesti mendedahkan bahayanya."
 },
 {
 "g": "C–D",
 "a": "CCC",
 "m": "Certificate of Completion and Compliance",
-"s": "M2 2.12"
+"s": "M2 2.12",
+"x": "Perakuan Siap dan Pematuhan yang dikeluarkan setelah bangunan siap mengikut pelan yang diluluskan.",
+"e": "Bangunan baharu hanya boleh diduduki selepas CCC dikeluarkan."
 },
 {
 "g": "C–D",
 "a": "CCTV",
 "m": "Closed-Circuit Television",
-"s": "M4 4.04"
+"s": "M4 4.04",
+"x": "Televisyen litar tertutup untuk pengawasan.",
+"e": "CCTV di kawasan pemunggahan membantu menyiasat kemalangan forklift."
 },
 {
 "g": "C–D",
 "a": "CDC",
 "m": "Centers for Disease Control and Prevention (US)",
-"s": "M3 3.02, 3.09, 3.14"
+"s": "M3 3.02, 3.09, 3.14",
+"x": "Pusat Kawalan dan Pencegahan Penyakit Amerika Syarikat.",
+"e": "Panduan CDC tentang kawalan jangkitan dirujuk semasa wabak COVID-19."
 },
 {
 "g": "C–D",
 "a": "CDM",
 "m": "Construction (Design and Management) Regulations 2024",
-"s": "M1 1.01, 1.11, M2"
+"s": "M1 1.01, 1.11, M2",
+"x": "Peraturan KKP (Pengurusan Reka Bentuk dan Pembinaan) 2024 di bawah Akta 514 yang menetapkan tugas pihak dalam projek pembinaan.",
+"e": "Di bawah CDM, klien mesti melantik Pereka Bentuk Utama dan Kontraktor Utama."
 },
 {
 "g": "C–D",
 "a": "CE",
 "m": "Conformité Européenne (EU product marking)",
-"s": "M4 4.05"
+"s": "M4 4.05",
+"x": "Tanda pematuhan produk dengan keperluan keselamatan Kesatuan Eropah.",
+"e": "Topi keselamatan bertanda CE menunjukkan ia mematuhi piawai Eropah."
 },
 {
 "g": "C–D",
 "a": "CEM",
 "m": "Chemical Exposure Monitoring",
-"s": "M3 3.13"
+"s": "M3 3.13",
+"x": "Pemantauan pendedahan kimia, iaitu persampelan udara di zon pernafasan pekerja.",
+"e": "Pengamal higiene memakai pam persampelan pada pekerja untuk mengukur wap pelarut selama 8 jam."
 },
 {
 "g": "C–D",
 "a": "CEP",
 "m": "Continuous Education Programme",
-"s": "M1 1.01, 1.04"
+"s": "M1 1.01, 1.04",
+"x": "Program pendidikan berterusan untuk mengekalkan pendaftaran SHO dan orang kompeten.",
+"e": "SHO mesti mengumpul mata CEP dengan menghadiri seminar setiap tahun untuk memperbaharui pendaftaran."
 },
 {
 "g": "C–D",
 "a": "CF",
 "m": "Certificate of Fitness (perakuan kelayakan)",
-"s": "M1 1.01, 1.12, 1.13, 1.19, M2, Act 514"
+"s": "M1 1.01, 1.12, 1.13, 1.19, M2, Act 514",
+"x": "Perakuan kelayakan (PMA) untuk loji berisiko seperti dandang, bekas tekanan dan mesin angkat.",
+"e": "Kren menara mesti mempunyai CF yang sah sebelum digunakan (s.27D Akta 514)."
 },
 {
 "g": "C–D",
 "a": "CFR",
 "m": "(US) Code of Federal Regulations",
-"s": "M3 3.14, 3.17"
+"s": "M3 3.14, 3.17",
+"x": "Kod Peraturan Persekutuan Amerika Syarikat.",
+"e": "Had pendedahan OSHA AS terdapat dalam 29 CFR 1910.1000."
 },
 {
 "g": "C–D",
 "a": "CGS",
 "m": "Control Guidance Sheet",
-"s": "M3 3.10"
+"s": "M3 3.10",
+"x": "Lembaran panduan kawalan yang memberi langkah kawalan untuk aktiviti kimia tertentu.",
+"e": "CGS untuk mengecat dengan semburan mencadangkan bilik semburan berpengudaraan dan RPE."
 },
 {
 "g": "C–D",
 "a": "CHC",
 "m": "Chemicals Classification and Hazard Communication (ICOP CHC 2014)",
-"s": "M3 3.12"
+"s": "M3 3.12",
+"x": "Peraturan Klasifikasi dan Komunikasi Bahaya Bahan Kimia, diperincikan dalam ICOP CHC 2014.",
+"e": "ICOP CHC menerangkan cara mengklasifikasi bahan kimia dan menyediakan label serta SDS."
 },
 {
 "g": "C–D",
 "a": "CHH",
 "m": "Chemicals Hazardous to Health (= CHTH)",
-"s": "M1 1.07"
+"s": "M1 1.07",
+"x": "Bahan kimia berbahaya kepada kesihatan (sama dengan CHTH).",
+"e": "Pelarut toluena ialah CHH dan memerlukan CHRA."
 },
 {
 "g": "C–D",
 "a": "CHRA",
 "m": "Chemical Health Risk Assessment",
-"s": "M1 1.01, 1.07, M3, Act 514"
+"s": "M1 1.01, 1.07, M3, Act 514",
+"x": "Penilaian risiko kesihatan bahan kimia yang diwajibkan di bawah Peraturan USECHH.",
+"e": "CHRA mesti dibuat oleh penilai berdaftar dan dikaji semula sekurang-kurangnya setiap 5 tahun."
 },
 {
 "g": "C–D",
 "a": "CHTH",
 "m": "Chemicals Hazardous to Health (= CHH)",
-"s": "M3 3.10, 3.13, 3.14"
+"s": "M3 3.10, 3.13, 3.14",
+"x": "Bahan kimia berbahaya kepada kesihatan, istilah dalam Peraturan USECHH.",
+"e": "Formaldehid di makmal hospital ialah CHTH dan perlu dipantau."
 },
 {
 "g": "C–D",
 "a": "CIDB",
 "m": "Construction Industry Development Board",
-"s": "M1 1.01, M2 2.12"
+"s": "M1 1.01, M2 2.12",
+"x": "Lembaga Pembangunan Industri Pembinaan yang mendaftar kontraktor dan pekerja binaan.",
+"e": "Pekerja binaan mesti memegang kad hijau CIDB sebelum masuk ke tapak."
 },
 {
 "g": "C–D",
 "a": "CIMAH",
 "m": "Control of Industrial Major Accident Hazards",
-"s": "M1 1.01, 1.06, 1.10"
+"s": "M1 1.01, 1.06, 1.10",
+"x": "Peraturan Kawalan Bahaya Kemalangan Besar Perindustrian 1996 untuk premis yang menyimpan bahan berbahaya dalam kuantiti besar.",
+"e": "Loji LPG yang melebihi kuantiti ambang mesti menghantar laporan keselamatan di bawah CIMAH."
 },
 {
 "g": "C–D",
 "a": "CL",
 "m": "Ceiling Limit",
-"s": "M3 3.03, 3.13"
+"s": "M3 3.03, 3.13",
+"x": "Had siling, iaitu kepekatan yang tidak boleh dilampaui walau sekejap pun.",
+"e": "Formaldehid mempunyai had siling; pendedahan seketika melebihi had itu sudah melanggar."
 },
 {
 "g": "C–D",
 "a": "CLASS",
 "m": "Classification, Labelling and Safety Data Sheet of Hazardous Chemicals",
-"s": "M1 1.08, M3"
+"s": "M1 1.08, M3",
+"x": "Peraturan Klasifikasi, Pelabelan dan Helaian Data Keselamatan Bahan Kimia Berbahaya 2013, menggantikan CPL 1997.",
+"e": "Di bawah CLASS, pembekal mesti melabel bahan kimia dengan piktogram GHS dan menyediakan SDS."
 },
 {
 "g": "C–D",
 "a": "CMP",
 "m": "Crisis Management Plan",
-"s": "M4 4.05"
+"s": "M4 4.05",
+"x": "Pelan pengurusan krisis yang menetapkan peranan dan tindakan pengurusan semasa krisis besar.",
+"e": "CMP menetapkan siapa jurucakap media jika berlaku letupan di kilang."
 },
 {
 "g": "C–D",
 "a": "CNS",
 "m": "Central Nervous System",
-"s": "M3 3.04"
+"s": "M3 3.04",
+"x": "Sistem saraf pusat, iaitu otak dan saraf tunjang.",
+"e": "Pelarut organik boleh menekan CNS dan menyebabkan pening serta mengantuk."
 },
 {
 "g": "C–D",
 "a": "CoA",
 "m": "Certificate of Accommodation",
-"s": "M1 1.19"
+"s": "M1 1.19",
+"x": "Perakuan Penginapan bagi penginapan pekerja di bawah Akta 446.",
+"e": "Majikan mesti memperoleh CoA daripada JTK sebelum menempatkan pekerja di asrama."
 },
 {
 "g": "C–D",
 "a": "CoF",
 "m": "Consequence of Failure",
-"s": "M1 1.13"
+"s": "M1 1.13",
+"x": "Akibat kegagalan, iaitu sejauh mana teruknya kesan jika sesuatu peralatan gagal; digunakan dalam RBI.",
+"e": "Kebocoran bekas tekanan berisi gas toksik mempunyai CoF yang tinggi."
 },
 {
 "g": "C–D",
 "a": "COVID-19",
 "m": "Coronavirus Disease 2019",
-"s": "M2 2.16, M3 3.17"
+"s": "M2 2.16, M3 3.17",
+"x": "Penyakit koronavirus 2019 yang menjadi pandemik pada 2020.",
+"e": "Majikan melaksanakan SOP COVID-19 seperti penjarakan fizikal dan saringan suhu."
 },
 {
 "g": "C–D",
 "a": "CP",
 "m": "Competent Person (orang kompeten)",
-"s": "M1 1.01, 1.03, 1.12, 1.13, Act 514"
+"s": "M1 1.01, 1.03, 1.12, 1.13, Act 514",
+"x": "Orang kompeten, iaitu orang yang terlatih, layak dan berdaftar dengan JKKP untuk kerja tertentu (Jadual Kelima Akta 514).",
+"e": "Hanya orang kompeten berdaftar boleh mengendalikan dandang stim."
 },
 {
 "g": "C–D",
 "a": "CPL",
 "m": "Classification, Packaging and Labelling Regulations 1997",
-"s": "M1 1.07, 1.08"
+"s": "M1 1.07, 1.08",
+"x": "Peraturan Klasifikasi, Pembungkusan dan Pelabelan 1997, yang telah digantikan oleh CLASS 2013.",
+"e": "Label lama berwarna jingga dengan simbol pangkah ialah format CPL."
 },
 {
 "g": "C–D",
 "a": "CPR",
 "m": "Cardiopulmonary Resuscitation",
-"s": "M2 2.13, M4 4.05"
+"s": "M2 2.13, M4 4.05",
+"x": "Resusitasi kardiopulmonari, iaitu tekanan dada dan bantuan pernafasan untuk mangsa yang jantungnya terhenti.",
+"e": "Penolong cemas memberi 30 tekanan dada diikuti 2 hembusan nafas."
 },
 {
 "g": "C–D",
 "a": "CSDS",
 "m": "Chemical Safety Data Sheet",
-"s": "M1 1.07, 1.08"
+"s": "M1 1.07, 1.08",
+"x": "Helaian Data Keselamatan Bahan Kimia, istilah lama untuk SDS.",
+"e": "CSDS memberi maklumat bahaya, PPE dan tindakan pertolongan cemas bagi sesuatu bahan kimia."
 },
 {
 "g": "C–D",
 "a": "CWC",
 "m": "Construction Work Contractor",
-"s": "M1 1.11"
+"s": "M1 1.11",
+"x": "Kontraktor Kerja Binaan, iaitu kontraktor di bawah Peraturan CDM.",
+"e": "Subkontraktor bumbung ialah CWC yang mesti mematuhi pelan keselamatan kontraktor utama."
 },
 {
 "g": "C–D",
 "a": "CWD",
 "m": "Construction Work Designer",
-"s": "M1 1.11"
+"s": "M1 1.11",
+"x": "Pereka Bentuk Kerja Binaan, iaitu pereka bentuk di bawah Peraturan CDM.",
+"e": "Arkitek yang mereka bentuk titik sauh untuk kerja di tempat tinggi ialah CWD."
 },
 {
 "g": "C–D",
 "a": "DASS-21",
 "m": "Depression Anxiety Stress Scale 21",
-"s": "M3 3.06"
+"s": "M3 3.06",
+"x": "Soal selidik 21 soalan untuk menyaring tahap kemurungan, kebimbangan dan stres.",
+"e": "Pekerja menjawab DASS-21 sebagai sebahagian daripada penilaian risiko psikososial."
 },
 {
 "g": "C–D",
 "a": "dB(A) / dB(C)",
 "m": "Decibels, A-weighted / C-weighted",
-"s": "M1 1.09"
+"s": "M1 1.09",
+"x": "Unit aras bunyi; skala A meniru pendengaran manusia, skala C digunakan untuk bunyi puncak.",
+"e": "Had pendedahan ialah 85 dB(A) bagi 8 jam dan had puncak ialah 140 dB(C)."
 },
 {
 "g": "C–D",
 "a": "DDT",
 "m": "Dichlorodiphenyltrichloroethane (pesticide)",
-"s": "M3 3.04, 3.11"
+"s": "M3 3.04, 3.11",
+"x": "Racun serangga organoklorin yang kekal lama dalam alam sekitar dan badan.",
+"e": "DDT pernah digunakan untuk membasmi nyamuk tetapi kini diharamkan di banyak negara."
 },
 {
 "g": "C–D",
 "a": "DG",
 "m": "Director General (Ketua Pengarah)",
-"s": "M1 1.03–1.19, Act 514 (full)"
+"s": "M1 1.03–1.19, Act 514 (full)",
+"x": "Ketua Pengarah Keselamatan dan Kesihatan Pekerjaan yang mengetuai JKKP.",
+"e": "Kemalangan dilaporkan kepada DG melalui pejabat JKKP yang terdekat."
 },
 {
 "g": "C–D",
 "a": "DKPN",
 "m": "Dasar Kebombaan dan Penyelamatan Negara (2021–2030)",
-"s": "M1 1.18"
+"s": "M1 1.18",
+"x": "Dasar Kebombaan dan Penyelamatan Negara 2021–2030.",
+"e": "DKPN menggariskan hala tuju JBPM dalam pencegahan kebakaran dan penyelamatan."
 },
 {
 "g": "C–D",
 "a": "DNA",
 "m": "Deoxyribonucleic Acid",
-"s": "M3 3.17"
+"s": "M3 3.17",
+"x": "Asid deoksiribonukleik, iaitu bahan genetik dalam sel.",
+"e": "Bahan karsinogenik seperti benzena boleh merosakkan DNA."
 },
 {
 "g": "C–D",
 "a": "DOE",
 "m": "Department of Environment",
-"s": "M2 2.12"
+"s": "M2 2.12",
+"x": "Jabatan Alam Sekitar yang menguatkuasakan Akta Kualiti Alam Sekeliling 1974.",
+"e": "Projek yang memerlukan EIA mesti mendapat kelulusan DOE."
 },
 {
 "g": "C–D",
 "a": "DOSH",
 "m": "Department of Occupational Safety and Health (= JKKP)",
-"s": "M1–M4"
+"s": "M1–M4",
+"x": "Jabatan Keselamatan dan Kesihatan Pekerjaan (JKKP) di bawah Kementerian Sumber Manusia.",
+"e": "Pegawai DOSH memeriksa kilang dan boleh mengeluarkan notis perbaikan atau larangan."
 },
 {
 "g": "C–D",
 "a": "DRABC",
 "m": "Danger, Response, Airway, Breathing, Circulation (first aid)",
-"s": "M4 4.05"
+"s": "M4 4.05",
+"x": "Urutan langkah awal pertolongan cemas: bahaya, respons, saluran udara, pernafasan, peredaran darah.",
+"e": "Sebelum mendekati mangsa terkena kejutan elektrik, pastikan bekalan sudah diputuskan (D dalam DRABC)."
 },
 {
 "g": "C–D",
 "a": "dsb.",
 "m": "dan sebagainya (etc.)",
-"s": "All four Acts"
+"s": "All four Acts",
+"x": "Singkatan \"dan sebagainya\".",
+"e": "Tajuk seksyen \"Pelantikan pegawai, dsb.\" dalam Akta 514."
 },
 {
 "g": "C–D",
 "a": "DSE",
 "m": "Display Screen Equipment",
-"s": "M2 2.15, M3 3.07"
+"s": "M2 2.15, M3 3.07",
+"x": "Peralatan skrin paparan, iaitu monitor komputer dan peralatan berkaitan.",
+"e": "Pengguna DSE perlu menyusun skrin pada aras mata dan berehat seketika secara berkala."
 },
 {
 "g": "C–D",
 "a": "DSM",
 "m": "Department of Standards Malaysia",
-"s": "M3 3.07"
+"s": "M3 3.07",
+"x": "Jabatan Standard Malaysia yang membangunkan dan menerbitkan Piawai Malaysia (MS).",
+"e": "MS 1722 (OSHMS) diterbitkan melalui DSM."
 },
 {
 "g": "C–D",
 "a": "DVT",
 "m": "Deep Vein Thrombosis",
-"s": "M3 3.08"
+"s": "M3 3.08",
+"x": "Pembekuan darah dalam vena kaki, berisiko bagi pekerja yang duduk lama tanpa bergerak.",
+"e": "Pemandu jarak jauh perlu berhenti dan berjalan untuk mengurangkan risiko DVT."
 },
 {
 "g": "E–H",
 "a": "EAP",
 "m": "Employee Assistance Programme",
-"s": "M1 1.15"
+"s": "M1 1.15",
+"x": "Program bantuan pekerja yang menyediakan kaunseling sulit untuk masalah peribadi atau kerja.",
+"e": "Pekerja yang tertekan selepas kemalangan dirujuk kepada EAP untuk kaunseling."
 },
 {
 "g": "E–H",
 "a": "EBSA",
 "m": "Elaun Bekerja Semula Awal (early re-employment allowance)",
-"s": "M1 1.16"
+"s": "M1 1.16",
+"x": "Elaun Bekerja Semula Awal di bawah SIP untuk penerima yang mendapat kerja baharu sebelum tempoh elaun tamat.",
+"e": "Penerima EMP yang cepat mendapat kerja baharu menerima EBSA daripada PERKESO."
 },
 {
 "g": "E–H",
 "a": "EC",
 "m": "European Community (EU directives)",
-"s": "M3 3.17"
+"s": "M3 3.17",
+"x": "Komuniti Eropah, nama lama EU dalam arahan (directive) keselamatan.",
+"e": "Arahan EC tentang ejen biologi dirujuk dalam Modul 3."
 },
 {
 "g": "E–H",
 "a": "ECC",
 "m": "Emergency Control Centre",
-"s": "M4 4.05"
+"s": "M4 4.05",
+"x": "Pusat Kawalan Kecemasan tempat operasi kecemasan diselaraskan.",
+"e": "Komander insiden menyelaraskan pemindahan dan hubungan dengan BOMBA dari ECC."
 },
 {
 "g": "E–H",
 "a": "ED / TD / LD",
 "m": "Effective / Toxic / Lethal dose or response (e.g. ED50)",
-"s": "M3 3.04"
+"s": "M3 3.04",
+"x": "Dos berkesan (ED), dos toksik (TD) dan dos maut (LD); angka 50 bermaksud 50% populasi ujian.",
+"e": "LD50 yang lebih rendah bermakna bahan itu lebih toksik."
 },
 {
 "g": "E–H",
 "a": "EIA",
 "m": "Environmental Impact Assessment",
-"s": "M2 2.12"
+"s": "M2 2.12",
+"x": "Penilaian Kesan Alam Sekitar sebelum projek besar diluluskan.",
+"e": "Pembinaan loji kimia baharu memerlukan EIA yang diluluskan oleh DOE."
 },
 {
 "g": "E–H",
 "a": "EIS",
 "m": "Employment Insurance System",
-"s": "M1 1.16"
+"s": "M1 1.16",
+"x": "Sistem Insurans Pekerjaan (SIP) di bawah Akta 800 yang dikendalikan oleh PERKESO.",
+"e": "Pekerja yang hilang kerja akibat penutupan kilang menerima faedah EIS."
 },
 {
 "g": "E–H",
 "a": "EL",
 "m": "Elaun Latihan (training allowance)",
-"s": "M1 1.16"
+"s": "M1 1.16",
+"x": "Elaun Latihan di bawah SIP semasa penerima mengikuti latihan semula.",
+"e": "Penerima SIP yang mengikuti kursus kemahiran menerima EL."
 },
 {
 "g": "E–H",
 "a": "ELS",
 "m": "Elaun Layanan Sentiasa (constant-attendance allowance)",
-"s": "M1 1.16"
+"s": "M1 1.16",
+"x": "Elaun Layanan Sentiasa, iaitu elaun tambahan untuk pencarum yang memerlukan penjagaan orang lain sepanjang masa.",
+"e": "Pekerja lumpuh akibat kemalangan kerja menerima ELS di samping pencen hilang upaya."
 },
 {
 "g": "E–H",
 "a": "ELSA",
 "m": "Emergency Life Support Apparatus (escape set)",
-"s": "M4 4.05"
+"s": "M4 4.05",
+"x": "Alat bantuan pernafasan kecemasan yang digunakan untuk melarikan diri dari kawasan gas toksik.",
+"e": "Pekerja di kawasan berisiko H2S membawa ELSA untuk keluar dengan selamat jika gas bocor."
 },
 {
 "g": "E–H",
 "a": "EMP",
 "m": "Elaun Mencari Pekerjaan (job-search allowance)",
-"s": "M1 1.16"
+"s": "M1 1.16",
+"x": "Elaun Mencari Pekerjaan di bawah SIP untuk orang yang hilang kerja.",
+"e": "Pekerja yang diberhentikan menerima EMP sementara mencari kerja baharu."
 },
 {
 "g": "E–H",
 "a": "EMS",
 "m": "Environmental Management System (ISO 14000)",
-"s": "M1 1.01"
+"s": "M1 1.01",
+"x": "Sistem pengurusan alam sekitar berdasarkan ISO 14001.",
+"e": "Kilang yang memegang ISO 14001 mempunyai EMS untuk mengawal sisa dan pelepasan."
 },
 {
 "g": "E–H",
 "a": "EN",
 "m": "European Norm (standard)",
-"s": "M4 4.05"
+"s": "M4 4.05",
+"x": "Piawai Eropah.",
+"e": "EN 149 ialah piawai bagi respirator penapis FFP."
 },
 {
 "g": "E–H",
 "a": "EPB",
 "m": "Elaun Pendapatan Berkurangan (reduced-income allowance)",
-"s": "M1 1.16"
+"s": "M1 1.16",
+"x": "Elaun Pendapatan Berkurangan di bawah SIP apabila pendapatan berkurang kerana kehilangan satu daripada beberapa pekerjaan.",
+"e": "Pekerja yang mempunyai dua kerja dan hilang satu daripadanya menerima EPB."
 },
 {
 "g": "E–H",
 "a": "EPR",
 "m": "Emergency Preparedness and Response",
-"s": "M4 4.05"
+"s": "M4 4.05",
+"x": "Kesiapsiagaan dan Tindak Balas Kecemasan, iaitu perancangan, latihan dan latih amal kecemasan.",
+"e": "EPR merangkumi latihan pemadam api dan latih amal pemindahan setiap tahun."
 },
 {
 "g": "E–H",
 "a": "EQA",
 "m": "Environmental Quality Act 1974",
-"s": "M1 1.07"
+"s": "M1 1.07",
+"x": "Akta Kualiti Alam Sekeliling 1974 yang mengawal pencemaran.",
+"e": "Pembuangan sisa terjadual mesti mematuhi EQA."
 },
 {
 "g": "E–H",
 "a": "ERA",
 "m": "Ergonomic Risk Assessment",
-"s": "M3 3.07, 3.08"
+"s": "M3 3.07, 3.08",
+"x": "Penilaian risiko ergonomik bagi faktor seperti postur janggal, daya dan pengulangan.",
+"e": "ERA dijalankan pada stesen pembungkusan yang menyebabkan sakit belakang."
 },
 {
 "g": "E–H",
 "a": "ERF",
 "m": "Ergonomic Risk Factors",
-"s": "M3 3.08"
+"s": "M3 3.08",
+"x": "Faktor risiko ergonomik seperti postur janggal, kerja berulang, daya kuat dan getaran.",
+"e": "Mengangkat kotak 25 kg berulang kali dari aras lantai mempunyai beberapa ERF."
 },
 {
 "g": "E–H",
 "a": "ERP",
 "m": "Emergency Response Plan",
-"s": "M1 1.06"
+"s": "M1 1.06",
+"x": "Pelan Tindak Balas Kecemasan yang menerangkan tindakan semasa kecemasan.",
+"e": "ERP bagi premis MHI mesti merangkumi pelan kecemasan di dalam dan di luar tapak."
 },
 {
 "g": "E–H",
 "a": "ERT",
 "m": "Emergency Response Team",
-"s": "M2 2.15, M4 4.05"
+"s": "M2 2.15, M4 4.05",
+"x": "Pasukan Tindak Balas Kecemasan yang terlatih di tempat kerja.",
+"e": "ERT kilang memadamkan kebakaran kecil dan memimpin pemindahan sebelum BOMBA tiba."
 },
 {
 "g": "E–H",
 "a": "ES",
 "m": "Entry Supervisor (confined space)",
-"s": "M2 2.11"
+"s": "M2 2.11",
+"x": "Penyelia kemasukan ruang terkurung yang meluluskan dan mengawasi kemasukan.",
+"e": "ES memastikan ujian gas selesai dan standby person bersedia sebelum menandatangani permit."
 },
 {
 "g": "E–H",
 "a": "ESA",
 "m": "Electricity Supply Act 1990",
-"s": "M2 2.09"
+"s": "M2 2.09",
+"x": "Akta Bekalan Elektrik 1990 yang mengawal pemasangan dan kerja elektrik.",
+"e": "Kerja pendawaian mesti dibuat oleh pendawai berdaftar di bawah ESA."
 },
 {
 "g": "E–H",
 "a": "ESD",
 "m": "Electrostatic Discharge",
-"s": "M3 3.01B"
+"s": "M3 3.01B",
+"x": "Nyahcas elektrostatik, iaitu percikan akibat elektrik statik.",
+"e": "ESD boleh menyalakan wap mudah terbakar; tangki pelarut perlu dibumikan."
 },
 {
 "g": "E–H",
 "a": "ETS",
 "m": "Environmental Tobacco Smoke",
-"s": "M3 3.16"
+"s": "M3 3.16",
+"x": "Asap rokok persekitaran yang dihirup oleh orang yang tidak merokok.",
+"e": "ETS ialah pencemar IAQ di pejabat yang membenarkan merokok."
 },
 {
 "g": "E–H",
 "a": "EU",
 "m": "European Union",
-"s": "M3 3.03, 3.17, M4 4.05"
+"s": "M3 3.03, 3.17, M4 4.05",
+"x": "Kesatuan Eropah.",
+"e": "Had OEL EU dirujuk apabila Malaysia tiada had untuk sesuatu bahan."
 },
 {
 "g": "E–H",
 "a": "EV",
 "m": "Electric Vehicle",
-"s": "M2 2.09"
+"s": "M2 2.09",
+"x": "Kenderaan elektrik yang dikuasakan oleh bateri.",
+"e": "Bengkel yang membaiki EV memerlukan prosedur kerja voltan tinggi."
 },
 {
 "g": "E–H",
 "a": "FEMA",
 "m": "Federal Emergency Management Agency (US)",
-"s": "M4 4.05"
+"s": "M4 4.05",
+"x": "Agensi Pengurusan Kecemasan Persekutuan Amerika Syarikat.",
+"e": "Konsep ICS untuk pengurusan bencana berasal daripada amalan FEMA."
 },
 {
 "g": "E–H",
 "a": "FFP",
 "m": "Filtering Face Piece (respirator class)",
-"s": "M4 4.05"
+"s": "M4 4.05",
+"x": "Kelas respirator penapis pakai buang di Eropah: FFP1, FFP2 dan FFP3 (paling tinggi).",
+"e": "Pekerja yang mengendalikan habuk silika memakai respirator FFP3."
 },
 {
 "g": "E–H",
 "a": "FGV",
 "m": "FGV Holdings Berhad",
-"s": "M3 3.01B"
+"s": "M3 3.01B",
+"x": "FGV Holdings Berhad, syarikat perladangan; disebut sebagai contoh kes kesihatan pekerjaan.",
+"e": "Program pengurusan racun perosak di ladang FGV dibincangkan dalam Modul 3."
 },
 {
 "g": "E–H",
 "a": "FID",
 "m": "Flame Ionisation Detector",
-"s": "M3 3.13"
+"s": "M3 3.13",
+"x": "Pengesan pengionan nyala, iaitu pengesan dalam kromatografi gas untuk sebatian organik.",
+"e": "Sampel tiub arang dianalisis dengan GC-FID untuk mengukur kepekatan toluena."
 },
 {
 "g": "E–H",
 "a": "FL",
 "m": "Fi/Yuran Latihan (training fee)",
-"s": "M1 1.16"
+"s": "M1 1.16",
+"x": "Fi Latihan yang dibayar oleh PERKESO kepada penyedia latihan bagi penerima SIP.",
+"e": "PERKESO membayar FL terus kepada pusat latihan kemahiran."
 },
 {
 "g": "E–H",
 "a": "FM",
 "m": "Facilities Management",
-"s": "M4 4.05"
+"s": "M4 4.05",
+"x": "Pengurusan fasiliti bangunan dan perkhidmatannya.",
+"e": "Pasukan FM bertanggungjawab menyelenggara sistem pemadam api dan lif."
 },
 {
 "g": "E–H",
 "a": "FMA",
 "m": "Factories and Machinery Act 1967",
-"s": "M1 1.01, 1.13, Act 835 (full)"
+"s": "M1 1.01, 1.13, Act 835 (full)",
+"x": "Akta Kilang dan Jentera 1967 (Akta 139), dimansuhkan melalui Akta 835 mulai 1 Jun 2024.",
+"e": "Keperluan perakuan kelayakan dandang kini dipindahkan daripada FMA ke Akta 514."
 },
 {
 "g": "E–H",
 "a": "FMD",
 "m": "Factories and Machinery Department (renamed DOSH in 1994)",
-"s": "M3 3.05"
+"s": "M3 3.05",
+"x": "Jabatan Kilang dan Jentera, nama lama JKKP sebelum 1994.",
+"e": "Pemeriksa FMD dahulu menguatkuasakan FMA 1967."
 },
 {
 "g": "E–H",
 "a": "FMEA",
 "m": "Failure Mode and Effects Analysis",
-"s": "M4 4.02"
+"s": "M4 4.02",
+"x": "Analisis cara kegagalan dan kesannya untuk mengenal pasti bagaimana komponen boleh gagal.",
+"e": "FMEA bagi pam menyenaraikan kegagalan seal dan kesannya terhadap kebocoran."
 },
 {
 "g": "E–H",
 "a": "FR / FRC",
 "m": "Flame-Resistant / Flame-Resistant Clothing",
-"s": "M4 4.05"
+"s": "M4 4.05",
+"x": "Pakaian tahan nyala yang tidak terus terbakar apabila terkena api atau percikan arka.",
+"e": "Juruelektrik yang bekerja pada panel bertenaga memakai FRC."
 },
 {
 "g": "E–H",
 "a": "FW",
 "m": "Fire Watch",
-"s": "M2 2.11"
+"s": "M2 2.11",
+"x": "Pengawas api yang memerhati kerja panas dan bersedia memadamkan api.",
+"e": "Semasa kerja kimpalan di dalam tangki, FW berjaga dengan alat pemadam api."
 },
 {
 "g": "E–H",
 "a": "GC",
 "m": "Gas Chromatography",
-"s": "M3 3.13"
+"s": "M3 3.13",
+"x": "Kromatografi gas, kaedah memisahkan dan mengukur sebatian meruap.",
+"e": "Wap pelarut dari tiub persampelan dianalisis dengan GC."
 },
 {
 "g": "E–H",
 "a": "GHS",
 "m": "Globally Harmonized System",
-"s": "M1 1.08"
+"s": "M1 1.08",
+"x": "Sistem global untuk mengklasifikasi bahan kimia dan berkomunikasi tentang bahayanya melalui label dan SDS.",
+"e": "Piktogram tengkorak dan tulang bersilang pada label GHS menandakan ketoksikan akut."
 },
 {
 "g": "E–H",
 "a": "GIT",
 "m": "Gastrointestinal Tract",
-"s": "M3 3.04"
+"s": "M3 3.04",
+"x": "Saluran gastrousus, iaitu laluan pencernaan.",
+"e": "Bahan kimia boleh masuk melalui GIT jika pekerja makan tanpa mencuci tangan."
 },
 {
 "g": "E–H",
 "a": "GOFF",
 "m": "Guidelines for Offshore Floating Facilities",
-"s": "M1 1.15"
+"s": "M1 1.15",
+"x": "Garis panduan JKKP untuk kemudahan terapung luar pesisir.",
+"e": "Kemudahan FPSO di laut mesti mematuhi GOFF."
 },
 {
 "g": "E–H",
 "a": "GV",
 "m": "General Ventilation",
-"s": "M3 3.15"
+"s": "M3 3.15",
+"x": "Pengudaraan am yang mencairkan pencemar dengan udara segar.",
+"e": "Kipas dinding di stor ialah GV; tidak sesuai untuk bahan yang sangat toksik."
 },
 {
 "g": "E–H",
 "a": "HACE / HAPE",
 "m": "High Altitude Cerebral / Pulmonary Edema",
-"s": "M3 3.18"
+"s": "M3 3.18",
+"x": "Bengkak otak (HACE) atau paru-paru (HAPE) akibat ketinggian; kedua-duanya boleh membawa maut.",
+"e": "Pendaki yang menjadi keliru dan sesak nafas di altitud tinggi perlu segera diturunkan."
 },
 {
 "g": "E–H",
 "a": "HAV",
 "m": "Hand-Arm Vibration",
-"s": "M3 3.18"
+"s": "M3 3.18",
+"x": "Getaran tangan-lengan daripada alat berkuasa.",
+"e": "Pengendali gerudi batu terdedah kepada HAV."
 },
 {
 "g": "E–H",
 "a": "HAVS",
 "m": "Hand-Arm Vibration Syndrome",
-"s": "M2 2.03, M3 3.18"
+"s": "M2 2.03, M3 3.18",
+"x": "Sindrom getaran tangan-lengan, iaitu kerosakan saraf, saluran darah dan sendi tangan.",
+"e": "Pekerja gergaji rantai mengalami jari pucat dan kebas, tanda HAVS."
 },
 {
 "g": "E–H",
 "a": "HAZMAT",
 "m": "Hazardous Materials",
-"s": "M1 1.13"
+"s": "M1 1.13",
+"x": "Bahan berbahaya yang boleh membahayakan manusia atau alam sekitar.",
+"e": "Pasukan HAZMAT BOMBA dipanggil untuk menangani tumpahan asid di lebuh raya."
 },
 {
 "g": "E–H",
 "a": "HAZOP",
 "m": "Hazard and Operability Study",
-"s": "M4 4.02"
+"s": "M4 4.02",
+"x": "Kajian bahaya dan kebolehkendalian yang menggunakan kata panduan seperti \"lebih\" atau \"kurang\" pada setiap nod proses.",
+"e": "HAZOP mendapati \"tekanan lebih\" dalam reaktor boleh berlaku jika injap tersekat."
 },
 {
 "g": "E–H",
 "a": "hb",
 "m": "haribulan (date)",
-"s": "Act 514"
+"s": "Act 514",
+"x": "Singkatan \"haribulan\" dalam tarikh.",
+"e": "\"24hb Februari 1994\" ialah tarikh Akta 514 diterbitkan dalam Warta."
 },
 {
 "g": "E–H",
 "a": "HBV",
 "m": "Hepatitis B Virus",
-"s": "M3 3.17"
+"s": "M3 3.17",
+"x": "Virus hepatitis B yang merebak melalui darah dan cecair badan.",
+"e": "Jururawat diberi vaksin HBV kerana berisiko tercucuk jarum."
 },
 {
 "g": "E–H",
 "a": "H-Code",
 "m": "Hazard statement code (e.g. H225)",
-"s": "M3 3.12"
+"s": "M3 3.12",
+"x": "Kod pernyataan bahaya GHS.",
+"e": "H225 bermaksud \"cecair dan wap sangat mudah terbakar\"."
 },
 {
 "g": "E–H",
 "a": "HCP",
 "m": "Hearing Conservation Programme",
-"s": "M3 3.18"
+"s": "M3 3.18",
+"x": "Program pemuliharaan pendengaran: penilaian bising, kawalan, PHP, ujian audiometri dan latihan.",
+"e": "Kilang dengan bising melebihi aras tindakan mesti melaksanakan HCP."
 },
 {
 "g": "E–H",
 "a": "HEM",
 "m": "Health Effects Monitoring",
-"s": "M3 3.14"
+"s": "M3 3.14",
+"x": "Pemantauan kesan kesihatan, iaitu pemeriksaan perubatan untuk mengesan kesan awal pendedahan.",
+"e": "Ujian fungsi paru-paru tahunan untuk pekerja yang terdedah kepada habuk."
 },
 {
 "g": "E–H",
 "a": "HEMP",
 "m": "Hazard and Effect Management Process",
-"s": "M4 4.02"
+"s": "M4 4.02",
+"x": "Proses pengurusan bahaya dan kesan, iaitu mengenal pasti, menilai, mengawal dan memulihkan.",
+"e": "Syarikat minyak dan gas menggunakan HEMP untuk menguruskan bahaya operasi."
 },
 {
 "g": "E–H",
 "a": "HEPA",
 "m": "High-Efficiency Particulate Air (filter)",
-"s": "M3 3.17"
+"s": "M3 3.17",
+"x": "Penapis zarah udara berkecekapan tinggi yang menyingkir sekurang-kurangnya 99.97% zarah 0.3 mikron.",
+"e": "BSC dan vakum asbestos menggunakan penapis HEPA."
 },
 {
 "g": "E–H",
 "a": "HF",
 "m": "Hydrofluoric acid",
-"s": "M3 3.10"
+"s": "M3 3.10",
+"x": "Asid hidrofluorik, asid sangat berbahaya yang menembusi kulit dan merosakkan tulang.",
+"e": "Pekerja yang terkena HF mesti segera disapu gel kalsium glukonat."
 },
 {
 "g": "E–H",
 "a": "HFEM",
 "m": "Human factors and ergonomics NGO listed in 3.01A",
-"s": "M3 3.01A"
+"s": "M3 3.01A",
+"x": "NGO faktor manusia dan ergonomik yang disenaraikan dalam Modul 3.01A.",
+"e": "Disebut sebagai salah satu persatuan yang menyokong KKP di Malaysia."
 },
 {
 "g": "E–H",
 "a": "HI",
 "m": "Hearing Impairment",
-"s": "M1 1.09"
+"s": "M1 1.09",
+"x": "Kecacatan pendengaran, iaitu kehilangan pendengaran yang menjejaskan komunikasi seharian.",
+"e": "Audiogram yang menunjukkan HI mesti dilaporkan kepada JKKP."
 },
 {
 "g": "E–H",
 "a": "HIRARC",
 "m": "Hazard Identification, Risk Assessment and Risk Control",
-"s": "M1 1.01, 1.15, M2 2.13, M4 4.02"
+"s": "M1 1.01, 1.15, M2 2.13, M4 4.02",
+"x": "Proses mengenal pasti bahaya, menilai risiko dan memilih langkah kawalan.",
+"e": "HIRARC kerja di tempat tinggi menetapkan perancah bergadang dan abah-abah penuh badan."
 },
 {
 "g": "E–H",
 "a": "HIV/AIDS",
 "m": "Human Immunodeficiency Virus / Acquired Immune Deficiency Syndrome",
-"s": "M1 1.03, 1.15"
+"s": "M1 1.03, 1.15",
+"x": "Virus HIV yang menyebabkan penyakit AIDS dengan melemahkan sistem imun.",
+"e": "Polisi tempat kerja melarang diskriminasi terhadap pekerja yang menghidap HIV/AIDS."
 },
 {
 "g": "E–H",
 "a": "HLS",
 "m": "High-Level Structure (ISO management standards)",
-"s": "M1 1.01"
+"s": "M1 1.01",
+"x": "Struktur aras tinggi ISO yang mempunyai klausa dan istilah sama bagi semua piawai sistem pengurusan.",
+"e": "ISO 45001, 9001 dan 14001 berkongsi HLS, jadi mudah diintegrasikan."
 },
 {
 "g": "E–H",
 "a": "HPD",
 "m": "Hearing Protection Device",
-"s": "M3 3.01B, 3.18"
+"s": "M3 3.01B, 3.18",
+"x": "Alat perlindungan pendengaran seperti penyumbat telinga dan penutup telinga.",
+"e": "HPD dipilih berdasarkan NRR dan keselesaan pekerja."
 },
 {
 "g": "E–H",
 "a": "HPLC",
 "m": "High-Performance Liquid Chromatography",
-"s": "M3 3.13"
+"s": "M3 3.13",
+"x": "Kromatografi cecair berprestasi tinggi untuk menganalisis sebatian tidak meruap.",
+"e": "Sampel isosianat dianalisis dengan HPLC."
 },
 {
 "g": "E–H",
 "a": "HRA",
 "m": "Health Risk Assessment",
-"s": "M3 3.08"
+"s": "M3 3.08",
+"x": "Penilaian risiko kesihatan bagi bahaya kesihatan di tempat kerja.",
+"e": "HRA mengenal pasti pekerja yang terdedah kepada bising, bahan kimia dan ergonomik."
 },
 {
 "g": "E–H",
 "a": "HR / HRM",
 "m": "Human Resources / Human Resource Management",
-"s": "M4 4.05"
+"s": "M4 4.05",
+"x": "Sumber Manusia atau Pengurusan Sumber Manusia.",
+"e": "Jabatan HR menyimpan rekod latihan keselamatan pekerja."
 },
 {
 "g": "E–H",
 "a": "HSA",
 "m": "Health and Safety Authority (Ireland)",
-"s": "M3 3.10"
+"s": "M3 3.10",
+"x": "Pihak Berkuasa Keselamatan dan Kesihatan Ireland.",
+"e": "Panduan kawalan bahan kimia HSA dirujuk dalam Modul 3."
 },
 {
 "g": "E–H",
 "a": "HSE",
 "m": "Health and Safety Executive (UK)",
-"s": "M3 3.01A, 3.10, 3.13, 3.14"
+"s": "M3 3.01A, 3.10, 3.13, 3.14",
+"x": "Eksekutif Kesihatan dan Keselamatan UK, iaitu badan penguat kuasa KKP di Britain.",
+"e": "Kaedah MDHS dan alat MAC diterbitkan oleh HSE."
 },
 {
 "g": "E–H",
 "a": "HSSE",
 "m": "Health, Safety, Security and Environment",
-"s": "M4 4.02"
+"s": "M4 4.02",
+"x": "Kesihatan, Keselamatan, Sekuriti dan Alam Sekitar sebagai satu fungsi bersepadu.",
+"e": "Jabatan HSSE syarikat minyak menguruskan KKP dan keselamatan premis."
 },
 {
 "g": "E–H",
 "a": "HSWA",
 "m": "(UK) Health and Safety at Work etc. Act 1974",
-"s": "M1 1.01"
+"s": "M1 1.01",
+"x": "Akta Kesihatan dan Keselamatan di Tempat Kerja 1974 UK, model bagi Akta 514.",
+"e": "Konsep \"setakat yang praktik\" dalam Akta 514 berasal daripada HSWA."
 },
 {
 "g": "E–H",
 "a": "HT",
 "m": "Hygiene Technician / Hygiene Technologist",
-"s": "M3 3.13"
+"s": "M3 3.13",
+"x": "Juruteknik atau ahli teknologi higiene yang menjalankan pemantauan pendedahan kimia.",
+"e": "HT berdaftar dengan JKKP menjalankan CEM."
 },
 {
 "g": "E–H",
 "a": "HVAC",
 "m": "Heating, Ventilation and Air-Conditioning",
-"s": "M3 3.15"
+"s": "M3 3.15",
+"x": "Sistem pemanasan, pengudaraan dan penyaman udara bangunan.",
+"e": "Penapis HVAC yang kotor boleh menyebabkan masalah IAQ."
 },
 {
 "g": "E–H",
 "a": "Hz",
 "m": "Hertz",
-"s": "M2 2.09"
+"s": "M2 2.09",
+"x": "Hertz, unit frekuensi (kitaran sesaat).",
+"e": "Bekalan elektrik Malaysia ialah 50 Hz."
 },
 {
 "g": "I–M",
 "a": "IAEA",
 "m": "International Atomic Energy Agency",
-"s": "M3 3.18"
+"s": "M3 3.18",
+"x": "Agensi Tenaga Atom Antarabangsa.",
+"e": "Piawai keselamatan sinaran IAEA menjadi rujukan bagi perlindungan sinaran mengion."
 },
 {
 "g": "I–M",
 "a": "IAQ",
 "m": "Indoor Air Quality",
-"s": "M1 1.01, 1.15, M3 3.16, Act 514"
+"s": "M1 1.01, 1.15, M3 3.16, Act 514",
+"x": "Kualiti udara dalaman bangunan.",
+"e": "Panduan ICOP IAQ 2010 menetapkan had karbon dioksida dalaman 1000 ppm."
 },
 {
 "g": "I–M",
 "a": "IARC",
 "m": "International Agency for Research on Cancer",
-"s": "M3 3.04"
+"s": "M3 3.04",
+"x": "Agensi Antarabangsa Penyelidikan Kanser yang mengklasifikasi bahan karsinogen.",
+"e": "IARC mengklasifikasi benzena dan asbestos dalam Kumpulan 1 (karsinogen manusia)."
 },
 {
 "g": "I–M",
 "a": "IC",
 "m": "Ion Chromatography",
-"s": "M3 3.13"
+"s": "M3 3.13",
+"x": "Kromatografi ion untuk menganalisis ion seperti anion asid.",
+"e": "Sampel wap asid hidroklorik dianalisis dengan IC."
 },
 {
 "g": "I–M",
 "a": "ICOP",
 "m": "Industry Code of Practice (e.g. ICOP CS 2010, confined space)",
-"s": "M1, M2, M3, Act 514 (full)"
+"s": "M1, M2, M3, Act 514 (full)",
+"x": "Tataamalan industri yang diluluskan oleh Menteri di bawah s.37 Akta 514.",
+"e": "ICOP Ruang Terkurung 2010 menerangkan prosedur permit masuk."
 },
 {
 "g": "I–M",
 "a": "ICP",
 "m": "Inductively Coupled Plasma (spectroscopy)",
-"s": "M3 3.13"
+"s": "M3 3.13",
+"x": "Plasma gandingan induktif untuk menganalisis logam dalam sampel.",
+"e": "Sampel habuk plumbum dianalisis dengan ICP."
 },
 {
 "g": "I–M",
 "a": "ICS",
 "m": "Incident Command System",
-"s": "M4 4.05"
+"s": "M4 4.05",
+"x": "Sistem perintah insiden, iaitu struktur standard untuk mengurus kecemasan.",
+"e": "Dalam ICS, seorang Komander Insiden mengetuai pasukan operasi, perancangan dan logistik."
 },
 {
 "g": "I–M",
 "a": "ICT",
 "m": "Information and Communication Technology",
-"s": "M4 4.04"
+"s": "M4 4.04",
+"x": "Teknologi maklumat dan komunikasi.",
+"e": "Sistem ICT digunakan untuk merekod dan menganalisis data kemalangan."
 },
 {
 "g": "I–M",
 "a": "IEA",
 "m": "International Ergonomics Association",
-"s": "M3 3.07"
+"s": "M3 3.07",
+"x": "Persatuan Ergonomik Antarabangsa yang mentakrifkan bidang ergonomik.",
+"e": "Definisi ergonomik dalam Modul 3 dipetik daripada IEA."
 },
 {
 "g": "I–M",
 "a": "IEC",
 "m": "International Electrotechnical Commission",
-"s": "M1 1.09, M4 4.02"
+"s": "M1 1.09, M4 4.02",
+"x": "Suruhanjaya Elektroteknikal Antarabangsa yang menerbitkan piawai elektrik.",
+"e": "Meter aras bunyi mesti mematuhi IEC 61672."
 },
 {
 "g": "I–M",
 "a": "IEEE",
 "m": "Institute of Electrical and Electronics Engineers",
-"s": "M2 2.09"
+"s": "M2 2.09",
+"x": "Institut Jurutera Elektrik dan Elektronik.",
+"e": "Piawai IEEE 1584 digunakan untuk mengira bahaya arka elektrik."
 },
 {
 "g": "I–M",
 "a": "IH",
 "m": "Industrial Hygiene",
-"s": "M3 3.05"
+"s": "M3 3.05",
+"x": "Higiene industri, iaitu sains menjangka, mengenal pasti, menilai dan mengawal bahaya kesihatan di tempat kerja.",
+"e": "Pengamal IH mengukur bising dan wap kimia di kilang."
 },
 {
 "g": "I–M",
 "a": "IHSTAT",
 "m": "AIHA exposure-statistics tool",
-"s": "M3 3.13"
+"s": "M3 3.13",
+"x": "Alat statistik pendedahan AIHA (hamparan Excel) untuk menganalisis data pemantauan.",
+"e": "IHSTAT mengira persentil ke-95 pendedahan bagi satu SEG."
 },
 {
 "g": "I–M",
 "a": "ILO",
 "m": "International Labour Organization",
-"s": "M1 1.01, 1.06, 1.16, M3"
+"s": "M1 1.01, 1.06, 1.16, M3",
+"x": "Pertubuhan Buruh Antarabangsa, agensi PBB untuk hal ehwal pekerjaan.",
+"e": "Konvensyen ILO C155 berkaitan keselamatan dan kesihatan pekerjaan."
 },
 {
 "g": "I–M",
 "a": "IOHA",
 "m": "International Occupational Hygiene Association",
-"s": "M3 3.05"
+"s": "M3 3.05",
+"x": "Persatuan Higiene Pekerjaan Antarabangsa.",
+"e": "IOHA mengiktiraf skim pensijilan pengamal higiene."
 },
 {
 "g": "I–M",
 "a": "IoT",
 "m": "Internet of Things",
-"s": "M3 3.18, M4 4.04"
+"s": "M3 3.18, M4 4.04",
+"x": "Internet Benda, iaitu peranti bersambung yang menghantar data.",
+"e": "Sensor gas IoT menghantar amaran ke telefon penyelia apabila paras H2S meningkat."
 },
 {
 "g": "I–M",
 "a": "IPA",
 "m": "Isopropyl Alcohol",
-"s": "M3 3.13"
+"s": "M3 3.13",
+"x": "Isopropil alkohol, pelarut dan bahan pembersih.",
+"e": "IPA digunakan untuk membersihkan papan litar elektronik."
 },
 {
 "g": "I–M",
 "a": "IP / IV",
 "m": "Intraperitoneal / Intravenous (absorption routes)",
-"s": "M3 3.04"
+"s": "M3 3.04",
+"x": "Laluan masuk ke dalam rongga perut (IP) atau ke dalam vena (IV), digunakan dalam ujian ketoksikan.",
+"e": "LD50 IV biasanya lebih rendah daripada oral kerana bahan terus masuk ke darah."
 },
 {
 "g": "I–M",
 "a": "IR",
 "m": "Infrared",
-"s": "M3 3.18"
+"s": "M3 3.18",
+"x": "Sinaran inframerah, sejenis sinaran tidak mengion yang dirasai sebagai haba.",
+"e": "Pekerja relau kaca berisiko mendapat katarak akibat IR."
 },
 {
 "g": "I–M",
 "a": "ISDN",
 "m": "Integrated Services Digital Network",
-"s": "M4 4.04"
+"s": "M4 4.04",
+"x": "Rangkaian digital perkhidmatan bersepadu, teknologi talian komunikasi lama.",
+"e": "Disebut dalam perbincangan sistem komunikasi kecemasan."
 },
 {
 "g": "I–M",
 "a": "ISO",
 "m": "International Organization for Standardization",
-"s": "M1, M3, M4"
+"s": "M1, M3, M4",
+"x": "Pertubuhan Antarabangsa bagi Pengstandardan.",
+"e": "ISO 45001 ialah piawai antarabangsa bagi OSHMS."
 },
 {
 "g": "I–M",
 "a": "ISSA",
 "m": "International Social Security Association",
-"s": "M1 1.16"
+"s": "M1 1.16",
+"x": "Persatuan Keselamatan Sosial Antarabangsa.",
+"e": "PERKESO ialah ahli ISSA."
 },
 {
 "g": "I–M",
 "a": "JBPM",
 "m": "Jabatan Bomba dan Penyelamat Malaysia (= BOMBA)",
-"s": "M1 1.18"
+"s": "M1 1.18",
+"x": "Jabatan Bomba dan Penyelamat Malaysia.",
+"e": "JBPM menjalankan pemeriksaan keselamatan kebakaran premis."
 },
 {
 "g": "I–M",
 "a": "JDC / JDCS",
 "m": "Job Demand–Control (–Support) model",
-"s": "M3 3.06"
+"s": "M3 3.06",
+"x": "Model tekanan kerja: tuntutan tinggi dengan kawalan rendah menyebabkan stres; sokongan sosial mengurangkannya.",
+"e": "Pekerja pusat panggilan dengan sasaran ketat dan tiada kebebasan berada dalam kategori \"high strain\"."
 },
 {
 "g": "I–M",
 "a": "JD / JDR",
 "m": "Jemaah Doktor / Jemaah Doktor Rayuan (medical board / appellate medical board)",
-"s": "M1 1.16"
+"s": "M1 1.16",
+"x": "Lembaga doktor yang menilai hilang upaya pencarum PERKESO (JD) dan rayuan terhadap keputusannya (JDR).",
+"e": "Pekerja yang tidak berpuas hati dengan peratus hilang upaya membuat rayuan kepada JDR."
 },
 {
 "g": "I–M",
 "a": "JKKP",
 "m": "Jabatan Keselamatan dan Kesihatan Pekerjaan; also forms JKKP 6/7/8/9",
-"s": "M1 1.03, 1.10, 1.11, 1.15, 1.16, M4 4.04, Act 514"
+"s": "M1 1.03, 1.10, 1.11, 1.15, 1.16, M4 4.04, Act 514",
+"x": "Jabatan Keselamatan dan Kesihatan Pekerjaan (DOSH); juga nama borang seperti JKKP 6 (laporan kemalangan).",
+"e": "Kemalangan yang menyebabkan cuti lebih 4 hari dilaporkan dengan borang JKKP 6."
 },
 {
 "g": "I–M",
 "a": "JKR",
 "m": "Jabatan Kerja Raya (Public Works Department)",
-"s": "M2 2.12"
+"s": "M2 2.12",
+"x": "Jabatan Kerja Raya.",
+"e": "JKR mengurus projek infrastruktur kerajaan dan menetapkan syarat keselamatan kontrak."
 },
 {
 "g": "I–M",
 "a": "JPJ",
 "m": "Jabatan Pengangkutan Jalan",
-"s": "M1 1.16, 1.17"
+"s": "M1 1.16, 1.17",
+"x": "Jabatan Pengangkutan Jalan.",
+"e": "Pemandu kenderaan berat mesti memegang lesen GDL daripada JPJ."
 },
 {
 "g": "I–M",
 "a": "JSA",
 "m": "Job Safety Analysis",
-"s": "M1 1.01, M2 2.13, M3 3.05"
+"s": "M1 1.01, M2 2.13, M3 3.05",
+"x": "Analisis keselamatan kerja yang memecahkan tugas kepada langkah, mengenal pasti bahaya dan kawalannya.",
+"e": "JSA untuk menukar tayar lori menyenaraikan langkah, bahaya tersepit dan kawalan."
 },
 {
 "g": "I–M",
 "a": "JSM",
 "m": "Road-accident statistics source cited with PDRM and JPJ (not spelled out)",
-"s": "M1 1.17"
+"s": "M1 1.17",
+"x": "Sumber statistik kemalangan jalan raya yang dipetik bersama PDRM dan JPJ; tidak dieja penuh dalam slaid.",
+"e": "Data kemalangan dalam topik WRRS dipetik daripada sumber ini."
 },
 {
 "g": "I–M",
 "a": "KESUMA / MoHR",
 "m": "Kementerian Sumber Manusia / Ministry of Human Resources",
-"s": "M1 1.01, Act 514 (full)"
+"s": "M1 1.01, Act 514 (full)",
+"x": "Kementerian Sumber Manusia yang menyelia JKKP dan PERKESO.",
+"e": "Menteri Sumber Manusia membuat peraturan di bawah Akta 514."
 },
 {
 "g": "I–M",
 "a": "KKP",
 "m": "Keselamatan dan Kesihatan Pekerjaan (OSH)",
-"s": "M1 1.18"
+"s": "M1 1.18",
+"x": "Keselamatan dan Kesihatan Pekerjaan.",
+"e": "Majikan dengan 5 pekerja atau lebih yang tiada SHO perlu melantik penyelaras KKP."
 },
 {
 "g": "I–M",
 "a": "KPD",
 "m": "Kelengkapan Pelindung Diri (= PPE)",
-"s": "M4 4.05"
+"s": "M4 4.05",
+"x": "Kelengkapan pelindung diri (sama dengan PPE).",
+"e": "KPD seperti topi keselamatan dan kasut keselamatan adalah kawalan terakhir dalam hierarki kawalan."
 },
 {
 "g": "I–M",
 "a": "KPI",
 "m": "Key Performance Indicator",
-"s": "M1 1.01"
+"s": "M1 1.01",
+"x": "Petunjuk prestasi utama untuk mengukur pencapaian.",
+"e": "KPI keselamatan: 100% pekerja baharu menerima induksi dalam minggu pertama."
 },
 {
 "g": "I–M",
 "a": "KTMB",
 "m": "Keretapi Tanah Melayu Berhad",
-"s": "M3 3.01B"
+"s": "M3 3.01B",
+"x": "Keretapi Tanah Melayu Berhad.",
+"e": "Disebut sebagai contoh organisasi dalam program kesihatan pekerjaan."
 },
 {
 "g": "I–M",
 "a": "KWSP / EPF",
 "m": "Kumpulan Wang Simpanan Pekerja / Employees Provident Fund",
-"s": "M1 1.16, M4 4.05"
+"s": "M1 1.16, M4 4.05",
+"x": "Kumpulan Wang Simpanan Pekerja untuk simpanan persaraan.",
+"e": "Majikan mencarum KWSP setiap bulan; ia berbeza daripada caruman PERKESO."
 },
 {
 "g": "I–M",
 "a": "LAP",
 "m": "Laboratory Accreditation Program (AIHA)",
-"s": "M3 3.13"
+"s": "M3 3.13",
+"x": "Program akreditasi makmal higiene industri oleh AIHA.",
+"e": "Makmal yang diakreditasi di bawah LAP memberi keputusan analisis yang lebih dipercayai."
 },
 {
 "g": "I–M",
 "a": "LD50",
 "m": "Lethal Dose for 50% of test animals",
-"s": "M3 3.04, 3.11"
+"s": "M3 3.04, 3.11",
+"x": "Dos yang membunuh 50% haiwan ujian; ukuran ketoksikan akut.",
+"e": "LD50 oral yang kecil (contohnya 5 mg/kg) menunjukkan bahan sangat toksik."
 },
 {
 "g": "I–M",
 "a": "LEL",
 "m": "Lower Explosive Limit",
-"s": "M2 2.11"
+"s": "M2 2.11",
+"x": "Had letupan bawah, iaitu kepekatan gas terendah yang boleh menyala.",
+"e": "Kerja panas dalam ruang terkurung biasanya dihentikan jika bacaan melebihi 10% LEL."
 },
 {
 "g": "I–M",
 "a": "LEV",
 "m": "Local Exhaust Ventilation",
-"s": "M2 2.10, M3 3.15"
+"s": "M2 2.10, M3 3.15",
+"x": "Pengudaraan ekzos setempat yang menyedut pencemar di sumbernya.",
+"e": "Hud penyedut di stesen kimpalan ialah LEV dan mesti diperiksa dan diuji secara berkala."
 },
 {
 "g": "I–M",
 "a": "LEX,8h",
 "m": "Daily personal noise exposure level (8-hour)",
-"s": "M3 3.18"
+"s": "M3 3.18",
+"x": "Aras pendedahan bunyi peribadi harian yang dinormalkan kepada 8 jam.",
+"e": "Had pendedahan ialah LEX,8h 85 dB(A); aras tindakan ialah 82 dB(A)."
 },
 {
 "g": "I–M",
 "a": "LMM",
 "m": "Lumbar Motion Monitor",
-"s": "M3 3.08"
+"s": "M3 3.08",
+"x": "Alat yang dipakai di belakang untuk mengukur gerakan tulang belakang semasa bekerja.",
+"e": "LMM digunakan dalam kajian risiko sakit belakang bagi pekerja pengangkatan."
 },
 {
 "g": "I–M",
 "a": "LOPA",
 "m": "Layer of Protection Analysis",
-"s": "M4 4.02"
+"s": "M4 4.02",
+"x": "Analisis lapisan perlindungan untuk menilai sama ada perlindungan bebas mencukupi bagi sesuatu senario.",
+"e": "LOPA mengira bahawa alarm, injap pelega dan sistem SIS bersama mengurangkan risiko ke tahap boleh diterima."
 },
 {
 "g": "I–M",
 "a": "LOTO",
 "m": "Lock-Out Tag-Out",
-"s": "M1 1.01, 1.03, M2 2.04, 2.09"
+"s": "M1 1.01, 1.03, M2 2.04, 2.09",
+"x": "Prosedur mengunci dan melabel sumber tenaga supaya mesin tidak dihidupkan semasa diselenggara.",
+"e": "Juruteknik memasang mangga dan tag pada suis utama sebelum membaiki konveyor."
 },
 {
 "g": "I–M",
 "a": "LPG",
 "m": "Liquefied Petroleum Gas (gas petroleum cair)",
-"s": "M1 1.06, 1.13, 1.15, Act 302 (full)"
+"s": "M1 1.06, 1.13, 1.15, Act 302 (full)",
+"x": "Gas petroleum cecair (propana atau butana) yang mudah terbakar.",
+"e": "Tong LPG mesti disimpan tegak di kawasan berpengudaraan baik."
 },
 {
 "g": "I–M",
 "a": "LTI",
 "m": "Lost Time Injury",
-"s": "M1 1.01, M4 4.02"
+"s": "M1 1.01, M4 4.02",
+"x": "Kecederaan hilang masa, iaitu kecederaan yang menyebabkan pekerja tidak dapat bekerja pada syif berikutnya.",
+"e": "Pekerja yang patah jari dan diberi MC 3 hari dikira sebagai satu LTI."
 },
 {
 "g": "I–M",
 "a": "LTIFR",
 "m": "Lost Time Injury Frequency Rate",
-"s": "M1 1.01"
+"s": "M1 1.01",
+"x": "Kadar kekerapan kecederaan hilang masa: bilangan LTI per sejuta jam kerja (atau 200,000 jam).",
+"e": "5 LTI dalam 2 juta jam kerja memberi LTIFR = 2.5."
 },
 {
 "g": "I–M",
 "a": "MAB",
 "m": "Malaysia Airports Berhad",
-"s": "M3 3.01B"
+"s": "M3 3.01B",
+"x": "Malaysia Airports Berhad.",
+"e": "Disebut sebagai contoh organisasi dalam program kesihatan pekerjaan."
 },
 {
 "g": "I–M",
 "a": "MAC",
 "m": "Manual handling Assessment Charts",
-"s": "M3 3.08"
+"s": "M3 3.08",
+"x": "Carta penilaian pengendalian manual oleh HSE UK untuk mengangkat, membawa dan pengendalian berpasukan.",
+"e": "MAC memberi kod warna merah bagi beban yang diangkat jauh dari badan pada aras lantai."
 },
 {
 "g": "I–M",
 "a": "MAK",
 "m": "Maximale Arbeitsplatz-Konzentration (German limit)",
-"s": "M3 3.03"
+"s": "M3 3.03",
+"x": "Had pendedahan pekerjaan Jerman (kepekatan maksimum di tempat kerja).",
+"e": "Nilai MAK dirujuk sebagai perbandingan dengan TLV dan PEL."
 },
 {
 "g": "I–M",
 "a": "MAO",
 "m": "Maximum Acceptable Outage",
-"s": "M4 4.05"
+"s": "M4 4.05",
+"x": "Tempoh maksimum gangguan yang boleh diterima sebelum kesannya tidak dapat diterima.",
+"e": "MAO bagi sistem pembayaran ditetapkan 8 jam dalam BIA."
 },
 {
 "g": "I–M",
 "a": "m.b.p",
 "m": "mulai berkuat kuasa pada (in force from)",
-"s": "Act 514"
+"s": "Act 514",
+"x": "Singkatan \"mulai berkuat kuasa pada\" dalam catatan pindaan.",
+"e": "\"Akta A1648, m.b.p 1 Jun 2024\"."
 },
 {
 "g": "I–M",
 "a": "MC",
 "m": "Medical Certificate",
-"s": "M1 1.19"
+"s": "M1 1.19",
+"x": "Sijil cuti sakit daripada doktor.",
+"e": "Bilangan hari MC menentukan sama ada kemalangan perlu dilaporkan (lebih 4 hari)."
 },
 {
 "g": "I–M",
 "a": "MDHS",
 "m": "Methods for the Determination of Hazardous Substances (UK HSE)",
-"s": "M3 3.13"
+"s": "M3 3.13",
+"x": "Siri kaedah persampelan dan analisis bahan berbahaya terbitan HSE UK.",
+"e": "MDHS 14 ialah kaedah persampelan habuk boleh sedut dan habuk tersedut."
 },
 {
 "g": "I–M",
 "a": "MEA",
 "m": "Monoethanolamine",
-"s": "M3 3.13"
+"s": "M3 3.13",
+"x": "Monoetanolamina, bahan kimia penyerap gas dan bahan pembersih.",
+"e": "MEA digunakan dalam loji gas untuk menyingkirkan CO2 dan H2S."
 },
 {
 "g": "I–M",
 "a": "MEK",
 "m": "Methyl Ethyl Ketone",
-"s": "M3 3.13"
+"s": "M3 3.13",
+"x": "Metil etil keton, pelarut organik dalam cat dan gam.",
+"e": "Pekerja yang menggunakan gam berasaskan MEK perlu bekerja di kawasan berpengudaraan baik."
 },
 {
 "g": "I–M",
 "a": "MEL",
 "m": "Maximum Exposure Limit",
-"s": "M3 3.03"
+"s": "M3 3.03",
+"x": "Had pendedahan maksimum, iaitu had lama di UK yang tidak boleh dilampaui.",
+"e": "MEL kini digantikan oleh WEL di UK."
 },
 {
 "g": "I–M",
 "a": "MHA",
 "m": "Methylhippuric Acid (toluene biomarker)",
-"s": "M3 3.14"
+"s": "M3 3.14",
+"x": "Asid metilhipurik, metabolit xilena dalam air kencing yang digunakan sebagai biomarker.",
+"e": "Pekerja yang menggunakan cat berasaskan xilena diuji air kencingnya untuk MHA."
 },
 {
 "g": "I–M",
 "a": "MHI",
 "m": "Major Hazard Installation",
-"s": "M1 1.06"
+"s": "M1 1.06",
+"x": "Pepasangan bahaya besar, iaitu premis yang menyimpan bahan berbahaya melebihi kuantiti ambang di bawah CIMAH.",
+"e": "Depot LPG yang besar ialah MHI dan mesti menghantar laporan keselamatan."
 },
 {
 "g": "I–M",
 "a": "MIBK",
 "m": "Methyl Isobutyl Ketone",
-"s": "M3 3.13"
+"s": "M3 3.13",
+"x": "Metil isobutil keton, pelarut dalam cat dan pelekat.",
+"e": "Wap MIBK dipantau di bilik semburan cat."
 },
 {
 "g": "I–M",
 "a": "MIC",
 "m": "Methyl Isocyanate (Bhopal gas)",
-"s": "M1 1.06"
+"s": "M1 1.06",
+"x": "Metil isosianat, gas sangat toksik yang terlepas dalam tragedi Bhopal 1984.",
+"e": "Kebocoran MIC di Bhopal membunuh ribuan orang dan menjadi pengajaran utama keselamatan proses."
 },
 {
 "g": "I–M",
 "a": "MIHA",
 "m": "Malaysian Industrial Hygiene Association",
-"s": "M3 3.01A, 3.05"
+"s": "M3 3.01A, 3.05",
+"x": "Persatuan Higiene Industri Malaysia.",
+"e": "MIHA menganjurkan seminar untuk pengamal higiene industri."
 },
 {
 "g": "I–M",
 "a": "MIROS",
 "m": "Malaysian Institute of Road Safety Research",
-"s": "M1 1.16, 1.17"
+"s": "M1 1.16, 1.17",
+"x": "Institut Penyelidikan Keselamatan Jalan Raya Malaysia.",
+"e": "MIROS menerbitkan data dan kajian kemalangan jalan raya."
 },
 {
 "g": "I–M",
 "a": "MKN",
 "m": "Majlis Keselamatan Negara (National Security Council)",
-"s": "M4 4.05"
+"s": "M4 4.05",
+"x": "Majlis Keselamatan Negara yang menyelaras pengurusan bencana dan krisis negara.",
+"e": "Arahan MKN No. 20 menetapkan pengurusan bencana di Malaysia."
 },
 {
 "g": "I–M",
 "a": "MNKKP",
 "m": "Majlis Negara bagi Keselamatan dan Kesihatan Pekerjaan (= NCOSH)",
-"s": "Act 514 (full)"
+"s": "Act 514 (full)",
+"x": "Majlis Negara bagi Keselamatan dan Kesihatan Pekerjaan (NCOSH) yang ditubuhkan di bawah s.8 Akta 514.",
+"e": "MNKKP menasihati Menteri tentang dasar KKP negara."
 },
 {
 "g": "I–M",
 "a": "MOH",
 "m": "Ministry of Health",
-"s": "M3 3.17"
+"s": "M3 3.17",
+"x": "Kementerian Kesihatan Malaysia.",
+"e": "Panduan pencegahan jangkitan di hospital dikeluarkan oleh MOH."
 },
 {
 "g": "I–M",
 "a": "MOHPA",
 "m": "OSH NGO listed in 3.01A (not spelled out)",
-"s": "M3 3.01A"
+"s": "M3 3.01A",
+"x": "NGO KKP yang disenaraikan dalam Modul 3.01A; nama penuhnya tidak dieja dalam slaid.",
+"e": "Disebut sebagai salah satu persatuan yang menyokong kesihatan pekerjaan."
 },
 {
 "g": "I–M",
 "a": "MRP",
 "m": "Medical Removal Protection",
-"s": "M3 3.14"
+"s": "M3 3.14",
+"x": "Perlindungan pemindahan perubatan, iaitu pekerja dipindahkan dari pendedahan tanpa kehilangan gaji.",
+"e": "Pekerja dengan paras plumbum darah tinggi dipindahkan ke tugas lain di bawah MRP."
 },
 {
 "g": "I–M",
 "a": "MS",
 "m": "Malaysian Standard (e.g. MS 1722, MS 2095, MS IEC 60745)",
-"s": "M1 1.01, M2 2.14, 2.15, M4 4.03, 4.05"
+"s": "M1 1.01, M2 2.14, 2.15, M4 4.03, 4.05",
+"x": "Piawai Malaysia yang diterbitkan oleh Jabatan Standard Malaysia.",
+"e": "MS 1722 ialah piawai OSHMS Malaysia."
 },
 {
 "g": "I–M",
 "a": "MSBeG",
 "m": "Machinery Safety Basic e-Guide",
-"s": "M1 1.15"
+"s": "M1 1.15",
+"x": "Panduan elektronik asas keselamatan mesin oleh JKKP.",
+"e": "MSBeG membantu majikan memilih pengadang mesin yang betul."
 },
 {
 "g": "I–M",
 "a": "MSDS",
 "m": "Material Safety Data Sheet (now SDS)",
-"s": "M1 1.01"
+"s": "M1 1.01",
+"x": "Helaian data keselamatan bahan, nama lama bagi SDS.",
+"e": "MSDS lama perlu dikemas kini kepada format SDS 16 bahagian."
 },
 {
 "g": "I–M",
 "a": "MSD / WMSDs / WRMSD",
 "m": "(Work-related) Musculoskeletal Disorders",
-"s": "M3 3.01B, 3.07, 3.08, 3.09"
+"s": "M3 3.01B, 3.07, 3.08, 3.09",
+"x": "Gangguan otot dan rangka (berkaitan kerja), seperti sakit belakang dan sindrom terowong karpal.",
+"e": "Pekerja kilang yang memasang komponen berulang kali mengalami MSD pada pergelangan tangan."
 },
 {
 "g": "I–M",
 "a": "MSOSH",
 "m": "Malaysian Society for Occupational Safety and Health",
-"s": "M1 1.16"
+"s": "M1 1.16",
+"x": "Persatuan Keselamatan dan Kesihatan Pekerjaan Malaysia.",
+"e": "MSOSH menganjurkan anugerah keselamatan tahunan untuk syarikat."
 },
 {
 "g": "I–M",
 "a": "MVAC",
 "m": "Mechanical Ventilation and Air-Conditioning",
-"s": "M3 3.16"
+"s": "M3 3.16",
+"x": "Sistem pengudaraan mekanikal dan penyaman udara.",
+"e": "Penyelenggaraan MVAC yang lemah menyebabkan aduan sakit kepala di pejabat."
 },
 {
 "g": "I–M",
 "a": "MyKKP",
 "m": "DOSH online registration portal",
-"s": "M1 1.01, 1.11, 1.15, M3, M4"
+"s": "M1 1.01, 1.11, 1.15, M3, M4",
+"x": "Portal dalam talian JKKP untuk pendaftaran dan permohonan.",
+"e": "SHO memperbaharui pendaftarannya dan merekod mata CEP melalui MyKKP."
 },
 {
 "g": "N–P",
 "a": "NADOPOD",
 "m": "Notification of Accident, Dangerous Occurrence, Occupational Poisoning and Occupational Disease",
-"s": "M1 1.01, 1.03, 1.10"
+"s": "M1 1.01, 1.03, 1.10",
+"x": "Peraturan Pemberitahuan Kemalangan, Kejadian Berbahaya, Keracunan Pekerjaan dan Penyakit Pekerjaan 2004.",
+"e": "Di bawah NADOPOD, kemalangan maut mesti diberitahu kepada JKKP dengan segera."
 },
 {
 "g": "N–P",
 "a": "NATA",
 "m": "National Association of Testing Authorities (Australia)",
-"s": "M3 3.13"
+"s": "M3 3.13",
+"x": "Persatuan Pihak Berkuasa Ujian Kebangsaan Australia, badan akreditasi makmal.",
+"e": "Makmal yang diakreditasi NATA diterima untuk analisis sampel higiene."
 },
 {
 "g": "N–P",
 "a": "NCOSH",
 "m": "National Council for Occupational Safety and Health (= MNKKP)",
-"s": "M1 1.03, Act 514 (full)"
+"s": "M1 1.03, Act 514 (full)",
+"x": "Majlis Negara KKP (MNKKP) di bawah Bahagian III Akta 514.",
+"e": "NCOSH dianggotai wakil majikan, pekerja, kerajaan dan profesional."
 },
 {
 "g": "N–P",
 "a": "NDT",
 "m": "Non-Destructive Testing",
-"s": "M1 1.13"
+"s": "M1 1.13",
+"x": "Ujian tanpa musnah untuk mengesan kecacatan tanpa merosakkan peralatan.",
+"e": "Ujian ultrasonik ialah NDT untuk mengukur ketebalan dinding dandang."
 },
 {
 "g": "N–P",
 "a": "NEL",
 "m": "Noise Exposure Limit",
-"s": "M1 1.09, M3 3.03"
+"s": "M1 1.09, M3 3.03",
+"x": "Had pendedahan bunyi bising.",
+"e": "NEL di Malaysia ialah 85 dB(A) bagi 8 jam."
 },
 {
 "g": "N–P",
 "a": "NESC",
 "m": "National Electrical Safety Code (US)",
-"s": "M2 2.09"
+"s": "M2 2.09",
+"x": "Kod Keselamatan Elektrik Kebangsaan Amerika Syarikat.",
+"e": "NESC dirujuk untuk jarak selamat talian atas."
 },
 {
 "g": "N–P",
 "a": "NFPA",
 "m": "National Fire Protection Association (US)",
-"s": "M2 2.10"
+"s": "M2 2.10",
+"x": "Persatuan Perlindungan Kebakaran Kebangsaan Amerika Syarikat.",
+"e": "NFPA 70E ialah piawai keselamatan elektrik di tempat kerja."
 },
 {
 "g": "N–P",
 "a": "NGO",
 "m": "Non-Governmental Organisation",
-"s": "M1 1.16"
+"s": "M1 1.16",
+"x": "Pertubuhan bukan kerajaan.",
+"e": "MSOSH ialah NGO yang mempromosikan KKP."
 },
 {
 "g": "N–P",
 "a": "NIHL",
 "m": "Noise-Induced Hearing Loss",
-"s": "M1 1.01, 1.09"
+"s": "M1 1.01, 1.09",
+"x": "Kehilangan pendengaran akibat bunyi bising, kekal dan tidak boleh dipulihkan.",
+"e": "Audiogram NIHL menunjukkan \"takuk\" pada 4000 Hz."
 },
 {
 "g": "N–P",
 "a": "NIOSH",
 "m": "National Institute of Occupational Safety and Health",
-"s": "M1, Act 514 (full)"
+"s": "M1, Act 514 (full)",
+"x": "Institut Keselamatan dan Kesihatan Pekerjaan Negara yang menjalankan latihan seperti kursus SHO.",
+"e": "Kursus SHO ini dikendalikan oleh NIOSH."
 },
 {
 "g": "N–P",
 "a": "NIR",
 "m": "Non-Ionising Radiation",
-"s": "M3 3.18"
+"s": "M3 3.18",
+"x": "Sinaran tidak mengion seperti UV, cahaya nampak, IR, gelombang mikro dan frekuensi radio.",
+"e": "Pekerja kimpalan terdedah kepada NIR (UV) yang boleh menyebabkan \"mata kimpalan\"."
 },
 {
 "g": "N–P",
 "a": "NMAM",
 "m": "NIOSH Manual of Analytical Methods (US)",
-"s": "M3 3.13"
+"s": "M3 3.13",
+"x": "Manual kaedah analisis NIOSH Amerika Syarikat.",
+"e": "NMAM 1501 ialah kaedah analisis hidrokarbon aromatik."
 },
 {
 "g": "N–P",
 "a": "NMHI",
 "m": "Non-Major Hazard Installation",
-"s": "M1 1.06"
+"s": "M1 1.06",
+"x": "Pepasangan bukan bahaya besar di bawah CIMAH: kuantiti bahan berbahaya di bawah ambang MHI tetapi masih perlu diberitahu.",
+"e": "Stor kimia sederhana besar ialah NMHI."
 },
 {
 "g": "N–P",
 "a": "No",
 "m": "Nombor (number)",
-"s": "Act 514"
+"s": "Act 514",
+"x": "Singkatan \"nombor\".",
+"e": "\"No. 1\" dalam rujukan peraturan."
 },
 {
 "g": "N–P",
 "a": "NOAEL",
 "m": "No Observed Adverse Effect Level",
-"s": "M3 3.04"
+"s": "M3 3.04",
+"x": "Dos tertinggi yang tidak menunjukkan kesan buruk dalam kajian.",
+"e": "NOAEL digunakan sebagai titik permulaan untuk menetapkan had pendedahan selamat."
 },
 {
 "g": "N–P",
 "a": "NOP",
 "m": "Notice of Prohibition (notis larangan)",
-"s": "M2 2.04"
+"s": "M2 2.04",
+"x": "Notis larangan yang dikeluarkan oleh pegawai JKKP untuk menghentikan aktiviti berisiko tinggi (s.48 Akta 514).",
+"e": "Pegawai mengeluarkan NOP untuk menghentikan penggunaan kren yang rosak sehingga dibaiki."
 },
 {
 "g": "N–P",
 "a": "NRA",
 "m": "Noise Risk Assessment",
-"s": "M1 1.01, 1.09"
+"s": "M1 1.01, 1.09",
+"x": "Penilaian risiko bunyi bising oleh penilai bunyi berdaftar.",
+"e": "NRA mesti dibuat jika terdapat pendedahan bising dan diulang sekurang-kurangnya setiap 5 tahun."
 },
 {
 "g": "N–P",
 "a": "NRR",
 "m": "Noise Reduction Rating",
-"s": "M3 3.18"
+"s": "M3 3.18",
+"x": "Penarafan pengurangan bunyi bagi pelindung pendengaran, dalam desibel.",
+"e": "Penyumbat telinga dengan NRR 29 dB secara teori mengurangkan bising sebanyak itu; nilai sebenar lebih rendah."
 },
 {
 "g": "N–P",
 "a": "OB",
 "m": "Orang Berinsurans (insured person)",
-"s": "M1 1.16"
+"s": "M1 1.16",
+"x": "Orang yang diinsuranskan, iaitu pencarum yang dilindungi PERKESO.",
+"e": "Hanya OB yang layak menuntut faedah PERKESO."
 },
 {
 "g": "N–P",
 "a": "OCRA",
 "m": "Occupational Repetitive Action",
-"s": "M3 3.08"
+"s": "M3 3.08",
+"x": "Kaedah penilaian tindakan berulang anggota atas.",
+"e": "Indeks OCRA dikira untuk pekerja yang membungkus produk dengan pantas."
 },
 {
 "g": "N–P",
 "a": "OC / TC",
 "m": "Organisational Control / Technical Control",
-"s": "M3 3.10"
+"s": "M3 3.10",
+"x": "Kawalan organisasi (prosedur, latihan, penyeliaan) dan kawalan teknikal (kejuruteraan) dalam CHRA.",
+"e": "Memasang LEV ialah TC; menggilir pekerja ialah OC."
 },
 {
 "g": "N–P",
 "a": "ODDHC",
 "m": "Occupational Disease Due to Hazardous Chemical",
-"s": "M3 3.01B"
+"s": "M3 3.01B",
+"x": "Penyakit pekerjaan akibat bahan kimia berbahaya.",
+"e": "Dermatitis akibat pelarut ialah ODDHC dan mesti dilaporkan."
 },
 {
 "g": "N–P",
 "a": "OEL",
 "m": "Occupational Exposure Limit",
-"s": "M3 3.03, 3.04, 3.05"
+"s": "M3 3.03, 3.04, 3.05",
+"x": "Had pendedahan pekerjaan, iaitu kepekatan di udara yang dianggap selamat untuk hampir semua pekerja.",
+"e": "OEL ammonia ialah 25 ppm (8 jam TWA)."
 },
 {
 "g": "N–P",
 "a": "OES",
 "m": "Occupational Exposure Standard",
-"s": "M3 3.03, 3.13"
+"s": "M3 3.03, 3.13",
+"x": "Piawai pendedahan pekerjaan, iaitu nama lain bagi had pendedahan.",
+"e": "OES digunakan di UK sebelum digantikan oleh WEL."
 },
 {
 "g": "N–P",
 "a": "OHD",
 "m": "Occupational Health Doctor",
-"s": "M1 1.01, 1.07, 1.09, M3"
+"s": "M1 1.01, 1.07, 1.09, M3",
+"x": "Doktor Kesihatan Pekerjaan yang berdaftar dengan JKKP.",
+"e": "OHD menjalankan pengawasan perubatan bagi pekerja yang terdedah kepada bahan kimia."
 },
 {
 "g": "N–P",
 "a": "OHSAS",
 "m": "Occupational Health and Safety Assessment Series (18001)",
-"s": "M1 1.01, M4 4.03"
+"s": "M1 1.01, M4 4.03",
+"x": "Siri piawai OSHMS, terutamanya OHSAS 18001, yang kini digantikan oleh ISO 45001.",
+"e": "Syarikat yang dahulu memegang OHSAS 18001 kini berpindah ke ISO 45001."
 },
 {
 "g": "N–P",
 "a": "OHS / OH&S",
 "m": "Occupational Health and Safety",
-"s": "M3 3.03, M4 4.03"
+"s": "M3 3.03, M4 4.03",
+"x": "Keselamatan dan kesihatan pekerjaan.",
+"e": "Polisi OH&S syarikat ditandatangani oleh pengurusan atasan."
 },
 {
 "g": "N–P",
 "a": "OMSD",
 "m": "Occupational Musculoskeletal Disorder",
-"s": "M3 3.01B"
+"s": "M3 3.01B",
+"x": "Gangguan otot dan rangka akibat pekerjaan.",
+"e": "OMSD termasuk dalam penyakit pekerjaan yang perlu dilaporkan."
 },
 {
 "g": "N–P",
 "a": "ONRHD",
 "m": "Occupational Noise-Related Hearing Disorders",
-"s": "M3 3.01B"
+"s": "M3 3.01B",
+"x": "Gangguan pendengaran berkaitan bunyi bising pekerjaan.",
+"e": "ONRHD ialah penyakit pekerjaan yang paling kerap dilaporkan di Malaysia."
 },
 {
 "g": "N–P",
 "a": "Ord.",
 "m": "Ordinan (Ordinance)",
-"s": "Acts 302, 514"
+"s": "Acts 302, 514",
+"x": "Singkatan \"Ordinan\".",
+"e": "Ordinan Perkapalan Saudagar 1952 dalam Jadual Pertama Akta 514."
 },
 {
 "g": "N–P",
 "a": "OSC",
 "m": "One Stop Centre (local authority approvals)",
-"s": "M2 2.12"
+"s": "M2 2.12",
+"x": "Pusat Setempat di pihak berkuasa tempatan untuk memproses kelulusan pembangunan.",
+"e": "Pelan bangunan diserahkan melalui OSC untuk kelulusan."
 },
 {
 "g": "N–P",
 "a": "OSH",
 "m": "Occupational Safety and Health",
-"s": "M1–M4"
+"s": "M1–M4",
+"x": "Keselamatan dan kesihatan pekerjaan.",
+"e": "Program OSH meliputi latihan, pemeriksaan dan penyiasatan kemalangan."
 },
 {
 "g": "N–P",
 "a": "OSHA",
 "m": "Occupational Safety and Health Act 1994",
-"s": "M1–M4, Act 514"
+"s": "M1–M4, Act 514",
+"x": "Akta Keselamatan dan Kesihatan Pekerjaan 1994 (Akta 514).",
+"e": "OSHA 1994 terpakai kepada semua tempat kerja di Malaysia selepas pindaan 2022."
 },
 {
 "g": "N–P",
 "a": "OSH-C",
 "m": "OSH Coordinator (penyelaras KKP, s.29A)",
-"s": "M1 1.03, 1.17, Act 514 (full)"
+"s": "M1 1.03, 1.17, Act 514 (full)",
+"x": "Penyelaras KKP yang perlu dilantik oleh majikan dengan 5 pekerja atau lebih jika tiada SHO (s.29A).",
+"e": "Kedai bengkel dengan 8 pekerja melantik seorang OSH-C yang telah dilatih."
 },
 {
 "g": "N–P",
 "a": "OSHMS / OSH-MS / OHSMS",
 "m": "OSH Management System",
-"s": "M1 1.01, M4 4.03"
+"s": "M1 1.01, M4 4.03",
+"x": "Sistem pengurusan KKP yang berstruktur, contohnya MS 1722 atau ISO 45001.",
+"e": "OSHMS mengikut kitaran PDCA: dasar, perancangan, pelaksanaan, pemeriksaan dan kajian semula."
 },
 {
 "g": "N–P",
 "a": "OSI-R",
 "m": "Occupational Stress Inventory – Revised",
-"s": "M3 3.06"
+"s": "M3 3.06",
+"x": "Inventori tekanan pekerjaan versi semakan untuk mengukur stres, tekanan dan sumber daya tindak.",
+"e": "OSI-R digunakan dalam kajian stres kerja jururawat."
 },
 {
 "g": "N–P",
 "a": "OSL",
 "m": "Optically Stimulated Luminescence (dosimeter)",
-"s": "M3 3.18"
+"s": "M3 3.18",
+"x": "Dosimeter luminesens terangsang optik untuk mengukur dos sinaran.",
+"e": "Juru-X-ray memakai lencana OSL setiap bulan."
 },
 {
 "g": "N–P",
 "a": "OT",
 "m": "Overtime",
-"s": "M1 1.19"
+"s": "M1 1.19",
+"x": "Kerja lebih masa.",
+"e": "Had OT di bawah Akta Kerja ialah 104 jam sebulan."
 },
 {
 "g": "N–P",
 "a": "PA",
 "m": "Public Address (system)",
-"s": "M4 4.05"
+"s": "M4 4.05",
+"x": "Sistem pembesar suara awam.",
+"e": "Pengumuman pemindahan dibuat melalui sistem PA."
 },
 {
 "g": "N–P",
 "a": "PAI",
 "m": "Permit Authorizing Individual",
-"s": "M2 2.11"
+"s": "M2 2.11",
+"x": "Individu yang memberi kuasa permit kerja ruang terkurung.",
+"e": "PAI menandatangani permit selepas memastikan semua kawalan sudah disediakan."
 },
 {
 "g": "N–P",
 "a": "PBS",
 "m": "Pasukan Bomba Sukarela (volunteer fire brigade)",
-"s": "M1 1.18"
+"s": "M1 1.18",
+"x": "Pasukan Bomba Sukarela.",
+"e": "PBS di kawasan luar bandar membantu JBPM semasa kebakaran."
 },
 {
 "g": "N–P",
 "a": "PBT",
 "m": "Pihak Berkuasa Tempatan (local authority)",
-"s": "M2 2.12"
+"s": "M2 2.12",
+"x": "Pihak Berkuasa Tempatan, iaitu majlis bandaraya atau majlis daerah.",
+"e": "MBJB ialah PBT yang meluluskan pelan bangunan di Johor Bahru."
 },
 {
 "g": "N–P",
 "a": "PC",
 "m": "Principal (Construction Work) Contractor",
-"s": "M1 1.11"
+"s": "M1 1.11",
+"x": "Kontraktor Utama (Kerja Binaan) di bawah Peraturan CDM yang menyelaras keselamatan fasa pembinaan.",
+"e": "PC menyediakan pelan keselamatan tapak dan menyelaras semua subkontraktor."
 },
 {
 "g": "N–P",
 "a": "PCBs",
 "m": "Polychlorinated Biphenyls",
-"s": "M3 3.04"
+"s": "M3 3.04",
+"x": "Bifenil berpoliklorin, bahan kimia toksik dan kekal yang dahulu digunakan dalam transformer.",
+"e": "Transformer lama mungkin mengandungi PCB dan perlu dilupuskan sebagai sisa terjadual."
 },
 {
 "g": "N–P",
 "a": "PCM",
 "m": "Phase Contrast Microscope",
-"s": "M3 3.13"
+"s": "M3 3.13",
+"x": "Mikroskop fasa kontras untuk mengira gentian (contohnya asbestos).",
+"e": "Sampel udara asbestos dikira gentiannya dengan PCM."
 },
 {
 "g": "N–P",
 "a": "PD",
 "m": "Principal (Construction Work) Designer",
-"s": "M1 1.11"
+"s": "M1 1.11",
+"x": "Pereka Bentuk Utama (Kerja Binaan) di bawah Peraturan CDM yang menyelaras keselamatan fasa reka bentuk.",
+"e": "PD memastikan reka bentuk mengurangkan keperluan kerja di tempat tinggi."
 },
 {
 "g": "N–P",
 "a": "PDCA",
 "m": "Plan–Do–Check–Act",
-"s": "M4 4.03"
+"s": "M4 4.03",
+"x": "Kitaran Rancang, Buat, Semak, Bertindak untuk penambahbaikan berterusan.",
+"e": "OSHMS: rancang HIRARC, laksana kawalan, semak melalui audit, bertindak membetulkan kelemahan."
 },
 {
 "g": "N–P",
 "a": "PDRM",
 "m": "Polis Di Raja Malaysia",
-"s": "M1 1.16, 1.17, Act 302 (full)"
+"s": "M1 1.16, 1.17, Act 302 (full)",
+"x": "Polis Diraja Malaysia.",
+"e": "PDRM menyiasat kemalangan jalan raya yang melibatkan pekerja dalam perjalanan kerja."
 },
 {
 "g": "N–P",
 "a": "PEL",
 "m": "Permissible Exposure Limit",
-"s": "M1 1.01, 1.07, M3 3.03"
+"s": "M1 1.01, 1.07, M3 3.03",
+"x": "Had pendedahan yang dibenarkan, iaitu had di bawah Peraturan USECHH.",
+"e": "Pendedahan pekerja kepada toluena tidak boleh melebihi PEL 50 ppm (8 jam TWA)."
 },
 {
 "g": "N–P",
 "a": "PERKESO",
 "m": "Pertubuhan Keselamatan Sosial (= SOCSO)",
-"s": "M1 1.16, Acts 514, 872"
+"s": "M1 1.16, Acts 514, 872",
+"x": "Pertubuhan Keselamatan Sosial yang mentadbir skim keselamatan sosial pekerja.",
+"e": "Kemalangan dalam perjalanan ke tempat kerja dilaporkan kepada PERKESO."
 },
 {
 "g": "N–P",
 "a": "PESTLE",
 "m": "Political, Economic, Social, Technological, Legal, Environmental",
-"s": "M4 4.03"
+"s": "M4 4.03",
+"x": "Analisis faktor luar: politik, ekonomi, sosial, teknologi, undang-undang dan alam sekitar.",
+"e": "Analisis PESTLE mengenal pasti undang-undang KKP baharu sebagai faktor perundangan."
 },
 {
 "g": "N–P",
 "a": "PH",
 "m": "Public Holiday",
-"s": "M1 1.19"
+"s": "M1 1.19",
+"x": "Cuti umum.",
+"e": "Kerja pada PH dibayar dengan kadar lebih tinggi di bawah Akta Kerja."
 },
 {
 "g": "N–P",
 "a": "PHP",
 "m": "Personal Hearing Protector",
-"s": "M1 1.09, 1.15"
+"s": "M1 1.09, 1.15",
+"x": "Pelindung pendengaran peribadi seperti penyumbat atau penutup telinga.",
+"e": "Majikan mesti menyediakan PHP jika pendedahan melebihi aras tindakan."
 },
 {
 "g": "N–P",
 "a": "PI",
 "m": "Permit Issuer",
-"s": "M2 2.11"
+"s": "M2 2.11",
+"x": "Pengeluar permit yang mengeluarkan permit kerja ruang terkurung.",
+"e": "PI mengeluarkan permit selepas menyemak keputusan ujian gas."
 },
 {
 "g": "N–P",
 "a": "PIC",
 "m": "Person in Charge",
-"s": "M3 3.01B, 3.09"
+"s": "M3 3.01B, 3.09",
+"x": "Orang yang bertanggungjawab ke atas sesuatu tugas atau kawasan.",
+"e": "PIC program pemuliharaan pendengaran ialah eksekutif keselamatan."
 },
 {
 "g": "N–P",
 "a": "PMA / PMD / PMT",
 "m": "DOSH registration-number prefixes: lifting machine (Angkat) / steam boiler (Dandang) / unfired pressure vessel (Tekanan)",
-"s": "M1 1.12"
+"s": "M1 1.12",
+"x": "Awalan nombor pendaftaran JKKP: PMA = mesin angkat, PMD = dandang stim, PMT = bekas tekanan tak berapi.",
+"e": "Kren mudah alih berdaftar PMA JH 12345 mesti mempunyai CF yang sah."
 },
 {
 "g": "N–P",
 "a": "PNMB",
 "m": "Percetakan Nasional Malaysia Berhad",
-"s": "Acts 835, 872 (full)"
+"s": "Acts 835, 872 (full)",
+"x": "Percetakan Nasional Malaysia Berhad yang mencetak Warta dan akta.",
+"e": "Akta dicetak oleh PNMB bagi pihak kerajaan."
 },
 {
 "g": "N–P",
 "a": "PoF",
 "m": "Probability of Failure",
-"s": "M1 1.13"
+"s": "M1 1.13",
+"x": "Kebarangkalian kegagalan dalam RBI.",
+"e": "Paip yang berkarat teruk mempunyai PoF yang tinggi."
 },
 {
 "g": "N–P",
 "a": "POP",
 "m": "Principles of Prevention",
-"s": "M3 3.09"
+"s": "M3 3.09",
+"x": "Prinsip pencegahan, iaitu hierarki langkah mencegah bahaya bermula dengan penghapusan.",
+"e": "POP: hapuskan bahaya dahulu, kemudian gantikan, kawal kejuruteraan, pentadbiran dan akhirnya PPE."
 },
 {
 "g": "N–P",
 "a": "PPE",
 "m": "Personal Protective Equipment",
-"s": "M1 1.01, 1.03, 1.15, M2–M4, Act 514"
+"s": "M1 1.01, 1.03, 1.15, M2–M4, Act 514",
+"x": "Kelengkapan pelindung diri.",
+"e": "Pekerja kimpalan memakai PPE: perisai muka, sarung tangan kulit dan apron."
 },
 {
 "g": "N–P",
 "a": "ppm",
 "m": "Parts per million",
-"s": "M3 3.02"
+"s": "M3 3.02",
+"x": "Bahagian per juta, iaitu unit kepekatan gas atau wap.",
+"e": "1 ppm = satu bahagian gas dalam sejuta bahagian udara."
 },
 {
 "g": "N–P",
 "a": "PRisMA",
 "m": "DOSH psychosocial risk guideline (2024)",
-"s": "M1 1.15, M3 3.06"
+"s": "M1 1.15, M3 3.06",
+"x": "Garis panduan pengurusan risiko psikososial JKKP 2024.",
+"e": "PRisMA membimbing majikan menilai stres kerja dan buli di tempat kerja."
 },
 {
 "g": "N–P",
 "a": "PSC",
 "m": "Psychosocial Safety Climate",
-"s": "M3 3.06"
+"s": "M3 3.06",
+"x": "Iklim keselamatan psikososial, iaitu sejauh mana pengurusan mengutamakan kesihatan psikologi pekerja.",
+"e": "Organisasi dengan PSC tinggi melaporkan kurang kes kemurungan dan keletihan melampau."
 },
 {
 "g": "N–P",
 "a": "PSQ",
 "m": "Perceived Stress Questionnaire",
-"s": "M3 3.06"
+"s": "M3 3.06",
+"x": "Soal selidik untuk mengukur tekanan yang dirasai.",
+"e": "PSQ diberikan kepada pekerja selepas penyusunan semula organisasi."
 },
 {
 "g": "N–P",
 "a": "PSS",
 "m": "Perceived Stress Scale",
-"s": "M3 3.06"
+"s": "M3 3.06",
+"x": "Skala untuk mengukur sejauh mana seseorang merasakan hidupnya tertekan.",
+"e": "Skor PSS yang tinggi menunjukkan pekerja memerlukan sokongan."
 },
 {
 "g": "N–P",
 "a": "PSTS",
 "m": "Permanent Standard Threshold Shift",
-"s": "M1 1.09"
+"s": "M1 1.09",
+"x": "Anjakan ambang piawai yang kekal selepas ujian ulangan.",
+"e": "PSTS yang disahkan mesti dilaporkan dan kawalan bising dikaji semula."
 },
 {
 "g": "N–P",
 "a": "PTFE",
 "m": "Polytetrafluoroethylene",
-"s": "M3 3.13"
+"s": "M3 3.13",
+"x": "Politetrafluoroetilena (Teflon), bahan lengai untuk penapis dan bekas sampel.",
+"e": "Penapis PTFE digunakan untuk persampelan aerosol asid."
 },
 {
 "g": "N–P",
 "a": "PTP",
 "m": "Psychosocial Trained Person",
-"s": "M3 3.01A"
+"s": "M3 3.01A",
+"x": "Orang terlatih psikososial yang menjalankan penilaian risiko psikososial.",
+"e": "PTP mentadbir soal selidik stres dan mencadangkan kawalan."
 },
 {
 "g": "N–P",
 "a": "PTW",
 "m": "Permit-to-Work",
-"s": "M1 1.01, 1.03"
+"s": "M1 1.01, 1.03",
+"x": "Sistem permit kerja untuk kerja berisiko tinggi seperti kerja panas dan ruang terkurung.",
+"e": "PTW kerja panas menetapkan pemeriksaan kawasan, FW dan alat pemadam api."
 },
 {
 "g": "N–P",
 "a": "P.U. (B)",
 "m": "Pemberitahuan Undang-Undang (B) (Gazette notice)",
-"s": "Act 302"
+"s": "Act 302",
+"x": "Pemberitahuan Undang-Undang (B), notis dalam Warta Kerajaan.",
+"e": "Pelantikan tarikh kuat kuasa diterbitkan sebagai P.U. (B)."
 },
 {
 "g": "N–P",
 "a": "PVA",
 "m": "Polyvinyl Alcohol (gloves)",
-"s": "M3 3.10"
+"s": "M3 3.10",
+"x": "Polivinil alkohol, bahan sarung tangan yang tahan pelarut organik tetapi rosak apabila terkena air.",
+"e": "Sarung tangan PVA sesuai untuk mengendalikan toluena."
 },
 {
 "g": "N–P",
 "a": "PVC",
 "m": "Polyvinyl Chloride",
-"s": "M3 3.10, M4 4.05"
+"s": "M3 3.10, M4 4.05",
+"x": "Polivinil klorida, plastik untuk sarung tangan, apron dan paip.",
+"e": "Apron PVC melindungi pekerja daripada percikan asid cair."
 },
 {
 "g": "N–P",
 "a": "PWC",
 "m": "Principal work contractor (as abbreviated in the CDM slides)",
-"s": "M1 1.11"
+"s": "M1 1.11",
+"x": "Kontraktor kerja utama, singkatan yang digunakan dalam slaid CDM.",
+"e": "Sama peranannya dengan PC (Kontraktor Utama)."
 },
 {
 "g": "Q–S",
 "a": "QHS",
 "m": "Quantity of Hazardous Substance (compared with TQ)",
-"s": "M1 1.06"
+"s": "M1 1.06",
+"x": "Kuantiti bahan berbahaya dalam premis, yang dibandingkan dengan kuantiti ambang (TQ).",
+"e": "Jika QHS ammonia melebihi TQ, premis itu ialah MHI di bawah CIMAH."
 },
 {
 "g": "Q–S",
 "a": "QMS",
 "m": "Quality Management System (ISO 9000)",
-"s": "M1 1.01"
+"s": "M1 1.01",
+"x": "Sistem pengurusan kualiti berdasarkan ISO 9001.",
+"e": "QMS dan OSHMS boleh diintegrasikan kerana berkongsi HLS."
 },
 {
 "g": "Q–S",
 "a": "RAPP",
 "m": "Risk Assessment of Pushing and Pulling",
-"s": "M3 3.08"
+"s": "M3 3.08",
+"x": "Alat HSE UK untuk menilai risiko kerja menolak dan menarik.",
+"e": "RAPP menilai pekerja yang menolak troli berat di gudang."
 },
 {
 "g": "Q–S",
 "a": "RBI",
 "m": "Risk-Based Inspection",
-"s": "M1 1.13"
+"s": "M1 1.13",
+"x": "Pemeriksaan berasaskan risiko yang menetapkan kekerapan pemeriksaan mengikut PoF dan CoF.",
+"e": "Bekas tekanan berisiko rendah diperiksa kurang kerap di bawah RBI."
 },
 {
 "g": "Q–S",
 "a": "RCA",
 "m": "Root Cause Analysis",
-"s": "M1 1.01"
+"s": "M1 1.01",
+"x": "Analisis punca akar untuk mencari sebab sebenar kemalangan.",
+"e": "Teknik \"5 Mengapa\" dalam RCA mendapati penyelenggaraan tidak dijadualkan."
 },
 {
 "g": "Q–S",
 "a": "REBA",
 "m": "Rapid Entire Body Assessment",
-"s": "M3 3.08"
+"s": "M3 3.08",
+"x": "Penilaian pantas seluruh badan bagi postur kerja.",
+"e": "Skor REBA 11 menunjukkan risiko sangat tinggi dan perubahan diperlukan segera."
 },
 {
 "g": "Q–S",
 "a": "REL",
 "m": "Recommended Exposure Limit (NIOSH USA)",
-"s": "M3 3.03"
+"s": "M3 3.03",
+"x": "Had pendedahan yang disyorkan oleh NIOSH Amerika Syarikat.",
+"e": "REL benzena NIOSH lebih ketat daripada PEL OSHA AS."
 },
 {
 "g": "Q–S",
 "a": "RH",
 "m": "Relative Humidity",
-"s": "M3 3.16"
+"s": "M3 3.16",
+"x": "Kelembapan relatif udara dalam peratus.",
+"e": "ICOP IAQ menetapkan RH dalaman antara 40% dan 70%."
 },
 {
 "g": "Q–S",
 "a": "RICE",
 "m": "Rest, Ice, Compression, Elevation",
-"s": "M4 4.05"
+"s": "M4 4.05",
+"x": "Rehat, Ais, Mampatan, Naikkan untuk kecederaan tisu lembut.",
+"e": "Pekerja yang terseliuh pergelangan kaki dirawat dengan RICE."
 },
 {
 "g": "Q–S",
 "a": "RM",
 "m": "Ringgit Malaysia",
-"s": "M1"
+"s": "M1",
+"x": "Ringgit Malaysia.",
+"e": "Denda maksimum bagi kesalahan s.15 ialah RM500,000."
 },
 {
 "g": "Q–S",
 "a": "ROE",
 "m": "Routes of Exposure",
-"s": "M3 3.04"
+"s": "M3 3.04",
+"x": "Laluan pendedahan bahan kimia: penyedutan, kulit, mulut dan suntikan.",
+"e": "Penyedutan ialah ROE paling biasa di tempat kerja."
 },
 {
 "g": "Q–S",
 "a": "ROSA",
 "m": "Rapid Office Strain Assessment",
-"s": "M3 3.08"
+"s": "M3 3.08",
+"x": "Penilaian pantas tekanan kerja pejabat.",
+"e": "ROSA menilai kerusi, monitor, papan kekunci dan telefon di stesen kerja."
 },
 {
 "g": "Q–S",
 "a": "RPE",
 "m": "Respiratory Protective Equipment",
-"s": "M3 3.10, M4 4.05"
+"s": "M3 3.10, M4 4.05",
+"x": "Kelengkapan pelindung pernafasan, termasuk APR dan SAR.",
+"e": "RPE mesti diuji kesesuaian (fit test) untuk setiap pemakai."
 },
 {
 "g": "Q–S",
 "a": "RPM",
 "m": "Revolutions per minute",
-"s": "M2 2.10"
+"s": "M2 2.10",
+"x": "Pusingan per minit.",
+"e": "Kelajuan maksimum RPM tertera pada cakera pengisar; jangan dilebihi."
 },
 {
 "g": "Q–S",
 "a": "RPO / RTO",
 "m": "Recovery Point Objective / Recovery Time Objective",
-"s": "M4 4.05"
+"s": "M4 4.05",
+"x": "RPO ialah jumlah data maksimum yang boleh hilang; RTO ialah masa sasaran untuk memulihkan sistem.",
+"e": "RPO 1 jam dan RTO 4 jam bagi sistem pesanan pelanggan."
 },
 {
 "g": "Q–S",
 "a": "RR",
 "m": "Relative Risk",
-"s": "M3 3.02"
+"s": "M3 3.02",
+"x": "Risiko relatif: kadar penyakit dalam kumpulan terdedah dibahagi kadar dalam kumpulan tidak terdedah.",
+"e": "RR = 4 bermakna pekerja terdedah 4 kali lebih berisiko."
 },
 {
 "g": "Q–S",
 "a": "RTW",
 "m": "Return to Work (PERKESO programme)",
-"s": "M1 1.16"
+"s": "M1 1.16",
+"x": "Program Kembali Bekerja PERKESO yang memulihkan pekerja cedera supaya dapat bekerja semula.",
+"e": "Pekerja yang cedera tulang belakang menjalani fisioterapi di bawah RTW."
 },
 {
 "g": "Q–S",
 "a": "RULA",
 "m": "Rapid Upper Limb Assessment",
-"s": "M3 3.08"
+"s": "M3 3.08",
+"x": "Penilaian pantas anggota atas: leher, badan dan lengan.",
+"e": "Skor RULA tinggi bagi juruwang yang kerap memusingkan badan."
 },
 {
 "g": "Q–S",
 "a": "RWL",
 "m": "Recommended Weight Limit (NIOSH lifting equation)",
-"s": "M3 3.08"
+"s": "M3 3.08",
+"x": "Had berat yang disyorkan dalam persamaan angkat NIOSH.",
+"e": "Jika RWL dikira 12 kg dan beban 18 kg, indeks angkat 1.5 menunjukkan risiko."
 },
 {
 "g": "Q–S",
 "a": "SABA",
 "m": "Supplied Air Breathing Apparatus",
-"s": "M4 4.05"
+"s": "M4 4.05",
+"x": "Alat pernafasan yang dibekalkan udara melalui hos dari sumber luar.",
+"e": "SABA digunakan untuk kerja lama di dalam tangki yang kekurangan oksigen."
 },
 {
 "g": "Q–S",
 "a": "SAMM",
 "m": "Skim Akreditasi Makmal Malaysia (lab accreditation)",
-"s": "M3 3.13"
+"s": "M3 3.13",
+"x": "Skim Akreditasi Makmal Malaysia di bawah Jabatan Standard Malaysia.",
+"e": "Makmal analisis sampel higiene diakreditasi oleh SAMM."
 },
 {
 "g": "Q–S",
 "a": "SAR",
 "m": "Supplied Air Respirator",
-"s": "M4 4.05"
+"s": "M4 4.05",
+"x": "Respirator yang dibekalkan udara bersih melalui hos.",
+"e": "Pengecat semburan di bilik tertutup menggunakan SAR."
 },
 {
 "g": "Q–S",
 "a": "SBI",
 "m": "Serious Bodily Injury",
-"s": "M4 4.01"
+"s": "M4 4.01",
+"x": "Kecederaan tubuh yang serius seperti dalam Jadual Keempat Akta 514.",
+"e": "Patah tulang dan kudung jari ialah SBI."
 },
 {
 "g": "Q–S",
 "a": "SBP",
 "m": "Skim Bencana Pekerjaan (employment injury scheme)",
-"s": "M1 1.16"
+"s": "M1 1.16",
+"x": "Skim Bencana Pekerjaan PERKESO yang melindungi kecederaan dan penyakit akibat kerja.",
+"e": "Pekerja yang cedera dalam perjalanan ke tempat kerja dilindungi SBP."
 },
 {
 "g": "Q–S",
 "a": "SBS",
 "m": "Sick Building Syndrome",
-"s": "M3 3.16"
+"s": "M3 3.16",
+"x": "Sindrom bangunan sakit: gejala yang hilang apabila meninggalkan bangunan.",
+"e": "Pekerja pejabat sakit kepala dan mata gatal tetapi pulih selepas pulang; tanda SBS."
 },
 {
 "g": "Q–S",
 "a": "SCBA",
 "m": "Self-Contained Breathing Apparatus",
-"s": "M4 4.05"
+"s": "M4 4.05",
+"x": "Alat pernafasan serba lengkap dengan tong udara yang dibawa sendiri.",
+"e": "Pasukan penyelamat memakai SCBA untuk masuk ke ruang yang dipenuhi asap."
 },
 {
 "g": "Q–S",
 "a": "SDGs",
 "m": "Sustainable Development Goals (UN)",
-"s": "M3 3.10"
+"s": "M3 3.10",
+"x": "Matlamat Pembangunan Mampan PBB.",
+"e": "SDG 8 menekankan pekerjaan yang layak dan tempat kerja yang selamat."
 },
 {
 "g": "Q–S",
 "a": "SDS",
 "m": "Safety Data Sheet",
-"s": "M1 1.01, 1.03, 1.08, 1.15, M3"
+"s": "M1 1.01, 1.03, 1.08, 1.15, M3",
+"x": "Helaian data keselamatan 16 bahagian bagi bahan kimia berbahaya.",
+"e": "Bahagian 8 SDS menyatakan had pendedahan dan PPE yang sesuai."
 },
 {
 "g": "Q–S",
 "a": "Sec.",
 "m": "Section",
-"s": "M1 1.19"
+"s": "M1 1.19",
+"x": "Singkatan \"Section\" (seksyen).",
+"e": "\"Sec. 60A\" dalam Akta Kerja."
 },
 {
 "g": "Q–S",
 "a": "SEG",
 "m": "Similar Exposure Group",
-"s": "M3 3.13"
+"s": "M3 3.13",
+"x": "Kumpulan pekerja dengan profil pendedahan yang serupa.",
+"e": "Semua pengendali mesin cat di satu barisan dijadikan satu SEG untuk persampelan."
 },
 {
 "g": "Q–S",
 "a": "SHC",
 "m": "Safety and Health Committee",
-"s": "M1 1.01, 1.03, 1.05, Act 514 (full)"
+"s": "M1 1.01, 1.03, 1.05, Act 514 (full)",
+"x": "Jawatankuasa Keselamatan dan Kesihatan yang wajib ditubuhkan jika ada 40 pekerja atau lebih (s.30).",
+"e": "SHC bermesyuarat sekurang-kurangnya sekali setiap 3 bulan."
 },
 {
 "g": "Q–S",
 "a": "SHE Code",
 "m": "Safety, Health and Environment Code (Transportation Sector, 2007)",
-"s": "M1 1.15"
+"s": "M1 1.15",
+"x": "Kod keselamatan, kesihatan dan alam sekitar bagi sektor pengangkutan.",
+"e": "Syarikat pengangkutan bahan kimia mesti mematuhi SHE Code."
 },
 {
 "g": "Q–S",
 "a": "SHO",
 "m": "Safety and Health Officer",
-"s": "M1, M2, Act 514 (full)"
+"s": "M1, M2, Act 514 (full)",
+"x": "Pegawai Keselamatan dan Kesihatan yang dilantik di bawah s.29 Akta 514.",
+"e": "Tapak bina yang besar mesti melantik SHO sepenuh masa."
 },
 {
 "g": "Q–S",
 "a": "SI",
 "m": "International System of Units",
-"s": "M3 3.18"
+"s": "M3 3.18",
+"x": "Sistem Unit Antarabangsa.",
+"e": "Unit SI bagi dos sinaran ialah sievert (Sv)."
 },
 {
 "g": "Q–S",
 "a": "SIP",
 "m": "Sistem Insurans Pekerjaan (Employment Insurance System)",
-"s": "M1 1.16"
+"s": "M1 1.16",
+"x": "Sistem Insurans Pekerjaan di bawah Akta 800.",
+"e": "Pekerja yang diberhentikan memohon faedah SIP dalam masa 60 hari."
 },
 {
 "g": "Q–S",
 "a": "SiRAC",
 "m": "Simple Risk Assessment and Control (for chemicals)",
-"s": "M1 1.15, M3 3.10"
+"s": "M1 1.15, M3 3.10",
+"x": "Kaedah penilaian dan kawalan risiko kimia ringkas untuk PKS.",
+"e": "Kedai bengkel kecil menggunakan SiRAC untuk menilai cat dan pelarut."
 },
 {
 "g": "Q–S",
 "a": "SIRIM",
 "m": "SIRIM Berhad, Malaysia's standards and industrial research body",
-"s": "M1 1.01, 1.17"
+"s": "M1 1.01, 1.17",
+"x": "SIRIM Berhad, badan standard dan penyelidikan perindustrian Malaysia.",
+"e": "Topi keledar motosikal mesti berlabel SIRIM."
 },
 {
 "g": "Q–S",
 "a": "SKSPS",
 "m": "Skim Keselamatan Sosial Pekerjaan Sendiri",
-"s": "M1 1.16"
+"s": "M1 1.16",
+"x": "Skim Keselamatan Sosial Pekerjaan Sendiri di bawah Akta 789.",
+"e": "Penjaja dan pemandu e-hailing mencarum dalam SKSPS."
 },
 {
 "g": "Q–S",
 "a": "SKSSR",
 "m": "Skim Keselamatan Sosial Suri Rumah",
-"s": "M1 1.16"
+"s": "M1 1.16",
+"x": "Skim Keselamatan Sosial Suri Rumah di bawah Akta 838.",
+"e": "Suri rumah dilindungi SKSSR jika cedera semasa membuat kerja rumah."
 },
 {
 "g": "Q–S",
 "a": "SMART",
 "m": "Simple, Measurable, Achievable, Reasonable, Tractable (as defined in the slides)",
-"s": "M1 1.02"
+"s": "M1 1.02",
+"x": "Kriteria objektif mengikut takrif slaid: ringkas, boleh diukur, boleh dicapai, munasabah dan boleh dijejak.",
+"e": "Objektif SMART: kurangkan LTI 20% menjelang Disember 2027."
 },
 {
 "g": "Q–S",
 "a": "SME",
 "m": "Small and Medium Enterprise",
-"s": "M1 1.16"
+"s": "M1 1.16",
+"x": "Perusahaan kecil dan sederhana.",
+"e": "SME sering tiada SHO, jadi perlu melantik penyelaras KKP."
 },
 {
 "g": "Q–S",
 "a": "SMIs",
 "m": "Small and Medium Industries",
-"s": "M3 3.02"
+"s": "M3 3.02",
+"x": "Industri kecil dan sederhana.",
+"e": "SMIs dikaji dalam statistik penyakit pekerjaan."
 },
 {
 "g": "Q–S",
 "a": "SOCSO",
 "m": "Social Security Organisation (= PERKESO)",
-"s": "M1 1.03, M3 3.08"
+"s": "M1 1.03, M3 3.08",
+"x": "Pertubuhan Keselamatan Sosial (PERKESO).",
+"e": "SOCSO membayar faedah hilang upaya akibat kemalangan kerja."
 },
 {
 "g": "Q–S",
 "a": "SOEM-MMA",
 "m": "OSH NGO listed in 3.01A (not spelled out)",
-"s": "M3 3.01A"
+"s": "M3 3.01A",
+"x": "NGO KKP yang disenaraikan dalam Modul 3.01A; nama penuhnya tidak dieja dalam slaid.",
+"e": "Disebut sebagai salah satu persatuan dalam kesihatan pekerjaan."
 },
 {
 "g": "Q–S",
 "a": "SOHELP",
 "m": "DOSH occupational health programme (noise, chemical, ergonomics)",
-"s": "M1 1.01, M3 3.01B"
+"s": "M1 1.01, M3 3.01B",
+"x": "Program kesihatan pekerjaan JKKP yang memberi fokus kepada bising, kimia dan ergonomik.",
+"e": "SOHELP membantu majikan mengurus tiga bahaya kesihatan utama."
 },
 {
 "g": "Q–S",
 "a": "SOP",
 "m": "Standard Operating Procedure",
-"s": "M1 1.01, 1.03, M2, M3"
+"s": "M1 1.01, 1.03, M2, M3",
+"x": "Prosedur operasi standard, iaitu langkah kerja bertulis.",
+"e": "SOP mengendalikan forklift menetapkan pemeriksaan sebelum guna."
 },
 {
 "g": "Q–S",
 "a": "SPL",
 "m": "Sound Pressure Level",
-"s": "M1 1.09"
+"s": "M1 1.09",
+"x": "Aras tekanan bunyi dalam desibel.",
+"e": "Meter aras bunyi menunjukkan SPL 92 dB(A) berhampiran mesin penebuk."
 },
 {
 "g": "Q–S",
 "a": "S-PMA",
 "m": "S-Phenylmercapturic Acid (benzene biomarker)",
-"s": "M3 3.04, 3.14"
+"s": "M3 3.04, 3.14",
+"x": "Asid S-fenilmerkapturik, biomarker benzena dalam air kencing.",
+"e": "Pekerja kilang petrokimia diuji untuk S-PMA bagi menilai pendedahan benzena."
 },
 {
 "g": "Q–S",
 "a": "SPS",
 "m": "Act 789 scheme (not spelled out in the slides)",
-"s": "M1 1.16"
+"s": "M1 1.16",
+"x": "Skim di bawah Akta 789 (pekerjaan sendiri); tidak dieja penuh dalam slaid.",
+"e": "Berkaitan perlindungan PERKESO bagi orang yang bekerja sendiri."
 },
 {
 "g": "Q–S",
 "a": "SSI",
 "m": "Special Scheme of Inspection",
-"s": "M1 1.01, 1.13, M2 2.07"
+"s": "M1 1.01, 1.13, M2 2.07",
+"x": "Skim Pemeriksaan Khas yang membenarkan selang pemeriksaan loji lebih panjang jika syarat dipenuhi.",
+"e": "Dandang di bawah SSI boleh diperiksa setiap beberapa tahun dan bukan setiap tahun."
 },
 {
 "g": "Q–S",
 "a": "SSS",
 "m": "Site Safety Supervisor",
-"s": "M1 1.11"
+"s": "M1 1.11",
+"x": "Penyelia Keselamatan Tapak yang mengawasi keselamatan di tapak bina.",
+"e": "SSS memeriksa perancah setiap pagi sebelum kerja dimulakan."
 },
 {
 "g": "Q–S",
 "a": "STEL",
 "m": "Short-Term Exposure Limit",
-"s": "M3 3.03"
+"s": "M3 3.03",
+"x": "Had pendedahan jangka pendek, iaitu purata 15 minit.",
+"e": "Pendedahan 15 minit kepada ammonia tidak boleh melebihi STEL 35 ppm."
 },
 {
 "g": "Q–S",
 "a": "STF",
 "m": "Slips, Trips and Falls",
-"s": "M2 2.16"
+"s": "M2 2.16",
+"x": "Tergelincir, tersandung dan terjatuh.",
+"e": "Lantai basah tanpa papan amaran ialah risiko STF."
 },
 {
 "g": "Q–S",
 "a": "STS",
 "m": "Standard Threshold Shift",
-"s": "M1 1.09"
+"s": "M1 1.09",
+"x": "Anjakan ambang piawai: purata perubahan pendengaran 10 dB atau lebih pada 2, 3 dan 4 kHz berbanding audiogram asas.",
+"e": "STS memerlukan ujian ulangan dan kajian semula kawalan bising."
 },
 {
 "g": "Q–S",
 "a": "SWIFT",
 "m": "Structured What-If Technique",
-"s": "M4 4.02"
+"s": "M4 4.02",
+"x": "Teknik \"bagaimana jika\" berstruktur untuk mengenal pasti bahaya.",
+"e": "SWIFT bertanya \"bagaimana jika bekalan kuasa terputus semasa proses?\"."
 },
 {
 "g": "Q–S",
 "a": "Swk.",
 "m": "Sarawak",
-"s": "Act 302"
+"s": "Act 302",
+"x": "Singkatan \"Sarawak\".",
+"e": "\"Swk. Cap.\" dalam rujukan undang-undang Sarawak."
 },
 {
 "g": "Q–S",
 "a": "SWL",
 "m": "Safe Working Load",
-"s": "M2 2.06, 2.07"
+"s": "M2 2.06, 2.07",
+"x": "Beban kerja selamat, iaitu beban maksimum yang dibenarkan untuk alat angkat.",
+"e": "Anduh bertanda SWL 2 tan tidak boleh digunakan untuk mengangkat beban 3 tan."
 },
 {
 "g": "Q–S",
 "a": "SWOT",
 "m": "Strengths, Weaknesses, Opportunities, Threats",
-"s": "M4 4.03"
+"s": "M4 4.03",
+"x": "Analisis kekuatan, kelemahan, peluang dan ancaman.",
+"e": "SWOT mendapati pasukan ERT yang terlatih ialah kekuatan program keselamatan."
 },
 {
 "g": "Q–S",
 "a": "SWP",
 "m": "Safe Work Procedure",
-"s": "M4 4.04"
+"s": "M4 4.04",
+"x": "Prosedur kerja selamat bertulis bagi sesuatu tugas.",
+"e": "SWP memotong kepingan logam menyatakan PPE dan langkah LOTO."
 },
 {
 "g": "T–Z",
 "a": "TapRooT",
 "m": "Root-cause analysis method (trade name)",
-"s": "M4 4.05"
+"s": "M4 4.05",
+"x": "Kaedah analisis punca akar (jenama dagangan) untuk penyiasatan insiden.",
+"e": "TapRooT digunakan untuk menyiasat kebocoran gas di loji."
 },
 {
 "g": "T–Z",
 "a": "TB",
 "m": "Tuberculosis",
-"s": "M3 3.17"
+"s": "M3 3.17",
+"x": "Tuberkulosis, penyakit paru-paru berjangkit yang disebabkan oleh bakteria.",
+"e": "Petugas kesihatan memakai respirator N95 semasa merawat pesakit TB."
 },
 {
 "g": "T–Z",
 "a": "TBI",
 "m": "Time-Based Inspection",
-"s": "M1 1.13"
+"s": "M1 1.13",
+"x": "Pemeriksaan berasaskan masa mengikut selang tetap.",
+"e": "Dandang biasa diperiksa setiap 15 bulan di bawah TBI."
 },
 {
 "g": "T–Z",
 "a": "TCDD",
 "m": "2,3,7,8-Tetrachlorodibenzo-p-dioxin (Seveso dioxin)",
-"s": "M1 1.06"
+"s": "M1 1.06",
+"x": "Dioksin yang sangat toksik, terlepas dalam kemalangan Seveso, Itali, pada 1976.",
+"e": "Kemalangan Seveso membawa kepada Arahan Seveso EU tentang bahaya besar."
 },
 {
 "g": "T–Z",
 "a": "TCE",
 "m": "Trichloroethylene",
-"s": "M3 3.13"
+"s": "M3 3.13",
+"x": "Trikloroetilena, pelarut penyahgris logam.",
+"e": "TCE ialah karsinogen manusia dan perlu dikawal dengan LEV."
 },
 {
 "g": "T–Z",
 "a": "TEA",
 "m": "Triethanolamine",
-"s": "M3 3.13"
+"s": "M3 3.13",
+"x": "Trietanolamina, bahan dalam cecair pemotong logam dan kosmetik.",
+"e": "Sampel udara bagi TEA diambil di bengkel mesin."
 },
 {
 "g": "T–Z",
 "a": "TLD",
 "m": "Thermoluminescent Dosimeter",
-"s": "M3 3.18"
+"s": "M3 3.18",
+"x": "Dosimeter termoluminesens untuk mengukur dos sinaran yang diterima.",
+"e": "Pekerja radiografi memakai TLD di dada."
 },
 {
 "g": "T–Z",
 "a": "TLV",
 "m": "Threshold Limit Value",
-"s": "M1 1.01, M3 3.02, 3.03"
+"s": "M1 1.01, M3 3.02, 3.03",
+"x": "Nilai had ambang ACGIH, iaitu kepekatan yang hampir semua pekerja boleh terdedah setiap hari tanpa kesan buruk.",
+"e": "TLV-TWA bagi karbon monoksida ialah 25 ppm."
 },
 {
 "g": "T–Z",
 "a": "TNB",
 "m": "Tenaga Nasional Berhad",
-"s": "M3 3.01B"
+"s": "M3 3.01B",
+"x": "Tenaga Nasional Berhad.",
+"e": "Disebut sebagai contoh organisasi dalam program kesihatan pekerjaan."
 },
 {
 "g": "T–Z",
 "a": "TP",
 "m": "Training Provider (registered)",
-"s": "M1 1.03, Act 514 (full)"
+"s": "M1 1.03, Act 514 (full)",
+"x": "Penyedia latihan yang berdaftar dengan JKKP (s.31B Akta 514).",
+"e": "Kursus AESP hanya boleh dijalankan oleh TP berdaftar."
 },
 {
 "g": "T–Z",
 "a": "TQ",
 "m": "Threshold Quantity",
-"s": "M1 1.06"
+"s": "M1 1.06",
+"x": "Kuantiti ambang bahan berbahaya di bawah CIMAH.",
+"e": "Klorin mempunyai TQ tertentu; melebihinya menjadikan premis itu MHI."
 },
 {
 "g": "T–Z",
 "a": "TRIFR",
 "m": "Total Recordable Injury Frequency Rate",
-"s": "M1 1.01"
+"s": "M1 1.01",
+"x": "Kadar kekerapan jumlah kecederaan boleh rekod, termasuk kes rawatan perubatan.",
+"e": "TRIFR = (jumlah kecederaan boleh rekod × 1,000,000) ÷ jumlah jam kerja."
 },
 {
 "g": "T–Z",
 "a": "TVOC",
 "m": "Total Volatile Organic Compounds",
-"s": "M3 3.16"
+"s": "M3 3.16",
+"x": "Jumlah sebatian organik meruap dalam udara dalaman.",
+"e": "TVOC tinggi di pejabat yang baru dicat menyebabkan sakit kepala."
 },
 {
 "g": "T–Z",
 "a": "TWA",
 "m": "Time-Weighted Average",
-"s": "M1 1.07, M3 3.03"
+"s": "M1 1.07, M3 3.03",
+"x": "Purata wajaran masa, biasanya bagi 8 jam sehari.",
+"e": "Sampel 8 jam toluena memberi TWA 40 ppm, di bawah PEL 50 ppm."
 },
 {
 "g": "T–Z",
 "a": "UBBL",
 "m": "Uniform Building By-Laws",
-"s": "M1 1.20 (full), M2 2.15"
+"s": "M1 1.20 (full), M2 2.15",
+"x": "Undang-Undang Kecil Bangunan Seragam 1984 yang menetapkan keperluan bangunan termasuk keselamatan kebakaran.",
+"e": "UBBL menetapkan jarak perjalanan maksimum ke laluan keluar kebakaran."
 },
 {
 "g": "T–Z",
 "a": "UiTM",
 "m": "Universiti Teknologi MARA",
-"s": "M1 1.17"
+"s": "M1 1.17",
+"x": "Universiti Teknologi MARA.",
+"e": "Kajian keselamatan jalan raya UiTM dipetik dalam Modul 1."
 },
 {
 "g": "T–Z",
 "a": "UKAS",
 "m": "United Kingdom Accreditation Service",
-"s": "M3 3.13"
+"s": "M3 3.13",
+"x": "Perkhidmatan Akreditasi United Kingdom.",
+"e": "Makmal yang diakreditasi UKAS diiktiraf di peringkat antarabangsa."
 },
 {
 "g": "T–Z",
 "a": "UKM / UM / UPM",
 "m": "Universiti Kebangsaan Malaysia / Universiti Malaya / Universiti Putra Malaysia",
-"s": "M3 3.01A"
+"s": "M3 3.01A",
+"x": "Universiti Kebangsaan Malaysia, Universiti Malaya dan Universiti Putra Malaysia.",
+"e": "Universiti ini menawarkan program kesihatan pekerjaan dan menyokong penyelidikan KKP."
 },
 {
 "g": "T–Z",
 "a": "UN",
 "m": "United Nations",
-"s": "M1 1.08"
+"s": "M1 1.08",
+"x": "Pertubuhan Bangsa-Bangsa Bersatu.",
+"e": "GHS dibangunkan di bawah PBB (UN)."
 },
 {
 "g": "T–Z",
 "a": "UNDP",
 "m": "United Nations Development Programme",
-"s": "M3 3.06"
+"s": "M3 3.06",
+"x": "Program Pembangunan Pertubuhan Bangsa-Bangsa Bersatu.",
+"e": "Laporan UNDP dirujuk dalam topik kesejahteraan psikososial."
 },
 {
 "g": "T–Z",
 "a": "UPLIRA",
 "m": "Upper Limbs Risk Assessment",
-"s": "M3 3.08"
+"s": "M3 3.08",
+"x": "Kaedah penilaian risiko anggota atas.",
+"e": "UPLIRA menilai pekerja yang kerap mengangkat tangan melebihi paras bahu."
 },
 {
 "g": "T–Z",
 "a": "UPS",
 "m": "Uninterruptible Power Supply",
-"s": "M2 2.09"
+"s": "M2 2.09",
+"x": "Bekalan kuasa tanpa gangguan, iaitu bateri sandaran semasa bekalan elektrik terputus.",
+"e": "UPS memastikan sistem penggera kebakaran berfungsi semasa bekalan elektrik terputus."
 },
 {
 "g": "T–Z",
 "a": "USECHH",
 "m": "Use and Standards of Exposure of Chemicals Hazardous to Health",
-"s": "M1 1.01, 1.07, 1.13, M3, M4"
+"s": "M1 1.01, 1.07, 1.13, M3, M4",
+"x": "Peraturan Penggunaan dan Standard Pendedahan Bahan Kimia Berbahaya kepada Kesihatan 2000.",
+"e": "USECHH mewajibkan CHRA, pemantauan pendedahan dan pengawasan perubatan."
 },
 {
 "g": "T–Z",
 "a": "USEPA",
 "m": "US Environmental Protection Agency",
-"s": "M3 3.13"
+"s": "M3 3.13",
+"x": "Agensi Perlindungan Alam Sekitar Amerika Syarikat.",
+"e": "Kaedah persampelan USEPA digunakan untuk sebatian organik."
 },
 {
 "g": "T–Z",
 "a": "UV",
 "m": "Ultraviolet",
-"s": "M2 2.12, M3 3.04, 3.17, 3.18, M4 4.05"
+"s": "M2 2.12, M3 3.04, 3.17, 3.18, M4 4.05",
+"x": "Sinaran ultraungu daripada matahari atau arka kimpalan.",
+"e": "Pekerja binaan di luar perlu melindungi kulit daripada UV."
 },
 {
 "g": "T–Z",
 "a": "VKT",
 "m": "Vehicle Kilometres Travelled",
-"s": "M1 1.17"
+"s": "M1 1.17",
+"x": "Jumlah kilometer kenderaan yang dilalui.",
+"e": "Kadar kemalangan dikira per 100 juta VKT."
 },
 {
 "g": "T–Z",
 "a": "VOSI",
 "m": "Value of Serious (or Statistical) Injury",
-"s": "M1 1.17"
+"s": "M1 1.17",
+"x": "Nilai kewangan bagi satu kecederaan serius.",
+"e": "VOSI digunakan dalam analisis kos-manfaat langkah keselamatan jalan raya."
 },
 {
 "g": "T–Z",
 "a": "VOSL",
 "m": "Value of Statistical Life",
-"s": "M1 1.17"
+"s": "M1 1.17",
+"x": "Nilai statistik bagi satu nyawa yang digunakan dalam analisis kos-manfaat.",
+"e": "VOSL membantu menilai sama ada pembinaan pengadang jalan berbaloi."
 },
 {
 "g": "T–Z",
 "a": "VR / AR",
 "m": "Virtual Reality / Augmented Reality",
-"s": "M4 4.04"
+"s": "M4 4.04",
+"x": "Realiti maya (VR) dan realiti terimbuh (AR) untuk latihan dan simulasi.",
+"e": "Latihan pemadam api menggunakan VR membolehkan pekerja berlatih tanpa api sebenar."
 },
 {
 "g": "T–Z",
 "a": "VWF",
 "m": "Vibration-induced White Finger",
-"s": "M3 3.18"
+"s": "M3 3.18",
+"x": "Jari putih akibat getaran, iaitu jari menjadi pucat kerana saluran darah rosak.",
+"e": "Pengendali penukul pneumatik mengalami VWF apabila tangan sejuk."
 },
 {
 "g": "T–Z",
 "a": "WBGT",
 "m": "Wet Bulb Globe Temperature",
-"s": "M3 3.18"
+"s": "M3 3.18",
+"x": "Suhu bola basah dan glob, indeks tekanan haba yang mengambil kira suhu, kelembapan, sinaran dan angin.",
+"e": "Apabila bacaan WBGT tinggi, pekerja di luar perlu lebih kerap berehat di tempat teduh dan minum air."
 },
 {
 "g": "T–Z",
 "a": "WBV",
 "m": "Whole-Body Vibration",
-"s": "M3 3.18"
+"s": "M3 3.18",
+"x": "Getaran seluruh badan dari tempat duduk atau lantai kenderaan.",
+"e": "Pemandu jentera berat terdedah kepada WBV yang boleh menyebabkan sakit belakang."
 },
 {
 "g": "T–Z",
 "a": "WEEL",
 "m": "Workplace Environmental Exposure Level (AIHA)",
-"s": "M3 3.03"
+"s": "M3 3.03",
+"x": "Aras pendedahan persekitaran tempat kerja yang ditetapkan oleh AIHA.",
+"e": "WEEL dirujuk bagi bahan yang tiada TLV."
 },
 {
 "g": "T–Z",
 "a": "WEL",
 "m": "Workplace Exposure Limit (UK)",
-"s": "M3 3.03, 3.14"
+"s": "M3 3.03, 3.14",
+"x": "Had pendedahan tempat kerja di UK.",
+"e": "WEL dalam EH40 ialah had perundangan di UK."
 },
 {
 "g": "T–Z",
 "a": "WHO",
 "m": "World Health Organization",
-"s": "M3 3.01A, 3.11"
+"s": "M3 3.01A, 3.11",
+"x": "Pertubuhan Kesihatan Sedunia.",
+"e": "WHO mentakrifkan kesihatan sebagai kesejahteraan fizikal, mental dan sosial."
 },
 {
 "g": "T–Z",
 "a": "WPA",
 "m": "Listed as a course topic (not spelled out)",
-"s": "M1 1.01"
+"s": "M1 1.01",
+"x": "Topik kursus yang disenaraikan tanpa ejaan penuh dalam slaid.",
+"e": "Rujuk jadual kursus SHO untuk maksud sebenar."
 },
 {
 "g": "T–Z",
 "a": "WRRS",
 "m": "Work-Related Road Safety",
-"s": "M1 1.17"
+"s": "M1 1.17",
+"x": "Keselamatan jalan raya berkaitan kerja.",
+"e": "Program WRRS mengehadkan jam memandu dan mewajibkan rehat bagi pemandu syarikat."
 },
 {
 "g": "T–Z",
 "a": "WSQ",
 "m": "Work Stress Questionnaire",
-"s": "M3 3.06"
+"s": "M3 3.06",
+"x": "Soal selidik tekanan kerja.",
+"e": "WSQ digunakan untuk mengenal pasti faktor tekanan di jabatan."
 },
 {
 "g": "T–Z",
 "a": "XRD",
 "m": "X-Ray Diffraction",
-"s": "M3 3.13"
+"s": "M3 3.13",
+"x": "Pembelauan sinar-X untuk mengenal pasti mineral kristal.",
+"e": "XRD digunakan untuk mengukur silika kristal dalam sampel habuk."
 }
 ]

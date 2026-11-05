@@ -16,7 +16,7 @@ Each card shows:
 
 ## Deck 2: Akronim SHO
 
-411 acronyms and abbreviations from Akta 302, 514, 835 and 872 and Modules 1–4 (from the "SHO Acronyms – A to Z" doc). Each card shows the acronym, its meaning and where it appears (e.g. `M2 2.10` = Module 2, chapter 2.10). Filter by letter group or by source (Akta, M1–M4).
+411 acronyms and abbreviations from Akta 302, 514, 835 and 872 and Modules 1–4 (from the "SHO Acronyms – A to Z" doc). Each card shows the acronym, its meaning, a short explanation and an example in Bahasa Melayu, and where it appears (e.g. `M2 2.10` = Module 2, chapter 2.10). Filter by letter group or by source (Akta, M1–M4).
 
 ## Use
 
@@ -34,7 +34,7 @@ Open `index.html` in any browser (no install, no server). To host it, enable Git
 
 - `data/cards.json` — the cards (`ref`, `sec`, `title`, `p` = Bahagian, `gist`, `verbatim[]`)
 - `data/parts.json` — Bahagian names
-- `data/acronyms.json` — acronyms (`a` acronym, `m` meaning, `s` source, `g` letter group)
+- `data/acronyms.json` — acronyms (`a` acronym, `m` meaning, `x` short explanation, `e` example, `s` source, `g` letter group)
 - `tools/assemble.py` — rebuilds `index.html` from the template and the data
 - `tools/build.py` — parser that produced `cards.json` from `pdftotext` output of the gist notes and the official BM reprint (`gist.txt` with `-layout`, `act.txt` plain, `toc.txt` = pages 3–8 with `-layout`)
 - `tools/template.html` — page template; `__PARTS__` and `__CARDS__` are replaced with the JSON
