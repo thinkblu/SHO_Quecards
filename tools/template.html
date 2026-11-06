@@ -51,8 +51,6 @@ header { display: flex; align-items: flex-end; justify-content: space-between; g
 .sign { width: 46px; height: 46px; flex: none; }
 h1 { font-family: var(--f-display); font-weight: 400; font-size: clamp(1.4rem, 4.5vw, 2rem); line-height: 1; margin: 0; letter-spacing: -0.01em; }
 .sub { margin: 4px 0 0; color: var(--ink-soft); font-size: .9rem; }
-.stats { display: flex; gap: 8px; flex-wrap: wrap; }
-.stat { background: var(--chip); border: 2px solid var(--card-edge); border-radius: 999px; padding: 4px 12px; font-size: .85rem; font-weight: 700; font-variant-numeric: tabular-nums; box-shadow: 2px 2px 0 var(--card-edge); }
 
 /* filters */
 .filters { display: flex; gap: 6px; overflow-x: auto; padding: 2px 2px 8px; scrollbar-width: thin; }
@@ -162,9 +160,6 @@ h1 { font-family: var(--f-display); font-weight: 400; font-size: clamp(1.4rem, 4
         <p class="sub" id="deckSub">AKKP 1994 · cetakan semula 1 Jun 2024 · seksyen dipilih secara rawak</p>
       </div>
     </div>
-    <div class="stats">
-      <span class="stat" id="stSeen">0 / 0 dilihat</span>
-    </div>
   </header>
 
   <form class="jump" id="jumpForm" role="search">
@@ -231,7 +226,7 @@ const store = {
   set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
 };
 function mkState(key) {
-  return { key, seen: new Set(), groups: new Set(store.get(key + "-parts", [])), srcs: new Set(store.get(key + "-srcs", [])), deck: [], history: [], hpos: -1 };
+  return { key, groups: new Set(store.get(key + "-parts", [])), srcs: new Set(store.get(key + "-srcs", [])), deck: [], history: [], hpos: -1 };
 }
 const STATE = { akta: mkState("a514"), akr: mkState("akr") };
 let mode = store.get("cc-mode", "akta"); if (!STATE[mode]) mode = "akta";
@@ -288,7 +283,7 @@ function render() {
     document.documentElement.style.setProperty("--hue", "#FFC72C");
     document.documentElement.style.setProperty("--hue-ink", "#1C1830");
     cardEl.innerHTML = `<div class="empty">Tiada kad untuk tapisan ini.<br>Cuba buka tapisan lain.</div>`;
-    updateStats(); return;
+    return;
   }
   const hideG = quiz && !revealed.gist, hideV = quiz && !revealed.verb;
   let html;
@@ -363,12 +358,6 @@ function render() {
   cardEl.innerHTML = html;
   cardEl.classList.remove("deal"); void cardEl.offsetWidth; cardEl.classList.add("deal");
   cardEl.querySelectorAll(".veil").forEach(v => v.onclick = () => { revealed[v.dataset.r] = true; render(); });
-  st.seen.add(idx);
-  updateStats();
-}
-function updateStats() {
-  const st = S(), p = pool();
-  $("stSeen").textContent = `${p.filter(c => st.seen.has(c.i)).length} / ${p.length} dilihat`;
 }
 function toast(msg) { const t = $("toast"); t.textContent = msg; t.classList.add("on"); clearTimeout(toast.t); toast.t = setTimeout(() => t.classList.remove("on"), 1600); }
 
